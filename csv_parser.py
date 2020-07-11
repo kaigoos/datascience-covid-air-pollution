@@ -1,36 +1,9 @@
 import pandas as pd
-import os
 import glob
 
 
 class csvParser(object):
     # def __init__(self):
-
-    def create_file_list(self, path):
-        """
-        Create a list of files in the specified path
-        and return as a list.
-        """
-        try:
-            os.chdir(path)
-        except OSError:
-            print("Can't change the Current Working Directory")
-
-        file_list = []
-        for file in glob.glob("*.csv"):
-            file_list.append(file)
-
-        return file_list
-
-    def list_files(self, file_list):
-        """
-        List each file in the file_list with numerical ordering
-        """
-        num = 1
-        for file in file_list:
-            print(str(num) + ": " + file)
-            num += 1;
-
     def format_data(self, file):
         """
         Separate Date field into Year, Month, Data and remove
@@ -42,26 +15,28 @@ class csvParser(object):
         data[['Year', 'Month', 'Date']] = data.Date.apply(lambda x: pd.Series(str(x).split('-')))
         return data
 
+    def read_data(self, file):
+        """
+        Returns csv as dataframe, use only for Formatted or Modified data
+        """
+        data = pd.read_csv(file)
+        data["Year"] = data["Year"].astype(int)
+        return data
+
+
     def write_data(self, data, path, name):
         """
         Convert dataframe to csv and write to specified path.
         """
-        try:
-            #Move this to interface later
-            #print("Enter a name for the new file: ")
-            #file_name = str(input())
-            # Make sure the file ends with the .csv extension
-            #if file_name[-4:] != ".csv":
-            #    file_name += ".csv"
-            os.chdir(path)
-            data.to_csv(name, index=False)
-        except OSError:
-            print("Can't change the Current Working Directory")
+        data.to_csv(path + '/' + name, index=False)
 
-    def parse_by_column(self, data):
+    def parse_by_column(self, data, column, param):
         """
         Parse data based on column, INCOMPLETE
         """
-        data = data.loc[data['Specie'] == 'pm25']
-        data = data.loc[data['Country'] == 'CN']
+        matches = ["Country", "City", "Specie"]
+        if any(x in column for x in matches):
+            data = data.loc[data[column] == param]
+        else:
+            data = data.loc[data[column] == float(param)]
         return data
