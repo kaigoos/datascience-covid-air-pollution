@@ -23,7 +23,6 @@ class csvParser(object):
         data["Year"] = data["Year"].astype(int)
         return data
 
-
     def write_data(self, data, path, name):
         """
         Convert dataframe to csv and write to specified path.
@@ -40,3 +39,18 @@ class csvParser(object):
         else:
             data = data.loc[data[column] == float(param)]
         return data
+
+    def calc_data(self, data):
+        row_count = data.index
+        city_count = data.City.unique()
+        min_mean = data["min"].mean()
+        max_mean = data["max"].mean()
+        median_mean = data["median"].mean()
+        variance_mean = data["variance"].mean()
+        print(f"Rows: {row_count}")
+        print(f"Cities: {city_count.size}")
+        print(f"Average minimum: {min_mean}")
+        print(f"Average maximum: {max_mean}")
+        print(f"Average median: {median_mean}")
+        print(f"Average variance: {variance_mean}")
+
