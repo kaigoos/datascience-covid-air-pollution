@@ -77,7 +77,7 @@ def parse_data():
         if cont == 0:
             flag = True
 
-    if data.empty():
+    if data.empty is True:
         print("Empty data cannot be saved")
         return
 
