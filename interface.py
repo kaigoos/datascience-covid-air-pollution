@@ -71,8 +71,8 @@ def parse_data():
 
     while flag is False:
         column = input('Enter column name: ')
-        param = input('Enter parameter name: ')
-        data = parser.parse_by_column(data, column, param)
+        param = input('Enter parameter name: ').split()
+        data = parser.parse_by_column(data, column, *param)
         cont = int(input('Continue 1, Stop 0: '))
         if cont == 0:
             flag = True

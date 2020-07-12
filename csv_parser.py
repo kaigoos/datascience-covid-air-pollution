@@ -29,16 +29,24 @@ class csvParser(object):
         """
         data.to_csv(path + '/' + name, index=False)
 
-    def parse_by_column(self, data, column, param):
+    def parse_by_column(self, data, column, *args):
         """
         Parse data based on column, INCOMPLETE
         """
         matches = ["Country", "City", "Specie"]
-        if any(x in column for x in matches):
-            data = data.loc[data[column] == param]
-        else:
-            data = data.loc[data[column] == float(param)]
-        return data
+        temp = pd.DataFrame()
+        for param in args:
+            if any(x in column for x in matches):
+                if temp.empty is True:
+                    temp = data.loc[data[column] == param]
+                else:
+                    temp = temp.append(data.loc[data[column] == param])
+            else:
+                if temp.empty is True:
+                    temp = data.loc[data[column] == float(param)]
+                else:
+                    temp = temp.append(data.loc[data[column] == float(param)])
+        return temp
 
     def calc_data(self, data):
         row_count = data.index
