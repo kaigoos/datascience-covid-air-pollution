@@ -9,6 +9,7 @@ def list_menu():
     print("1. Parse CSV")
     print("2. Format CSV")
     print("3. Calculate Data")
+    print("0.  Exit")
 
 
 def list_file_menu():
@@ -87,6 +88,7 @@ def parse_data():
         file_name += ".csv"
     parser.write_data(data, "./CSV/Modified", file_name)
 
+
 def calc_data():
     file_list = os.listdir("./CSV/Modified")
     list_files(file_list)
@@ -95,15 +97,22 @@ def calc_data():
     data = parser.read_data("./CSV/Modified/" + file_name)
     parser.calc_data(data)
 
+
 def main_menu():
-    list_menu()
-    num = int(input("Enter Option #: "))
-    if num is 1:
-        parse_data()
-    if num is 2:
-        format_data()
-    if num is 3:
-        calc_data()
+    loop = True
+    while loop is True:
+        list_menu()
+        num = int(input("Enter Option #: "))
+        if num is 1:
+            parse_data()
+        elif num is 2:
+            format_data()
+        elif num is 3:
+            calc_data()
+        elif num is 0:
+            loop = False
+        else:
+            print("Invalid number, try again")
 
 
 if __name__ == '__main__':
