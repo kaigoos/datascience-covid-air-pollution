@@ -45,8 +45,12 @@ def list_columns(file):
         num += 1
     
     index = input('Enter column number: ')
-    
-    return matches[int(index) - 1]
+
+    try:
+        return matches[int(index) - 1]
+    except IndexError as e:
+        print(f"Error: {e}")
+        return list_columns(file)
 
 
 def format_data():
@@ -88,6 +92,7 @@ def parse_data():
 
     while flag is False:
         column = list_columns(data)
+        print(f"Column: {column}")
         param = input('Enter parameter name: ').split()
         data = parser.parse_by_column(data, column, *param)
         cont = int(input('Continue 1, Stop 0: '))
