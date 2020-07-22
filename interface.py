@@ -1,4 +1,5 @@
 import os
+import pandas as pd
 from csv_parser import csvParser
 
 
@@ -31,6 +32,21 @@ def list_files(file_list):
     for file in file_list:
         print(str(num) + ": " + file)
         num += 1
+
+
+def list_columns(file):
+    """
+    List the column headers of the inputted file
+    """
+    num = 1
+    matches = ["Country", "City", "Specie"]
+    for header in matches:
+        print(f"{str(num)}:  {header}")
+        num += 1
+    
+    index = input('Enter column number: ')
+    
+    return matches[int(index) - 1]
 
 
 def format_data():
@@ -71,7 +87,7 @@ def parse_data():
     data = parser.read_data(path + '/' + file_name)
 
     while flag is False:
-        column = input('Enter column name: ')
+        column = list_columns(data)
         param = input('Enter parameter name: ').split()
         data = parser.parse_by_column(data, column, *param)
         cont = int(input('Continue 1, Stop 0: '))
