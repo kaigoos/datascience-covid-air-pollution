@@ -39,7 +39,7 @@ def list_columns(file):
     List the column headers of the inputted file
     """
     num = 1
-    matches = ["Country", "City", "Specie"]
+    matches = ["Country", "City", "Month"]
     for header in matches:
         print(f"{str(num)}:  {header}")
         num += 1

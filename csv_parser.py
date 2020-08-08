@@ -13,7 +13,8 @@ class csvParser(object):
         data.insert(0, 'Year', "")
         data.insert(1, 'Month', "")
         data[['Year', 'Month', 'Date']] = data.Date.apply(lambda x: pd.Series(str(x).split('-')))
-        return data
+        data_pm25 = self.parse_by_column(data, 'Specie', 'pm25')
+        return data_pm25
 
     def read_data(self, file):
         """
@@ -31,7 +32,9 @@ class csvParser(object):
 
     def parse_by_column(self, data, column, *args):
         """
-        Parse data based on column, INCOMPLETE
+        Parse data based on column
+        Every column except the ones listed in matches have float values.
+        Matches have strings.
         """
         matches = ["Country", "City", "Specie"]
         temp = pd.DataFrame()

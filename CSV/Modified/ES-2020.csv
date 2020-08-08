@@ -1,0 +1,2818 @@
+Year,Month,Date,Country,City,Specie,count,min,max,median,variance
+2020,6,14,ES,Las Palmas de Gran Canaria,pm25,159,5.0,104.0,13.0,1490.02
+2020,2,29,ES,Las Palmas de Gran Canaria,pm25,202,5.0,810.0,21.0,32146.6
+2020,4,9,ES,Las Palmas de Gran Canaria,pm25,202,5.0,78.0,17.0,1372.63
+2020,1,30,ES,Las Palmas de Gran Canaria,pm25,165,5.0,87.0,34.0,2733.28
+2020,7,6,ES,Las Palmas de Gran Canaria,pm25,161,5.0,114.0,50.0,2714.7
+2020,1,27,ES,Las Palmas de Gran Canaria,pm25,148,5.0,50.0,21.0,804.44
+2020,1,31,ES,Las Palmas de Gran Canaria,pm25,149,5.0,939.0,21.0,113628.0
+2020,1,11,ES,Las Palmas de Gran Canaria,pm25,186,5.0,42.0,25.0,652.23
+2020,3,5,ES,Las Palmas de Gran Canaria,pm25,217,5.0,810.0,30.0,30227.4
+2020,3,16,ES,Las Palmas de Gran Canaria,pm25,215,5.0,59.0,25.0,1228.05
+2020,3,25,ES,Las Palmas de Gran Canaria,pm25,223,9.0,114.0,46.0,1830.88
+2020,5,7,ES,Las Palmas de Gran Canaria,pm25,188,5.0,834.0,17.0,83473.0
+2020,6,24,ES,Las Palmas de Gran Canaria,pm25,203,5.0,65.0,21.0,1494.2
+2020,1,4,ES,Las Palmas de Gran Canaria,pm25,194,5.0,53.0,25.0,870.44
+2020,6,7,ES,Las Palmas de Gran Canaria,pm25,184,5.0,129.0,17.0,1734.15
+2020,6,13,ES,Las Palmas de Gran Canaria,pm25,165,5.0,38.0,13.0,506.21
+2020,8,4,ES,Las Palmas de Gran Canaria,pm25,206,5.0,59.0,30.0,1744.36
+2020,1,26,ES,Las Palmas de Gran Canaria,pm25,84,5.0,34.0,17.0,548.35
+2020,2,12,ES,Las Palmas de Gran Canaria,pm25,172,9.0,933.0,68.0,90776.1
+2020,4,15,ES,Las Palmas de Gran Canaria,pm25,189,5.0,57.0,21.0,1409.84
+2020,7,3,ES,Las Palmas de Gran Canaria,pm25,177,5.0,59.0,30.0,1775.98
+2020,7,21,ES,Las Palmas de Gran Canaria,pm25,199,5.0,89.0,34.0,2136.44
+2020,8,1,ES,Las Palmas de Gran Canaria,pm25,231,5.0,82.0,25.0,1503.54
+2020,1,14,ES,Las Palmas de Gran Canaria,pm25,202,5.0,102.0,38.0,5308.41
+2020,2,18,ES,Las Palmas de Gran Canaria,pm25,183,5.0,68.0,34.0,1729.94
+2020,3,17,ES,Las Palmas de Gran Canaria,pm25,208,5.0,55.0,17.0,889.82
+2020,4,8,ES,Las Palmas de Gran Canaria,pm25,220,5.0,57.0,17.0,999.94
+2020,4,25,ES,Las Palmas de Gran Canaria,pm25,148,5.0,34.0,13.0,526.7
+2020,1,1,ES,Las Palmas de Gran Canaria,pm25,177,13.0,161.0,50.0,8045.13
+2020,2,26,ES,Las Palmas de Gran Canaria,pm25,193,5.0,872.0,34.0,78883.2
+2020,3,12,ES,Las Palmas de Gran Canaria,pm25,232,5.0,87.0,46.0,2419.21
+2020,3,14,ES,Las Palmas de Gran Canaria,pm25,207,5.0,50.0,25.0,1075.11
+2020,6,19,ES,Las Palmas de Gran Canaria,pm25,181,5.0,59.0,17.0,739.77
+2020,1,23,ES,Las Palmas de Gran Canaria,pm25,140,5.0,392.0,17.0,20822.1
+2020,7,14,ES,Las Palmas de Gran Canaria,pm25,200,9.0,80.0,34.0,2730.85
+2020,1,24,ES,Las Palmas de Gran Canaria,pm25,164,5.0,50.0,21.0,895.16
+2020,6,1,ES,Las Palmas de Gran Canaria,pm25,200,5.0,834.0,34.0,77093.3
+2020,3,4,ES,Las Palmas de Gran Canaria,pm25,232,5.0,112.0,38.0,2751.63
+2020,7,27,ES,Las Palmas de Gran Canaria,pm25,204,5.0,82.0,30.0,1933.08
+2020,2,8,ES,Las Palmas de Gran Canaria,pm25,206,13.0,127.0,65.0,3555.54
+2020,3,23,ES,Las Palmas de Gran Canaria,pm25,191,5.0,852.0,17.0,213490.0
+2020,7,5,ES,Las Palmas de Gran Canaria,pm25,182,9.0,78.0,34.0,1987.37
+2020,1,12,ES,Las Palmas de Gran Canaria,pm25,198,5.0,65.0,30.0,1050.08
+2020,7,18,ES,Las Palmas de Gran Canaria,pm25,15,30.0,65.0,50.0,1052.67
+2020,4,29,ES,Las Palmas de Gran Canaria,pm25,196,5.0,822.0,17.0,84093.2
+2020,2,25,ES,Las Palmas de Gran Canaria,pm25,196,9.0,159.0,78.0,15080.1
+2020,5,26,ES,Las Palmas de Gran Canaria,pm25,227,9.0,852.0,55.0,57410.0
+2020,8,5,ES,Las Palmas de Gran Canaria,pm25,236,5.0,78.0,30.0,1704.87
+2020,1,15,ES,Las Palmas de Gran Canaria,pm25,198,5.0,153.0,53.0,10959.2
+2020,3,11,ES,Las Palmas de Gran Canaria,pm25,219,5.0,102.0,46.0,2141.41
+2020,5,12,ES,Las Palmas de Gran Canaria,pm25,183,5.0,59.0,30.0,1567.76
+2020,5,20,ES,Las Palmas de Gran Canaria,pm25,193,5.0,623.0,42.0,36312.1
+2020,3,24,ES,Las Palmas de Gran Canaria,pm25,220,5.0,852.0,55.0,332673.0
+2020,3,27,ES,Las Palmas de Gran Canaria,pm25,214,5.0,70.0,30.0,2192.97
+2020,4,10,ES,Las Palmas de Gran Canaria,pm25,192,5.0,53.0,13.0,902.92
+2020,2,28,ES,Las Palmas de Gran Canaria,pm25,213,5.0,834.0,34.0,92421.3
+2020,1,2,ES,Las Palmas de Gran Canaria,pm25,224,13.0,935.0,50.0,87159.6
+2020,1,20,ES,Las Palmas de Gran Canaria,pm25,152,5.0,394.0,21.0,36472.1
+2020,2,16,ES,Las Palmas de Gran Canaria,pm25,75,5.0,61.0,38.0,1882.85
+2020,2,20,ES,Las Palmas de Gran Canaria,pm25,160,5.0,850.0,30.0,82791.0
+2020,3,8,ES,Las Palmas de Gran Canaria,pm25,31,5.0,87.0,65.0,4631.18
+2020,4,7,ES,Las Palmas de Gran Canaria,pm25,232,5.0,70.0,25.0,1663.39
+2020,1,9,ES,Las Palmas de Gran Canaria,pm25,180,5.0,61.0,21.0,868.0
+2020,2,4,ES,Las Palmas de Gran Canaria,pm25,207,17.0,214.0,61.0,18952.2
+2020,6,16,ES,Las Palmas de Gran Canaria,pm25,210,5.0,161.0,25.0,3916.81
+2020,5,31,ES,Las Palmas de Gran Canaria,pm25,182,5.0,65.0,34.0,1265.38
+2020,6,25,ES,Las Palmas de Gran Canaria,pm25,206,5.0,627.0,25.0,101994.0
+2020,3,3,ES,Las Palmas de Gran Canaria,pm25,127,5.0,909.0,25.0,86218.0
+2020,7,24,ES,Las Palmas de Gran Canaria,pm25,179,9.0,624.0,46.0,110892.0
+2020,8,2,ES,Las Palmas de Gran Canaria,pm25,219,5.0,76.0,34.0,2133.7
+2020,8,3,ES,Las Palmas de Gran Canaria,pm25,221,5.0,74.0,38.0,2481.29
+2020,4,3,ES,Las Palmas de Gran Canaria,pm25,228,5.0,68.0,17.0,1305.7
+2020,5,21,ES,Las Palmas de Gran Canaria,pm25,195,5.0,68.0,25.0,1276.28
+2020,7,31,ES,Las Palmas de Gran Canaria,pm25,224,5.0,57.0,25.0,1220.83
+2020,2,3,ES,Las Palmas de Gran Canaria,pm25,195,5.0,935.0,38.0,45494.1
+2020,7,8,ES,Las Palmas de Gran Canaria,pm25,202,5.0,624.0,50.0,66083.9
+2020,8,6,ES,Las Palmas de Gran Canaria,pm25,231,5.0,59.0,21.0,1167.18
+2020,2,22,ES,Las Palmas de Gran Canaria,pm25,157,5.0,666.0,53.0,268067.0
+2020,4,26,ES,Las Palmas de Gran Canaria,pm25,135,5.0,59.0,17.0,704.94
+2020,8,7,ES,Las Palmas de Gran Canaria,pm25,158,5.0,852.0,13.0,170702.0
+2020,4,1,ES,Las Palmas de Gran Canaria,pm25,182,5.0,622.0,13.0,21157.5
+2020,6,30,ES,Las Palmas de Gran Canaria,pm25,208,5.0,68.0,21.0,1481.71
+2020,4,17,ES,Las Palmas de Gran Canaria,pm25,183,5.0,624.0,17.0,60585.1
+2020,5,6,ES,Las Palmas de Gran Canaria,pm25,195,5.0,76.0,17.0,2229.08
+2020,3,18,ES,Las Palmas de Gran Canaria,pm25,200,5.0,627.0,21.0,72565.0
+2020,4,28,ES,Las Palmas de Gran Canaria,pm25,183,5.0,884.0,17.0,82579.2
+2020,5,14,ES,Las Palmas de Gran Canaria,pm25,174,5.0,65.0,30.0,1635.12
+2020,6,23,ES,Las Palmas de Gran Canaria,pm25,217,5.0,102.0,30.0,1955.36
+2020,2,23,ES,Las Palmas de Gran Canaria,pm25,154,17.0,920.0,199.0,527516.0
+2020,4,30,ES,Las Palmas de Gran Canaria,pm25,181,5.0,42.0,13.0,609.44
+2020,5,9,ES,Las Palmas de Gran Canaria,pm25,190,5.0,50.0,13.0,684.21
+2020,6,3,ES,Las Palmas de Gran Canaria,pm25,205,5.0,834.0,21.0,186006.0
+2019,12,31,ES,Las Palmas de Gran Canaria,pm25,143,5.0,70.0,34.0,2059.22
+2020,2,21,ES,Las Palmas de Gran Canaria,pm25,152,5.0,833.0,21.0,169142.0
+2020,6,17,ES,Las Palmas de Gran Canaria,pm25,224,5.0,834.0,34.0,87207.7
+2020,7,23,ES,Las Palmas de Gran Canaria,pm25,198,9.0,85.0,50.0,1580.94
+2020,1,10,ES,Las Palmas de Gran Canaria,pm25,174,5.0,59.0,25.0,1285.71
+2020,2,19,ES,Las Palmas de Gran Canaria,pm25,176,5.0,59.0,38.0,1650.34
+2020,1,28,ES,Las Palmas de Gran Canaria,pm25,190,9.0,68.0,38.0,1578.08
+2020,4,20,ES,Las Palmas de Gran Canaria,pm25,172,5.0,61.0,17.0,965.55
+2020,5,24,ES,Las Palmas de Gran Canaria,pm25,178,5.0,85.0,55.0,3139.69
+2020,2,1,ES,Las Palmas de Gran Canaria,pm25,191,5.0,57.0,30.0,1116.19
+2020,6,11,ES,Las Palmas de Gran Canaria,pm25,200,5.0,53.0,21.0,1327.01
+2020,5,3,ES,Las Palmas de Gran Canaria,pm25,190,5.0,57.0,25.0,1323.19
+2020,2,24,ES,Las Palmas de Gran Canaria,pm25,176,72.0,312.0,160.0,20647.9
+2020,2,9,ES,Las Palmas de Gran Canaria,pm25,150,5.0,87.0,21.0,5130.79
+2020,5,5,ES,Las Palmas de Gran Canaria,pm25,207,5.0,602.0,17.0,49294.3
+2020,5,18,ES,Las Palmas de Gran Canaria,pm25,218,5.0,586.0,30.0,29631.0
+2020,3,10,ES,Las Palmas de Gran Canaria,pm25,231,5.0,85.0,46.0,2226.49
+2020,5,1,ES,Las Palmas de Gran Canaria,pm25,179,5.0,42.0,17.0,717.94
+2020,1,5,ES,Las Palmas de Gran Canaria,pm25,186,5.0,53.0,25.0,941.54
+2020,4,6,ES,Las Palmas de Gran Canaria,pm25,177,5.0,57.0,25.0,1297.74
+2020,1,21,ES,Las Palmas de Gran Canaria,pm25,175,5.0,42.0,21.0,795.6
+2020,4,2,ES,Las Palmas de Gran Canaria,pm25,189,5.0,624.0,17.0,45729.4
+2020,7,9,ES,Las Palmas de Gran Canaria,pm25,185,5.0,80.0,38.0,2241.14
+2020,7,10,ES,Las Palmas de Gran Canaria,pm25,177,13.0,85.0,38.0,2053.38
+2020,2,27,ES,Las Palmas de Gran Canaria,pm25,193,5.0,109.0,21.0,2033.88
+2020,3,2,ES,Las Palmas de Gran Canaria,pm25,182,30.0,834.0,63.0,127931.0
+2020,6,10,ES,Las Palmas de Gran Canaria,pm25,191,5.0,63.0,21.0,1386.76
+2020,6,29,ES,Las Palmas de Gran Canaria,pm25,194,5.0,80.0,17.0,1704.63
+2020,3,20,ES,Las Palmas de Gran Canaria,pm25,223,5.0,149.0,50.0,6362.3
+2020,5,28,ES,Las Palmas de Gran Canaria,pm25,221,5.0,622.0,34.0,62679.1
+2020,6,4,ES,Las Palmas de Gran Canaria,pm25,206,5.0,834.0,17.0,101321.0
+2020,3,13,ES,Las Palmas de Gran Canaria,pm25,218,5.0,252.0,34.0,3728.88
+2020,1,25,ES,Las Palmas de Gran Canaria,pm25,71,5.0,34.0,17.0,453.92
+2020,3,28,ES,Las Palmas de Gran Canaria,pm25,190,5.0,59.0,13.0,877.11
+2020,1,7,ES,Las Palmas de Gran Canaria,pm25,192,5.0,65.0,25.0,1833.87
+2020,7,22,ES,Las Palmas de Gran Canaria,pm25,187,9.0,78.0,42.0,1487.85
+2020,2,6,ES,Las Palmas de Gran Canaria,pm25,157,5.0,117.0,21.0,3697.11
+2020,6,8,ES,Las Palmas de Gran Canaria,pm25,129,5.0,221.0,13.0,11330.5
+2020,2,5,ES,Las Palmas de Gran Canaria,pm25,210,17.0,190.0,87.0,14059.6
+2020,3,31,ES,Las Palmas de Gran Canaria,pm25,184,5.0,620.0,13.0,27709.7
+2020,7,12,ES,Las Palmas de Gran Canaria,pm25,189,9.0,89.0,46.0,1930.86
+2020,1,3,ES,Las Palmas de Gran Canaria,pm25,214,9.0,89.0,25.0,2311.04
+2020,1,22,ES,Las Palmas de Gran Canaria,pm25,135,5.0,391.0,17.0,21583.8
+2020,5,16,ES,Las Palmas de Gran Canaria,pm25,213,5.0,68.0,30.0,1775.22
+2020,5,17,ES,Las Palmas de Gran Canaria,pm25,203,9.0,72.0,30.0,1139.33
+2020,7,1,ES,Las Palmas de Gran Canaria,pm25,230,5.0,840.0,25.0,146558.0
+2020,7,11,ES,Las Palmas de Gran Canaria,pm25,186,9.0,65.0,38.0,1656.43
+2020,7,20,ES,Las Palmas de Gran Canaria,pm25,198,5.0,157.0,34.0,3228.78
+2020,7,26,ES,Las Palmas de Gran Canaria,pm25,198,5.0,78.0,30.0,1853.9
+2020,2,17,ES,Las Palmas de Gran Canaria,pm25,169,5.0,65.0,42.0,1457.09
+2020,3,21,ES,Las Palmas de Gran Canaria,pm25,196,5.0,42.0,17.0,844.24
+2020,7,15,ES,Las Palmas de Gran Canaria,pm25,205,9.0,82.0,50.0,1655.49
+2020,7,16,ES,Las Palmas de Gran Canaria,pm25,195,5.0,74.0,38.0,1856.56
+2019,12,30,ES,Las Palmas de Gran Canaria,pm25,110,5.0,937.0,21.0,150713.0
+2020,5,10,ES,Las Palmas de Gran Canaria,pm25,177,5.0,834.0,25.0,145579.0
+2020,4,19,ES,Las Palmas de Gran Canaria,pm25,168,5.0,68.0,13.0,959.62
+2020,6,6,ES,Las Palmas de Gran Canaria,pm25,206,5.0,114.0,17.0,2220.76
+2020,6,21,ES,Las Palmas de Gran Canaria,pm25,204,5.0,70.0,30.0,2230.85
+2020,5,15,ES,Las Palmas de Gran Canaria,pm25,210,5.0,65.0,30.0,1786.31
+2020,5,23,ES,Las Palmas de Gran Canaria,pm25,169,9.0,78.0,50.0,2285.83
+2020,7,28,ES,Las Palmas de Gran Canaria,pm25,204,5.0,604.0,30.0,65361.6
+2020,7,30,ES,Las Palmas de Gran Canaria,pm25,188,5.0,816.0,21.0,67858.2
+2020,2,10,ES,Las Palmas de Gran Canaria,pm25,150,5.0,93.0,46.0,4690.85
+2020,3,19,ES,Las Palmas de Gran Canaria,pm25,218,5.0,112.0,46.0,5180.44
+2020,5,4,ES,Las Palmas de Gran Canaria,pm25,204,5.0,55.0,21.0,1206.94
+2020,2,15,ES,Las Palmas de Gran Canaria,pm25,72,5.0,76.0,30.0,2826.48
+2020,4,27,ES,Las Palmas de Gran Canaria,pm25,176,5.0,911.0,17.0,136229.0
+2020,4,14,ES,Las Palmas de Gran Canaria,pm25,185,5.0,46.0,13.0,599.63
+2020,5,2,ES,Las Palmas de Gran Canaria,pm25,184,5.0,59.0,21.0,1387.94
+2020,5,27,ES,Las Palmas de Gran Canaria,pm25,210,5.0,85.0,42.0,1914.31
+2020,3,22,ES,Las Palmas de Gran Canaria,pm25,187,5.0,53.0,13.0,822.08
+2020,4,11,ES,Las Palmas de Gran Canaria,pm25,212,5.0,46.0,13.0,931.41
+2020,4,16,ES,Las Palmas de Gran Canaria,pm25,208,5.0,50.0,21.0,1049.32
+2020,6,22,ES,Las Palmas de Gran Canaria,pm25,218,5.0,74.0,25.0,1423.61
+2020,2,14,ES,Las Palmas de Gran Canaria,pm25,65,9.0,85.0,63.0,3689.98
+2020,5,8,ES,Las Palmas de Gran Canaria,pm25,183,5.0,530.0,17.0,29307.3
+2020,6,5,ES,Las Palmas de Gran Canaria,pm25,198,5.0,129.0,17.0,2962.76
+2020,6,12,ES,Las Palmas de Gran Canaria,pm25,196,5.0,63.0,17.0,932.89
+2020,7,17,ES,Las Palmas de Gran Canaria,pm25,189,5.0,91.0,38.0,2268.08
+2020,7,29,ES,Las Palmas de Gran Canaria,pm25,194,5.0,624.0,21.0,56693.1
+2020,5,25,ES,Las Palmas de Gran Canaria,pm25,194,5.0,822.0,59.0,116968.0
+2020,3,9,ES,Las Palmas de Gran Canaria,pm25,179,5.0,99.0,59.0,2438.99
+2020,4,23,ES,Las Palmas de Gran Canaria,pm25,189,5.0,50.0,17.0,1125.69
+2020,5,29,ES,Las Palmas de Gran Canaria,pm25,206,9.0,76.0,38.0,1358.13
+2020,6,20,ES,Las Palmas de Gran Canaria,pm25,187,5.0,46.0,17.0,796.44
+2020,7,4,ES,Las Palmas de Gran Canaria,pm25,166,9.0,61.0,30.0,1456.21
+2020,2,7,ES,Las Palmas de Gran Canaria,pm25,195,5.0,124.0,74.0,7054.22
+2020,3,30,ES,Las Palmas de Gran Canaria,pm25,153,5.0,625.0,13.0,94314.3
+2020,2,11,ES,Las Palmas de Gran Canaria,pm25,186,13.0,104.0,61.0,2453.84
+2020,7,2,ES,Las Palmas de Gran Canaria,pm25,199,5.0,852.0,30.0,147447.0
+2020,7,13,ES,Las Palmas de Gran Canaria,pm25,200,5.0,72.0,38.0,1691.27
+2020,6,18,ES,Las Palmas de Gran Canaria,pm25,228,5.0,68.0,17.0,1878.25
+2020,6,26,ES,Las Palmas de Gran Canaria,pm25,90,5.0,46.0,17.0,1206.21
+2020,3,15,ES,Las Palmas de Gran Canaria,pm25,188,5.0,50.0,17.0,762.78
+2020,3,26,ES,Las Palmas de Gran Canaria,pm25,222,5.0,65.0,34.0,1834.39
+2020,4,4,ES,Las Palmas de Gran Canaria,pm25,168,5.0,61.0,21.0,1842.97
+2020,4,13,ES,Las Palmas de Gran Canaria,pm25,182,5.0,82.0,13.0,1045.9
+2020,5,22,ES,Las Palmas de Gran Canaria,pm25,186,5.0,70.0,34.0,1938.05
+2020,1,8,ES,Las Palmas de Gran Canaria,pm25,208,5.0,59.0,34.0,1079.61
+2020,3,1,ES,Las Palmas de Gran Canaria,pm25,207,5.0,162.0,42.0,3929.43
+2020,3,29,ES,Las Palmas de Gran Canaria,pm25,132,5.0,34.0,13.0,448.0
+2020,4,18,ES,Las Palmas de Gran Canaria,pm25,188,5.0,42.0,17.0,749.98
+2020,5,11,ES,Las Palmas de Gran Canaria,pm25,189,5.0,834.0,21.0,104810.0
+2020,6,9,ES,Las Palmas de Gran Canaria,pm25,189,5.0,144.0,17.0,2769.74
+2020,1,6,ES,Las Palmas de Gran Canaria,pm25,163,5.0,38.0,17.0,524.7
+2020,2,2,ES,Las Palmas de Gran Canaria,pm25,187,5.0,68.0,42.0,1795.15
+2020,7,25,ES,Las Palmas de Gran Canaria,pm25,187,5.0,76.0,38.0,1970.87
+2020,3,6,ES,Las Palmas de Gran Canaria,pm25,157,5.0,59.0,30.0,1735.61
+2020,6,2,ES,Las Palmas de Gran Canaria,pm25,195,5.0,706.0,25.0,91164.0
+2020,1,29,ES,Las Palmas de Gran Canaria,pm25,200,5.0,391.0,42.0,14335.5
+2020,6,15,ES,Las Palmas de Gran Canaria,pm25,185,5.0,158.0,21.0,4233.11
+2020,4,12,ES,Las Palmas de Gran Canaria,pm25,197,5.0,50.0,13.0,618.04
+2020,5,19,ES,Las Palmas de Gran Canaria,pm25,222,5.0,834.0,42.0,155031.0
+2020,1,13,ES,Las Palmas de Gran Canaria,pm25,229,9.0,938.0,38.0,71959.3
+2020,5,13,ES,Las Palmas de Gran Canaria,pm25,188,5.0,852.0,25.0,114481.0
+2020,7,7,ES,Las Palmas de Gran Canaria,pm25,178,5.0,834.0,53.0,106999.0
+2020,1,17,ES,Las Palmas de Gran Canaria,pm25,169,5.0,46.0,17.0,798.56
+2020,2,13,ES,Las Palmas de Gran Canaria,pm25,130,9.0,124.0,65.0,4811.04
+2020,4,24,ES,Las Palmas de Gran Canaria,pm25,181,5.0,908.0,25.0,132026.0
+2020,1,16,ES,Las Palmas de Gran Canaria,pm25,178,5.0,82.0,25.0,1377.67
+2020,7,27,ES,Salamanca,pm25,46,30.0,65.0,46.0,675.94
+2020,8,2,ES,Salamanca,pm25,48,5.0,25.0,9.0,439.15
+2020,6,29,ES,Salamanca,pm25,28,5.0,21.0,5.0,383.49
+2020,3,1,ES,Salamanca,pm25,14,5.0,9.0,5.0,42.2
+2020,3,23,ES,Salamanca,pm25,42,5.0,761.0,30.0,484954.0
+2020,3,24,ES,Salamanca,pm25,42,5.0,21.0,13.0,205.16
+2020,5,11,ES,Salamanca,pm25,46,5.0,25.0,13.0,575.07
+2020,2,13,ES,Salamanca,pm25,21,5.0,34.0,13.0,728.9
+2020,3,20,ES,Salamanca,pm25,48,9.0,87.0,53.0,3709.72
+2020,6,19,ES,Salamanca,pm25,44,5.0,30.0,13.0,482.54
+2020,6,21,ES,Salamanca,pm25,36,5.0,30.0,13.0,674.54
+2020,3,19,ES,Salamanca,pm25,44,38.0,68.0,59.0,661.33
+2020,4,12,ES,Salamanca,pm25,34,5.0,21.0,9.0,292.05
+2020,5,12,ES,Salamanca,pm25,46,5.0,30.0,13.0,592.58
+2020,2,1,ES,Salamanca,pm25,22,5.0,776.0,5.0,903560.0
+2020,7,28,ES,Salamanca,pm25,48,21.0,57.0,34.0,1263.76
+2020,4,4,ES,Salamanca,pm25,46,5.0,38.0,17.0,1222.49
+2020,7,1,ES,Salamanca,pm25,44,5.0,38.0,17.0,1014.82
+2020,7,12,ES,Salamanca,pm25,42,17.0,38.0,25.0,317.21
+2020,7,23,ES,Salamanca,pm25,48,30.0,50.0,42.0,449.08
+2020,5,7,ES,Salamanca,pm25,42,13.0,34.0,25.0,333.98
+2020,5,26,ES,Salamanca,pm25,48,13.0,38.0,21.0,467.16
+2020,6,18,ES,Salamanca,pm25,34,5.0,21.0,13.0,230.45
+2020,1,11,ES,Salamanca,pm25,48,21.0,59.0,42.0,1455.32
+2020,2,11,ES,Salamanca,pm25,22,5.0,34.0,17.0,911.88
+2020,3,7,ES,Salamanca,pm25,40,5.0,46.0,9.0,2053.74
+2020,5,1,ES,Salamanca,pm25,26,5.0,21.0,13.0,368.25
+2020,1,14,ES,Salamanca,pm25,44,5.0,42.0,21.0,1288.65
+2020,3,2,ES,Salamanca,pm25,22,5.0,17.0,9.0,285.37
+2020,1,23,ES,Salamanca,pm25,48,9.0,72.0,42.0,2426.65
+2020,7,30,ES,Salamanca,pm25,40,17.0,55.0,42.0,1124.38
+2020,1,21,ES,Salamanca,pm25,46,5.0,34.0,21.0,730.2
+2020,4,21,ES,Salamanca,pm25,40,5.0,21.0,13.0,260.92
+2020,5,27,ES,Salamanca,pm25,46,5.0,46.0,34.0,1328.58
+2020,6,20,ES,Salamanca,pm25,36,5.0,38.0,21.0,1166.0
+2020,1,6,ES,Salamanca,pm25,44,9.0,70.0,34.0,2477.48
+2020,1,15,ES,Salamanca,pm25,44,5.0,30.0,13.0,556.96
+2020,3,21,ES,Salamanca,pm25,40,5.0,57.0,17.0,3861.41
+2020,7,25,ES,Salamanca,pm25,44,9.0,46.0,30.0,1184.1
+2020,3,15,ES,Salamanca,pm25,46,5.0,68.0,25.0,3946.2
+2020,7,21,ES,Salamanca,pm25,48,34.0,76.0,55.0,1388.92
+2020,5,23,ES,Salamanca,pm25,38,5.0,30.0,21.0,713.8
+2020,1,13,ES,Salamanca,pm25,48,17.0,768.0,34.0,423518.0
+2020,5,2,ES,Salamanca,pm25,32,5.0,17.0,9.0,174.84
+2020,7,20,ES,Salamanca,pm25,48,21.0,85.0,59.0,4523.67
+2020,8,5,ES,Salamanca,pm25,42,5.0,30.0,21.0,495.93
+2020,1,28,ES,Salamanca,pm25,22,5.0,13.0,5.0,130.22
+2020,2,12,ES,Salamanca,pm25,22,5.0,30.0,21.0,513.79
+2020,6,17,ES,Salamanca,pm25,46,5.0,34.0,17.0,624.73
+2020,7,18,ES,Salamanca,pm25,46,5.0,55.0,21.0,1123.4
+2020,2,23,ES,Salamanca,pm25,23,25.0,89.0,53.0,3477.67
+2020,3,25,ES,Salamanca,pm25,42,5.0,38.0,17.0,745.65
+2020,3,16,ES,Salamanca,pm25,42,5.0,25.0,9.0,399.16
+2020,6,27,ES,Salamanca,pm25,26,5.0,17.0,9.0,175.26
+2020,2,20,ES,Salamanca,pm25,22,5.0,65.0,25.0,3448.94
+2020,2,21,ES,Salamanca,pm25,23,21.0,80.0,53.0,2912.65
+2020,2,28,ES,Salamanca,pm25,48,30.0,161.0,76.0,22386.3
+2020,3,5,ES,Salamanca,pm25,42,5.0,17.0,9.0,220.77
+2020,6,8,ES,Salamanca,pm25,40,5.0,17.0,9.0,203.49
+2020,1,5,ES,Salamanca,pm25,44,13.0,42.0,25.0,615.16
+2020,3,22,ES,Salamanca,pm25,46,5.0,59.0,13.0,2867.09
+2020,4,24,ES,Salamanca,pm25,42,5.0,46.0,25.0,1233.77
+2020,3,10,ES,Salamanca,pm25,43,5.0,50.0,25.0,1841.95
+2020,3,14,ES,Salamanca,pm25,48,5.0,57.0,30.0,3068.01
+2020,3,31,ES,Salamanca,pm25,42,5.0,25.0,9.0,437.07
+2020,1,19,ES,Salamanca,pm25,36,5.0,25.0,13.0,551.11
+2020,1,31,ES,Salamanca,pm25,40,5.0,776.0,5.0,542426.0
+2020,2,27,ES,Salamanca,pm25,40,13.0,46.0,21.0,1430.03
+2020,4,8,ES,Salamanca,pm25,40,5.0,25.0,9.0,469.33
+2020,7,9,ES,Salamanca,pm25,42,13.0,50.0,30.0,1272.66
+2020,3,17,ES,Salamanca,pm25,38,5.0,25.0,13.0,398.75
+2020,4,22,ES,Salamanca,pm25,48,9.0,46.0,21.0,932.75
+2020,5,25,ES,Salamanca,pm25,42,9.0,25.0,17.0,220.77
+2020,3,13,ES,Salamanca,pm25,46,5.0,50.0,17.0,2014.88
+2020,3,29,ES,Salamanca,pm25,42,5.0,50.0,25.0,1709.55
+2020,4,5,ES,Salamanca,pm25,44,5.0,17.0,9.0,147.48
+2020,1,3,ES,Salamanca,pm25,42,34.0,89.0,57.0,1346.95
+2020,4,20,ES,Salamanca,pm25,46,5.0,38.0,21.0,1144.77
+2020,5,5,ES,Salamanca,pm25,38,5.0,21.0,13.0,350.5
+2020,7,13,ES,Salamanca,pm25,48,5.0,730.0,21.0,397328.0
+2020,8,3,ES,Salamanca,pm25,26,5.0,34.0,9.0,1057.85
+2020,1,22,ES,Salamanca,pm25,48,9.0,89.0,25.0,4734.4
+2020,3,12,ES,Salamanca,pm25,48,9.0,61.0,42.0,2679.93
+2020,4,3,ES,Salamanca,pm25,44,5.0,42.0,21.0,1240.59
+2020,7,4,ES,Salamanca,pm25,40,5.0,30.0,13.0,573.61
+2020,2,3,ES,Salamanca,pm25,46,5.0,87.0,34.0,7846.22
+2020,2,18,ES,Salamanca,pm25,24,5.0,34.0,17.0,659.35
+2020,5,17,ES,Salamanca,pm25,48,5.0,59.0,30.0,2543.83
+2020,7,11,ES,Salamanca,pm25,48,5.0,65.0,25.0,2058.71
+2020,1,26,ES,Salamanca,pm25,48,9.0,46.0,25.0,1276.15
+2020,2,24,ES,Salamanca,pm25,39,5.0,770.0,34.0,519109.0
+2020,7,3,ES,Salamanca,pm25,38,5.0,17.0,9.0,204.84
+2020,1,10,ES,Salamanca,pm25,48,13.0,59.0,34.0,1612.18
+2020,5,14,ES,Salamanca,pm25,34,5.0,17.0,9.0,155.15
+2020,5,24,ES,Salamanca,pm25,42,5.0,17.0,9.0,180.63
+2020,6,5,ES,Salamanca,pm25,38,5.0,21.0,13.0,263.1
+2020,4,10,ES,Salamanca,pm25,34,5.0,17.0,9.0,193.94
+2020,5,10,ES,Salamanca,pm25,40,5.0,34.0,9.0,828.82
+2020,7,31,ES,Salamanca,pm25,44,21.0,59.0,38.0,1103.95
+2020,2,9,ES,Salamanca,pm25,28,5.0,59.0,21.0,3018.88
+2020,5,8,ES,Salamanca,pm25,44,17.0,34.0,25.0,175.73
+2020,7,22,ES,Salamanca,pm25,46,13.0,50.0,38.0,1163.09
+2020,2,14,ES,Salamanca,pm25,24,9.0,87.0,30.0,5304.28
+2020,4,26,ES,Salamanca,pm25,44,13.0,57.0,30.0,1653.72
+2020,6,11,ES,Salamanca,pm25,48,5.0,38.0,21.0,1326.74
+2020,7,2,ES,Salamanca,pm25,42,5.0,21.0,9.0,144.95
+2020,3,28,ES,Salamanca,pm25,48,5.0,55.0,21.0,2490.62
+2020,5,18,ES,Salamanca,pm25,48,5.0,824.0,13.0,850770.0
+2020,6,4,ES,Salamanca,pm25,48,21.0,55.0,38.0,1106.1
+2020,3,30,ES,Salamanca,pm25,34,5.0,53.0,17.0,3100.32
+2020,4,29,ES,Salamanca,pm25,40,5.0,21.0,13.0,365.54
+2020,5,30,ES,Salamanca,pm25,46,17.0,55.0,38.0,1206.22
+2020,5,31,ES,Salamanca,pm25,38,5.0,55.0,21.0,2050.87
+2020,1,8,ES,Salamanca,pm25,48,17.0,89.0,42.0,6615.16
+2020,1,30,ES,Salamanca,pm25,48,5.0,42.0,13.0,1260.41
+2020,2,2,ES,Salamanca,pm25,22,5.0,46.0,13.0,1491.43
+2020,3,3,ES,Salamanca,pm25,18,5.0,9.0,9.0,41.83
+2020,6,23,ES,Salamanca,pm25,38,17.0,42.0,25.0,680.28
+2020,8,7,ES,Salamanca,pm25,38,21.0,82.0,38.0,2751.41
+2020,1,7,ES,Salamanca,pm25,48,9.0,65.0,34.0,3857.0
+2020,1,29,ES,Salamanca,pm25,32,5.0,21.0,9.0,278.07
+2020,2,4,ES,Salamanca,pm25,22,13.0,34.0,34.0,724.33
+2020,1,24,ES,Salamanca,pm25,48,17.0,61.0,38.0,1597.0
+2020,6,16,ES,Salamanca,pm25,38,5.0,30.0,13.0,590.9
+2020,7,29,ES,Salamanca,pm25,46,5.0,59.0,34.0,2841.55
+2020,3,11,ES,Salamanca,pm25,48,5.0,74.0,38.0,6113.97
+2020,4,13,ES,Salamanca,pm25,48,5.0,25.0,17.0,308.65
+2020,2,15,ES,Salamanca,pm25,24,5.0,104.0,25.0,8427.54
+2020,5,3,ES,Salamanca,pm25,46,5.0,25.0,9.0,492.21
+2020,5,6,ES,Salamanca,pm25,48,5.0,30.0,17.0,402.48
+2020,8,4,ES,Salamanca,pm25,28,5.0,25.0,13.0,375.87
+2020,1,27,ES,Salamanca,pm25,40,5.0,34.0,17.0,782.05
+2020,3,9,ES,Salamanca,pm25,46,5.0,50.0,17.0,1067.4
+2020,3,18,ES,Salamanca,pm25,40,5.0,61.0,38.0,4307.15
+2020,7,6,ES,Salamanca,pm25,48,5.0,25.0,13.0,317.45
+2020,7,16,ES,Salamanca,pm25,44,5.0,21.0,13.0,316.96
+2020,1,16,ES,Salamanca,pm25,46,5.0,38.0,17.0,977.66
+2020,2,10,ES,Salamanca,pm25,15,5.0,774.0,13.0,721894.0
+2020,6,26,ES,Salamanca,pm25,44,5.0,50.0,34.0,2559.43
+2020,7,10,ES,Salamanca,pm25,48,17.0,580.0,38.0,236065.0
+2020,1,25,ES,Salamanca,pm25,46,5.0,50.0,25.0,1382.22
+2020,4,16,ES,Salamanca,pm25,48,5.0,25.0,9.0,489.08
+2020,4,11,ES,Salamanca,pm25,36,5.0,21.0,9.0,260.06
+2020,5,19,ES,Salamanca,pm25,40,5.0,25.0,13.0,431.18
+2020,6,3,ES,Salamanca,pm25,48,30.0,57.0,46.0,410.48
+2020,6,7,ES,Salamanca,pm25,36,5.0,50.0,21.0,2374.35
+2020,1,1,ES,Salamanca,pm25,23,13.0,74.0,55.0,2827.11
+2020,2,26,ES,Salamanca,pm25,42,5.0,50.0,17.0,1645.48
+2020,3,6,ES,Salamanca,pm25,28,5.0,25.0,9.0,626.45
+2020,6,28,ES,Salamanca,pm25,30,5.0,17.0,9.0,136.83
+2020,1,20,ES,Salamanca,pm25,48,5.0,46.0,17.0,1090.78
+2020,2,22,ES,Salamanca,pm25,24,30.0,93.0,55.0,3104.33
+2020,3,27,ES,Salamanca,pm25,46,13.0,57.0,38.0,1757.72
+2020,6,1,ES,Salamanca,pm25,48,5.0,38.0,21.0,738.44
+2020,4,2,ES,Salamanca,pm25,48,5.0,42.0,17.0,1028.49
+2020,1,18,ES,Salamanca,pm25,32,5.0,70.0,9.0,5147.06
+2020,2,25,ES,Salamanca,pm25,44,5.0,57.0,30.0,2981.14
+2020,5,4,ES,Salamanca,pm25,46,17.0,46.0,21.0,904.39
+2020,7,7,ES,Salamanca,pm25,42,9.0,59.0,21.0,1083.9
+2020,4,17,ES,Salamanca,pm25,46,5.0,21.0,13.0,226.32
+2020,5,9,ES,Salamanca,pm25,48,17.0,57.0,30.0,1275.3
+2020,7,8,ES,Salamanca,pm25,42,30.0,57.0,42.0,479.49
+2020,8,1,ES,Salamanca,pm25,48,5.0,55.0,17.0,2291.06
+2020,4,14,ES,Salamanca,pm25,48,9.0,42.0,25.0,1080.57
+2020,3,4,ES,Salamanca,pm25,18,5.0,21.0,5.0,468.5
+2020,1,17,ES,Salamanca,pm25,48,5.0,53.0,17.0,2131.63
+2020,5,20,ES,Salamanca,pm25,46,5.0,30.0,17.0,596.29
+2020,5,28,ES,Salamanca,pm25,42,9.0,34.0,21.0,437.54
+2020,6,2,ES,Salamanca,pm25,46,21.0,46.0,34.0,374.65
+2020,3,8,ES,Salamanca,pm25,48,5.0,46.0,25.0,2051.06
+2020,5,21,ES,Salamanca,pm25,46,5.0,61.0,25.0,3242.63
+2020,4,7,ES,Salamanca,pm25,32,5.0,30.0,13.0,593.39
+2020,4,28,ES,Salamanca,pm25,48,5.0,30.0,17.0,674.26
+2020,6,13,ES,Salamanca,pm25,46,5.0,30.0,21.0,882.86
+2020,2,7,ES,Salamanca,pm25,46,21.0,151.0,61.0,11781.3
+2020,6,25,ES,Salamanca,pm25,48,21.0,46.0,34.0,445.09
+2020,7,19,ES,Salamanca,pm25,40,5.0,42.0,25.0,941.64
+2020,8,6,ES,Salamanca,pm25,44,13.0,42.0,25.0,837.89
+2020,1,4,ES,Salamanca,pm25,46,9.0,61.0,42.0,2797.76
+2020,4,9,ES,Salamanca,pm25,44,9.0,30.0,17.0,372.94
+2020,5,29,ES,Salamanca,pm25,46,9.0,38.0,25.0,741.26
+2020,6,22,ES,Salamanca,pm25,48,13.0,38.0,21.0,453.33
+2020,5,15,ES,Salamanca,pm25,48,5.0,42.0,25.0,936.01
+2020,6,6,ES,Salamanca,pm25,46,17.0,38.0,30.0,474.43
+2020,6,9,ES,Salamanca,pm25,38,5.0,34.0,13.0,852.18
+2020,6,30,ES,Salamanca,pm25,46,9.0,38.0,21.0,577.31
+2020,4,23,ES,Salamanca,pm25,48,13.0,63.0,25.0,1431.47
+2020,4,27,ES,Salamanca,pm25,42,5.0,42.0,34.0,1634.61
+2020,4,30,ES,Salamanca,pm25,38,5.0,30.0,13.0,618.66
+2020,5,13,ES,Salamanca,pm25,42,5.0,21.0,9.0,275.03
+2020,7,15,ES,Salamanca,pm25,24,5.0,25.0,13.0,677.1
+2020,4,1,ES,Salamanca,pm25,44,5.0,30.0,13.0,663.53
+2020,5,22,ES,Salamanca,pm25,46,9.0,61.0,34.0,2210.36
+2020,4,6,ES,Salamanca,pm25,28,5.0,25.0,13.0,436.83
+2019,12,30,ES,Salamanca,pm25,22,30.0,89.0,55.0,2437.6
+2019,12,31,ES,Salamanca,pm25,23,38.0,89.0,57.0,1875.22
+2020,2,16,ES,Salamanca,pm25,24,5.0,38.0,17.0,798.53
+2020,2,29,ES,Salamanca,pm25,48,5.0,112.0,30.0,12843.3
+2020,7,5,ES,Salamanca,pm25,34,5.0,30.0,13.0,543.6
+2020,7,24,ES,Salamanca,pm25,48,9.0,53.0,30.0,1948.35
+2020,2,17,ES,Salamanca,pm25,22,5.0,55.0,9.0,2633.25
+2020,2,19,ES,Salamanca,pm25,23,5.0,70.0,30.0,3237.83
+2020,6,15,ES,Salamanca,pm25,46,5.0,30.0,17.0,656.27
+2020,7,26,ES,Salamanca,pm25,48,9.0,63.0,38.0,3230.35
+2020,2,8,ES,Salamanca,pm25,44,5.0,42.0,21.0,1375.56
+2020,4,18,ES,Salamanca,pm25,46,5.0,21.0,9.0,139.75
+2020,5,16,ES,Salamanca,pm25,46,9.0,53.0,38.0,1996.14
+2020,6,12,ES,Salamanca,pm25,44,5.0,25.0,13.0,391.37
+2020,6,14,ES,Salamanca,pm25,48,9.0,25.0,17.0,278.86
+2020,6,10,ES,Salamanca,pm25,46,5.0,34.0,17.0,639.92
+2020,1,2,ES,Salamanca,pm25,33,25.0,151.0,53.0,7652.97
+2020,1,12,ES,Salamanca,pm25,48,17.0,53.0,30.0,953.97
+2020,4,15,ES,Salamanca,pm25,46,5.0,34.0,9.0,629.76
+2020,4,19,ES,Salamanca,pm25,48,5.0,68.0,17.0,2628.49
+2020,1,9,ES,Salamanca,pm25,48,30.0,93.0,68.0,2967.87
+2020,2,6,ES,Salamanca,pm25,48,13.0,129.0,34.0,11850.1
+2020,3,26,ES,Salamanca,pm25,48,5.0,50.0,17.0,2177.29
+2020,4,25,ES,Salamanca,pm25,46,5.0,38.0,21.0,524.29
+2020,6,24,ES,Salamanca,pm25,48,34.0,68.0,50.0,1138.94
+2020,7,14,ES,Salamanca,pm25,28,5.0,30.0,21.0,869.05
+2020,7,17,ES,Salamanca,pm25,48,5.0,38.0,17.0,987.8
+2020,3,21,ES,Donostia / San Sebastián,pm25,213,5.0,74.0,46.0,1944.15
+2020,1,27,ES,Donostia / San Sebastián,pm25,150,5.0,74.0,17.0,1615.0
+2020,3,9,ES,Donostia / San Sebastián,pm25,203,5.0,122.0,21.0,2380.82
+2020,5,23,ES,Donostia / San Sebastián,pm25,168,5.0,65.0,17.0,1981.43
+2020,5,31,ES,Donostia / San Sebastián,pm25,91,5.0,154.0,50.0,6434.08
+2020,3,15,ES,Donostia / San Sebastián,pm25,200,5.0,93.0,34.0,3107.08
+2020,4,18,ES,Donostia / San Sebastián,pm25,202,5.0,74.0,25.0,1782.28
+2020,3,3,ES,Donostia / San Sebastián,pm25,92,5.0,74.0,25.0,4387.83
+2020,3,8,ES,Donostia / San Sebastián,pm25,201,5.0,91.0,25.0,2813.77
+2020,1,18,ES,Donostia / San Sebastián,pm25,198,5.0,68.0,17.0,3198.22
+2020,3,16,ES,Donostia / San Sebastián,pm25,153,5.0,82.0,13.0,1287.14
+2020,6,10,ES,Donostia / San Sebastián,pm25,117,5.0,57.0,25.0,1444.8
+2020,5,27,ES,Donostia / San Sebastián,pm25,88,5.0,91.0,38.0,4322.47
+2020,6,3,ES,Donostia / San Sebastián,pm25,94,5.0,102.0,55.0,2771.01
+2020,3,20,ES,Donostia / San Sebastián,pm25,212,5.0,85.0,38.0,1748.62
+2020,3,25,ES,Donostia / San Sebastián,pm25,209,5.0,78.0,50.0,3125.26
+2020,4,24,ES,Donostia / San Sebastián,pm25,214,9.0,85.0,50.0,2247.95
+2020,2,26,ES,Donostia / San Sebastián,pm25,183,5.0,57.0,17.0,1309.01
+2020,1,22,ES,Donostia / San Sebastián,pm25,211,5.0,95.0,65.0,3161.15
+2020,6,26,ES,Donostia / San Sebastián,pm25,214,5.0,76.0,25.0,1544.79
+2020,7,20,ES,Donostia / San Sebastián,pm25,194,5.0,99.0,30.0,3277.86
+2020,2,29,ES,Donostia / San Sebastián,pm25,215,5.0,119.0,50.0,8909.95
+2020,3,31,ES,Donostia / San Sebastián,pm25,195,5.0,82.0,38.0,3361.58
+2020,4,7,ES,Donostia / San Sebastián,pm25,198,5.0,82.0,25.0,2917.12
+2020,6,1,ES,Donostia / San Sebastián,pm25,91,5.0,124.0,50.0,5722.97
+2020,1,21,ES,Donostia / San Sebastián,pm25,211,5.0,91.0,57.0,2953.89
+2020,1,28,ES,Donostia / San Sebastián,pm25,194,5.0,65.0,25.0,2566.71
+2020,2,7,ES,Donostia / San Sebastián,pm25,214,5.0,78.0,34.0,2488.51
+2020,1,9,ES,Donostia / San Sebastián,pm25,201,5.0,82.0,25.0,2662.83
+2020,1,30,ES,Donostia / San Sebastián,pm25,174,5.0,63.0,17.0,1246.12
+2020,2,2,ES,Donostia / San Sebastián,pm25,149,5.0,89.0,13.0,1886.98
+2020,7,5,ES,Donostia / San Sebastián,pm25,182,5.0,76.0,17.0,1864.43
+2020,4,8,ES,Donostia / San Sebastián,pm25,208,5.0,76.0,34.0,2290.75
+2020,6,27,ES,Donostia / San Sebastián,pm25,183,5.0,119.0,21.0,2225.48
+2020,6,17,ES,Donostia / San Sebastián,pm25,21,5.0,42.0,21.0,1104.48
+2020,2,5,ES,Donostia / San Sebastián,pm25,200,5.0,76.0,25.0,2297.02
+2020,4,14,ES,Donostia / San Sebastián,pm25,206,5.0,154.0,55.0,3942.43
+2020,1,11,ES,Donostia / San Sebastián,pm25,205,5.0,80.0,46.0,2887.06
+2020,3,23,ES,Donostia / San Sebastián,pm25,210,5.0,89.0,59.0,2886.96
+2020,7,27,ES,Donostia / San Sebastián,pm25,193,5.0,109.0,30.0,4991.94
+2020,2,10,ES,Donostia / San Sebastián,pm25,113,5.0,72.0,34.0,3037.25
+2020,2,17,ES,Donostia / San Sebastián,pm25,87,5.0,59.0,17.0,2066.95
+2020,5,5,ES,Donostia / San Sebastián,pm25,203,5.0,76.0,30.0,3013.7
+2020,8,4,ES,Donostia / San Sebastián,pm25,157,5.0,76.0,13.0,2265.08
+2020,2,4,ES,Donostia / San Sebastián,pm25,206,5.0,162.0,21.0,7151.59
+2020,5,13,ES,Donostia / San Sebastián,pm25,201,5.0,182.0,30.0,18446.8
+2020,8,7,ES,Donostia / San Sebastián,pm25,159,5.0,158.0,46.0,4588.89
+2020,6,16,ES,Donostia / San Sebastián,pm25,49,5.0,74.0,21.0,2372.08
+2019,12,30,ES,Donostia / San Sebastián,pm25,91,5.0,80.0,46.0,3413.3
+2020,2,14,ES,Donostia / San Sebastián,pm25,108,5.0,154.0,38.0,4755.48
+2020,3,12,ES,Donostia / San Sebastián,pm25,214,5.0,63.0,30.0,2375.42
+2020,3,29,ES,Donostia / San Sebastián,pm25,194,5.0,132.0,72.0,5886.54
+2020,2,16,ES,Donostia / San Sebastián,pm25,94,5.0,53.0,21.0,1052.66
+2020,3,11,ES,Donostia / San Sebastián,pm25,205,5.0,97.0,42.0,3122.01
+2020,6,24,ES,Donostia / San Sebastián,pm25,207,13.0,185.0,70.0,14345.3
+2020,2,13,ES,Donostia / San Sebastián,pm25,117,5.0,163.0,30.0,5971.15
+2020,3,24,ES,Donostia / San Sebastián,pm25,197,9.0,91.0,59.0,2918.77
+2020,7,22,ES,Donostia / San Sebastián,pm25,194,5.0,149.0,34.0,4848.35
+2019,12,31,ES,Donostia / San Sebastián,pm25,94,9.0,99.0,53.0,3412.18
+2020,1,10,ES,Donostia / San Sebastián,pm25,191,5.0,76.0,30.0,2626.52
+2020,1,19,ES,Donostia / San Sebastián,pm25,194,5.0,63.0,21.0,1308.68
+2020,1,20,ES,Donostia / San Sebastián,pm25,172,5.0,70.0,34.0,1844.31
+2020,1,7,ES,Donostia / San Sebastián,pm25,216,9.0,167.0,55.0,4237.98
+2020,5,16,ES,Donostia / San Sebastián,pm25,179,9.0,74.0,38.0,1418.93
+2020,7,16,ES,Donostia / San Sebastián,pm25,190,5.0,61.0,17.0,1652.5
+2020,1,3,ES,Donostia / San Sebastián,pm25,216,5.0,147.0,61.0,6563.74
+2020,4,10,ES,Donostia / San Sebastián,pm25,211,5.0,78.0,38.0,1564.07
+2020,7,10,ES,Donostia / San Sebastián,pm25,188,5.0,112.0,17.0,2500.92
+2020,2,9,ES,Donostia / San Sebastián,pm25,116,5.0,72.0,21.0,1775.92
+2020,2,22,ES,Donostia / San Sebastián,pm25,97,5.0,89.0,50.0,2680.56
+2020,4,29,ES,Donostia / San Sebastián,pm25,190,5.0,57.0,17.0,1528.5
+2020,6,18,ES,Donostia / San Sebastián,pm25,111,5.0,70.0,17.0,1649.54
+2020,4,9,ES,Donostia / San Sebastián,pm25,207,5.0,78.0,38.0,2795.09
+2020,4,13,ES,Donostia / San Sebastián,pm25,216,5.0,76.0,46.0,1126.03
+2020,5,24,ES,Donostia / San Sebastián,pm25,172,5.0,76.0,25.0,1764.95
+2020,5,4,ES,Donostia / San Sebastián,pm25,194,5.0,119.0,38.0,4284.15
+2020,5,19,ES,Donostia / San Sebastián,pm25,214,5.0,87.0,34.0,2558.98
+2020,7,28,ES,Donostia / San Sebastián,pm25,184,5.0,82.0,17.0,2493.25
+2020,8,3,ES,Donostia / San Sebastián,pm25,153,5.0,57.0,17.0,1639.56
+2020,1,31,ES,Donostia / San Sebastián,pm25,189,5.0,74.0,17.0,2300.31
+2020,2,18,ES,Donostia / San Sebastián,pm25,92,5.0,59.0,21.0,1855.78
+2020,3,5,ES,Donostia / San Sebastián,pm25,190,5.0,63.0,17.0,1660.69
+2020,3,19,ES,Donostia / San Sebastián,pm25,214,5.0,124.0,50.0,2674.55
+2020,4,27,ES,Donostia / San Sebastián,pm25,207,5.0,76.0,38.0,2451.03
+2020,5,10,ES,Donostia / San Sebastián,pm25,173,5.0,68.0,25.0,2566.14
+2020,6,30,ES,Donostia / San Sebastián,pm25,205,5.0,80.0,17.0,1732.66
+2020,1,16,ES,Donostia / San Sebastián,pm25,205,5.0,127.0,25.0,6528.37
+2020,3,27,ES,Donostia / San Sebastián,pm25,210,5.0,144.0,57.0,3326.59
+2020,4,12,ES,Donostia / San Sebastián,pm25,215,5.0,127.0,46.0,3134.99
+2020,4,22,ES,Donostia / San Sebastián,pm25,214,5.0,53.0,30.0,1177.05
+2020,1,17,ES,Donostia / San Sebastián,pm25,194,5.0,76.0,21.0,1751.95
+2020,3,17,ES,Donostia / San Sebastián,pm25,189,5.0,57.0,25.0,1453.09
+2020,7,23,ES,Donostia / San Sebastián,pm25,197,5.0,89.0,38.0,3190.75
+2020,7,14,ES,Donostia / San Sebastián,pm25,172,5.0,61.0,21.0,2519.35
+2020,8,1,ES,Donostia / San Sebastián,pm25,175,5.0,154.0,21.0,5616.83
+2020,2,21,ES,Donostia / San Sebastián,pm25,107,9.0,68.0,42.0,2316.03
+2020,4,2,ES,Donostia / San Sebastián,pm25,214,5.0,68.0,34.0,2121.97
+2020,5,20,ES,Donostia / San Sebastián,pm25,200,5.0,91.0,34.0,2835.0
+2020,6,19,ES,Donostia / San Sebastián,pm25,141,5.0,55.0,17.0,1303.96
+2020,5,21,ES,Donostia / San Sebastián,pm25,204,5.0,127.0,53.0,2670.91
+2020,1,25,ES,Donostia / San Sebastián,pm25,119,9.0,65.0,42.0,1791.86
+2020,3,7,ES,Donostia / San Sebastián,pm25,204,5.0,57.0,21.0,1889.43
+2020,4,16,ES,Donostia / San Sebastián,pm25,197,5.0,114.0,25.0,3215.72
+2020,4,25,ES,Donostia / San Sebastián,pm25,213,5.0,80.0,46.0,2671.79
+2020,4,30,ES,Donostia / San Sebastián,pm25,200,5.0,65.0,21.0,1502.73
+2020,5,22,ES,Donostia / San Sebastián,pm25,197,5.0,102.0,38.0,4391.59
+2020,7,7,ES,Donostia / San Sebastián,pm25,194,5.0,87.0,30.0,2253.43
+2020,5,28,ES,Donostia / San Sebastián,pm25,90,5.0,87.0,42.0,3925.75
+2020,8,6,ES,Donostia / San Sebastián,pm25,191,9.0,152.0,42.0,3933.42
+2020,2,11,ES,Donostia / San Sebastián,pm25,115,5.0,80.0,38.0,3692.55
+2020,3,1,ES,Donostia / San Sebastián,pm25,190,5.0,65.0,25.0,2221.07
+2020,3,4,ES,Donostia / San Sebastián,pm25,199,5.0,153.0,21.0,2608.86
+2020,5,12,ES,Donostia / San Sebastián,pm25,199,5.0,61.0,25.0,2213.91
+2020,1,29,ES,Donostia / San Sebastián,pm25,213,5.0,95.0,30.0,4964.18
+2020,6,6,ES,Donostia / San Sebastián,pm25,85,5.0,61.0,21.0,1594.9
+2020,6,11,ES,Donostia / San Sebastián,pm25,112,5.0,151.0,21.0,3853.87
+2020,3,26,ES,Donostia / San Sebastián,pm25,211,5.0,74.0,50.0,2328.45
+2020,4,17,ES,Donostia / San Sebastián,pm25,202,5.0,89.0,25.0,2188.6
+2020,5,9,ES,Donostia / San Sebastián,pm25,206,5.0,104.0,34.0,3319.05
+2020,7,2,ES,Donostia / San Sebastián,pm25,190,5.0,70.0,13.0,1263.59
+2020,1,14,ES,Donostia / San Sebastián,pm25,207,5.0,61.0,21.0,1224.64
+2020,2,3,ES,Donostia / San Sebastián,pm25,200,17.0,129.0,59.0,4608.12
+2020,4,19,ES,Donostia / San Sebastián,pm25,187,5.0,53.0,13.0,994.79
+2020,8,5,ES,Donostia / San Sebastián,pm25,165,5.0,91.0,25.0,2929.5
+2020,3,30,ES,Donostia / San Sebastián,pm25,198,5.0,63.0,25.0,1706.71
+2020,4,20,ES,Donostia / San Sebastián,pm25,186,5.0,53.0,21.0,1167.52
+2020,6,13,ES,Donostia / San Sebastián,pm25,108,5.0,65.0,17.0,1891.67
+2020,7,31,ES,Donostia / San Sebastián,pm25,203,5.0,154.0,42.0,8131.51
+2020,4,28,ES,Donostia / San Sebastián,pm25,195,5.0,151.0,30.0,3806.92
+2020,7,15,ES,Donostia / San Sebastián,pm25,159,5.0,65.0,17.0,2165.12
+2020,2,12,ES,Donostia / San Sebastián,pm25,117,5.0,80.0,38.0,3120.28
+2020,2,19,ES,Donostia / San Sebastián,pm25,90,5.0,74.0,25.0,2381.02
+2020,7,24,ES,Donostia / San Sebastián,pm25,195,5.0,74.0,25.0,2410.66
+2020,7,13,ES,Donostia / San Sebastián,pm25,189,5.0,78.0,30.0,2294.09
+2020,5,29,ES,Donostia / San Sebastián,pm25,92,5.0,112.0,53.0,3542.4
+2020,6,5,ES,Donostia / San Sebastián,pm25,91,5.0,59.0,17.0,2122.94
+2020,7,1,ES,Donostia / San Sebastián,pm25,208,5.0,80.0,17.0,1526.92
+2020,2,1,ES,Donostia / San Sebastián,pm25,172,5.0,70.0,17.0,2086.72
+2020,3,10,ES,Donostia / San Sebastián,pm25,212,5.0,109.0,38.0,2622.3
+2020,6,25,ES,Donostia / San Sebastián,pm25,211,13.0,156.0,55.0,4187.75
+2020,7,18,ES,Donostia / San Sebastián,pm25,204,5.0,112.0,34.0,3392.17
+2020,3,6,ES,Donostia / San Sebastián,pm25,189,5.0,70.0,17.0,1233.95
+2020,6,8,ES,Donostia / San Sebastián,pm25,93,5.0,53.0,17.0,1720.21
+2020,4,3,ES,Donostia / San Sebastián,pm25,213,13.0,85.0,55.0,2225.83
+2020,1,1,ES,Donostia / San Sebastián,pm25,92,5.0,152.0,50.0,7635.03
+2020,1,8,ES,Donostia / San Sebastián,pm25,214,5.0,153.0,65.0,3963.28
+2020,2,23,ES,Donostia / San Sebastián,pm25,94,13.0,107.0,61.0,2966.05
+2020,5,14,ES,Donostia / San Sebastián,pm25,205,5.0,177.0,30.0,21679.7
+2020,7,3,ES,Donostia / San Sebastián,pm25,184,5.0,70.0,13.0,1486.11
+2020,7,12,ES,Donostia / San Sebastián,pm25,207,5.0,93.0,25.0,2468.81
+2020,4,15,ES,Donostia / San Sebastián,pm25,194,5.0,155.0,42.0,4914.47
+2020,7,11,ES,Donostia / San Sebastián,pm25,199,5.0,76.0,17.0,1963.32
+2020,7,26,ES,Donostia / San Sebastián,pm25,171,5.0,114.0,25.0,3371.55
+2020,2,25,ES,Donostia / San Sebastián,pm25,184,5.0,124.0,63.0,11846.9
+2020,5,6,ES,Donostia / San Sebastián,pm25,198,5.0,154.0,38.0,6790.02
+2020,6,21,ES,Donostia / San Sebastián,pm25,108,5.0,76.0,25.0,2077.84
+2020,8,2,ES,Donostia / San Sebastián,pm25,145,5.0,42.0,13.0,1037.91
+2020,1,12,ES,Donostia / San Sebastián,pm25,207,5.0,107.0,46.0,5276.38
+2020,7,17,ES,Donostia / San Sebastián,pm25,174,5.0,78.0,17.0,2001.06
+2020,7,21,ES,Donostia / San Sebastián,pm25,182,5.0,76.0,25.0,2852.94
+2020,2,27,ES,Donostia / San Sebastián,pm25,210,5.0,68.0,30.0,2143.35
+2020,2,28,ES,Donostia / San Sebastián,pm25,213,9.0,107.0,68.0,4323.57
+2020,3,28,ES,Donostia / San Sebastián,pm25,213,9.0,95.0,59.0,2623.04
+2020,4,4,ES,Donostia / San Sebastián,pm25,198,5.0,76.0,38.0,3671.26
+2020,2,15,ES,Donostia / San Sebastián,pm25,87,5.0,63.0,25.0,2081.51
+2020,4,11,ES,Donostia / San Sebastián,pm25,215,5.0,78.0,38.0,1776.35
+2020,5,7,ES,Donostia / San Sebastián,pm25,202,5.0,182.0,50.0,9334.89
+2020,7,9,ES,Donostia / San Sebastián,pm25,214,5.0,70.0,30.0,2175.63
+2020,2,24,ES,Donostia / San Sebastián,pm25,164,9.0,139.0,78.0,5942.21
+2020,5,25,ES,Donostia / San Sebastián,pm25,104,5.0,72.0,25.0,2507.36
+2020,3,13,ES,Donostia / San Sebastián,pm25,201,5.0,61.0,21.0,1266.46
+2020,3,18,ES,Donostia / San Sebastián,pm25,216,9.0,80.0,53.0,1927.19
+2020,3,22,ES,Donostia / San Sebastián,pm25,212,5.0,87.0,57.0,2005.64
+2020,5,30,ES,Donostia / San Sebastián,pm25,90,5.0,87.0,42.0,3481.39
+2020,4,6,ES,Donostia / San Sebastián,pm25,203,5.0,63.0,25.0,1388.37
+2020,4,23,ES,Donostia / San Sebastián,pm25,209,5.0,258.0,34.0,6295.69
+2020,7,6,ES,Donostia / San Sebastián,pm25,189,5.0,85.0,13.0,2289.6
+2020,7,29,ES,Donostia / San Sebastián,pm25,181,5.0,87.0,17.0,2471.12
+2020,5,1,ES,Donostia / San Sebastián,pm25,188,5.0,82.0,21.0,1907.85
+2020,6,29,ES,Donostia / San Sebastián,pm25,161,5.0,89.0,13.0,2387.94
+2020,6,23,ES,Donostia / San Sebastián,pm25,211,5.0,168.0,38.0,8152.69
+2020,5,15,ES,Donostia / San Sebastián,pm25,178,5.0,137.0,38.0,5898.19
+2020,6,2,ES,Donostia / San Sebastián,pm25,93,13.0,109.0,55.0,2423.82
+2020,7,30,ES,Donostia / San Sebastián,pm25,195,5.0,80.0,34.0,4205.79
+2020,7,8,ES,Donostia / San Sebastián,pm25,202,5.0,97.0,34.0,2811.97
+2020,3,2,ES,Donostia / San Sebastián,pm25,139,5.0,53.0,17.0,1068.29
+2020,1,4,ES,Donostia / San Sebastián,pm25,204,5.0,142.0,30.0,9780.09
+2020,2,6,ES,Donostia / San Sebastián,pm25,193,5.0,82.0,34.0,2968.52
+2020,6,4,ES,Donostia / San Sebastián,pm25,90,5.0,72.0,25.0,2530.84
+2020,6,28,ES,Donostia / San Sebastián,pm25,195,5.0,119.0,17.0,2832.26
+2020,1,5,ES,Donostia / San Sebastián,pm25,209,5.0,89.0,50.0,4167.52
+2020,2,8,ES,Donostia / San Sebastián,pm25,209,5.0,95.0,42.0,3570.52
+2020,5,17,ES,Donostia / San Sebastián,pm25,213,5.0,78.0,34.0,1844.23
+2020,6,12,ES,Donostia / San Sebastián,pm25,101,5.0,61.0,13.0,1657.93
+2020,5,18,ES,Donostia / San Sebastián,pm25,211,5.0,85.0,42.0,2053.27
+2020,6,15,ES,Donostia / San Sebastián,pm25,114,5.0,68.0,21.0,2371.5
+2020,1,13,ES,Donostia / San Sebastián,pm25,194,5.0,93.0,30.0,4628.49
+2020,4,21,ES,Donostia / San Sebastián,pm25,210,5.0,53.0,25.0,1200.09
+2020,5,11,ES,Donostia / San Sebastián,pm25,192,5.0,78.0,25.0,2282.7
+2020,6,20,ES,Donostia / San Sebastián,pm25,133,5.0,85.0,17.0,2336.89
+2020,2,20,ES,Donostia / San Sebastián,pm25,89,5.0,76.0,38.0,2673.84
+2020,4,1,ES,Donostia / San Sebastián,pm25,177,5.0,95.0,34.0,5613.76
+2020,4,5,ES,Donostia / San Sebastián,pm25,189,5.0,61.0,25.0,1219.91
+2020,7,4,ES,Donostia / San Sebastián,pm25,192,5.0,78.0,17.0,1787.4
+2020,1,2,ES,Donostia / San Sebastián,pm25,180,13.0,97.0,46.0,3666.8
+2020,1,23,ES,Donostia / San Sebastián,pm25,171,5.0,170.0,59.0,6116.51
+2020,1,24,ES,Donostia / San Sebastián,pm25,120,17.0,72.0,50.0,1400.67
+2020,1,26,ES,Donostia / San Sebastián,pm25,115,5.0,70.0,38.0,2757.32
+2020,5,26,ES,Donostia / San Sebastián,pm25,89,5.0,117.0,34.0,3935.04
+2020,6,14,ES,Donostia / San Sebastián,pm25,115,5.0,85.0,25.0,2726.36
+2020,1,6,ES,Donostia / San Sebastián,pm25,203,5.0,82.0,50.0,3241.69
+2020,1,15,ES,Donostia / San Sebastián,pm25,207,5.0,80.0,30.0,2287.07
+2020,4,26,ES,Donostia / San Sebastián,pm25,208,5.0,78.0,53.0,3321.45
+2020,5,2,ES,Donostia / San Sebastián,pm25,194,5.0,61.0,21.0,2253.91
+2020,7,19,ES,Donostia / San Sebastián,pm25,193,5.0,170.0,38.0,6391.63
+2020,7,25,ES,Donostia / San Sebastián,pm25,165,5.0,70.0,25.0,1712.32
+2020,5,8,ES,Donostia / San Sebastián,pm25,214,5.0,160.0,38.0,6080.87
+2020,5,3,ES,Donostia / San Sebastián,pm25,200,5.0,85.0,25.0,2895.72
+2020,6,9,ES,Donostia / San Sebastián,pm25,111,5.0,65.0,17.0,1600.43
+2020,6,7,ES,Donostia / San Sebastián,pm25,82,5.0,57.0,13.0,1384.81
+2020,6,22,ES,Donostia / San Sebastián,pm25,193,5.0,78.0,21.0,1810.57
+2020,3,14,ES,Donostia / San Sebastián,pm25,208,5.0,82.0,30.0,2124.44
+2020,1,10,ES,Gasteiz / Vitoria,pm25,63,5.0,63.0,21.0,1343.04
+2020,2,27,ES,Gasteiz / Vitoria,pm25,65,13.0,85.0,38.0,3658.3
+2020,4,17,ES,Gasteiz / Vitoria,pm25,69,5.0,50.0,21.0,1470.44
+2020,5,18,ES,Gasteiz / Vitoria,pm25,66,17.0,61.0,38.0,1164.9
+2020,4,9,ES,Gasteiz / Vitoria,pm25,72,13.0,61.0,38.0,1027.59
+2020,5,6,ES,Gasteiz / Vitoria,pm25,70,5.0,72.0,42.0,2784.55
+2020,7,25,ES,Gasteiz / Vitoria,pm25,70,9.0,68.0,34.0,2232.37
+2020,1,29,ES,Gasteiz / Vitoria,pm25,63,5.0,167.0,50.0,9086.27
+2020,2,1,ES,Gasteiz / Vitoria,pm25,64,5.0,57.0,13.0,1100.79
+2020,2,3,ES,Gasteiz / Vitoria,pm25,72,13.0,139.0,59.0,7058.35
+2020,5,19,ES,Gasteiz / Vitoria,pm25,72,13.0,57.0,38.0,1559.93
+2020,5,26,ES,Gasteiz / Vitoria,pm25,70,13.0,61.0,38.0,1598.01
+2020,6,22,ES,Gasteiz / Vitoria,pm25,70,5.0,59.0,21.0,1649.61
+2020,7,14,ES,Gasteiz / Vitoria,pm25,70,5.0,61.0,42.0,2190.11
+2019,12,30,ES,Gasteiz / Vitoria,pm25,72,25.0,87.0,50.0,2516.21
+2020,2,20,ES,Gasteiz / Vitoria,pm25,72,9.0,169.0,55.0,14325.2
+2020,3,29,ES,Gasteiz / Vitoria,pm25,66,5.0,85.0,61.0,3144.04
+2020,4,12,ES,Gasteiz / Vitoria,pm25,70,9.0,61.0,42.0,1851.28
+2020,7,16,ES,Gasteiz / Vitoria,pm25,67,5.0,68.0,25.0,2067.79
+2020,7,27,ES,Gasteiz / Vitoria,pm25,67,5.0,97.0,38.0,5420.85
+2020,8,7,ES,Gasteiz / Vitoria,pm25,57,9.0,93.0,46.0,2162.17
+2020,1,3,ES,Gasteiz / Vitoria,pm25,72,21.0,82.0,61.0,2755.35
+2020,1,28,ES,Gasteiz / Vitoria,pm25,67,5.0,59.0,30.0,1750.12
+2020,6,2,ES,Gasteiz / Vitoria,pm25,72,9.0,80.0,55.0,1671.11
+2020,6,3,ES,Gasteiz / Vitoria,pm25,69,42.0,102.0,63.0,1443.79
+2020,5,16,ES,Gasteiz / Vitoria,pm25,65,30.0,53.0,42.0,395.32
+2020,7,3,ES,Gasteiz / Vitoria,pm25,63,5.0,61.0,25.0,1499.99
+2020,1,31,ES,Gasteiz / Vitoria,pm25,65,5.0,63.0,13.0,2281.52
+2020,2,19,ES,Gasteiz / Vitoria,pm25,71,9.0,151.0,50.0,7665.52
+2020,4,21,ES,Gasteiz / Vitoria,pm25,69,5.0,55.0,25.0,1384.61
+2020,5,13,ES,Gasteiz / Vitoria,pm25,70,5.0,61.0,21.0,2259.93
+2020,7,21,ES,Gasteiz / Vitoria,pm25,66,21.0,85.0,46.0,1747.56
+2020,5,9,ES,Gasteiz / Vitoria,pm25,67,13.0,57.0,34.0,1399.03
+2020,1,9,ES,Gasteiz / Vitoria,pm25,70,5.0,55.0,38.0,1365.76
+2020,1,22,ES,Gasteiz / Vitoria,pm25,72,9.0,59.0,42.0,1274.37
+2020,3,12,ES,Gasteiz / Vitoria,pm25,65,5.0,57.0,30.0,1807.85
+2020,3,21,ES,Gasteiz / Vitoria,pm25,70,13.0,78.0,42.0,1105.97
+2020,1,27,ES,Gasteiz / Vitoria,pm25,68,5.0,34.0,21.0,632.98
+2020,6,27,ES,Gasteiz / Vitoria,pm25,72,5.0,57.0,25.0,1148.54
+2020,3,23,ES,Gasteiz / Vitoria,pm25,65,13.0,70.0,57.0,2162.77
+2020,5,3,ES,Gasteiz / Vitoria,pm25,68,5.0,42.0,25.0,1026.49
+2020,5,25,ES,Gasteiz / Vitoria,pm25,69,5.0,55.0,30.0,876.02
+2020,5,12,ES,Gasteiz / Vitoria,pm25,68,9.0,74.0,34.0,3085.03
+2020,4,15,ES,Gasteiz / Vitoria,pm25,68,9.0,59.0,34.0,1674.72
+2020,4,19,ES,Gasteiz / Vitoria,pm25,61,9.0,74.0,21.0,2184.15
+2020,3,22,ES,Gasteiz / Vitoria,pm25,69,25.0,74.0,57.0,607.79
+2020,3,30,ES,Gasteiz / Vitoria,pm25,59,5.0,70.0,17.0,1511.45
+2020,7,2,ES,Gasteiz / Vitoria,pm25,58,5.0,57.0,17.0,1168.05
+2020,1,1,ES,Gasteiz / Vitoria,pm25,72,13.0,129.0,57.0,3980.0
+2020,1,11,ES,Gasteiz / Vitoria,pm25,67,5.0,70.0,30.0,2216.31
+2020,2,13,ES,Gasteiz / Vitoria,pm25,72,5.0,74.0,38.0,2817.98
+2020,7,18,ES,Gasteiz / Vitoria,pm25,64,9.0,61.0,30.0,1806.98
+2020,6,29,ES,Gasteiz / Vitoria,pm25,61,5.0,50.0,21.0,1123.51
+2020,7,19,ES,Gasteiz / Vitoria,pm25,68,21.0,78.0,42.0,1903.69
+2020,3,3,ES,Gasteiz / Vitoria,pm25,32,9.0,63.0,30.0,2400.88
+2020,4,20,ES,Gasteiz / Vitoria,pm25,67,5.0,53.0,25.0,1138.04
+2020,5,11,ES,Gasteiz / Vitoria,pm25,64,5.0,55.0,25.0,1531.23
+2020,3,19,ES,Gasteiz / Vitoria,pm25,68,25.0,72.0,50.0,1342.35
+2020,5,20,ES,Gasteiz / Vitoria,pm25,71,5.0,68.0,38.0,2510.11
+2020,7,12,ES,Gasteiz / Vitoria,pm25,69,9.0,74.0,34.0,2006.06
+2020,3,16,ES,Gasteiz / Vitoria,pm25,60,5.0,61.0,9.0,1031.65
+2020,5,29,ES,Gasteiz / Vitoria,pm25,71,13.0,72.0,42.0,1987.57
+2020,6,1,ES,Gasteiz / Vitoria,pm25,69,13.0,68.0,30.0,2039.21
+2020,2,7,ES,Gasteiz / Vitoria,pm25,70,34.0,87.0,57.0,1072.09
+2020,2,14,ES,Gasteiz / Vitoria,pm25,72,13.0,78.0,34.0,1877.59
+2020,4,1,ES,Gasteiz / Vitoria,pm25,61,5.0,63.0,13.0,858.99
+2020,4,2,ES,Gasteiz / Vitoria,pm25,72,5.0,53.0,30.0,1428.21
+2020,4,22,ES,Gasteiz / Vitoria,pm25,68,5.0,74.0,38.0,1804.89
+2020,7,13,ES,Gasteiz / Vitoria,pm25,70,17.0,65.0,38.0,1072.73
+2020,4,27,ES,Gasteiz / Vitoria,pm25,72,5.0,50.0,25.0,1105.63
+2020,7,24,ES,Gasteiz / Vitoria,pm25,61,5.0,72.0,38.0,2567.3
+2020,3,6,ES,Gasteiz / Vitoria,pm25,67,5.0,55.0,13.0,1140.22
+2020,7,9,ES,Gasteiz / Vitoria,pm25,71,21.0,70.0,50.0,1121.96
+2020,2,12,ES,Gasteiz / Vitoria,pm25,69,5.0,72.0,30.0,2052.1
+2020,4,11,ES,Gasteiz / Vitoria,pm25,70,5.0,30.0,21.0,329.39
+2020,4,16,ES,Gasteiz / Vitoria,pm25,58,5.0,50.0,30.0,1304.99
+2020,6,18,ES,Gasteiz / Vitoria,pm25,52,13.0,42.0,25.0,530.39
+2020,6,5,ES,Gasteiz / Vitoria,pm25,69,5.0,57.0,25.0,1612.89
+2020,6,24,ES,Gasteiz / Vitoria,pm25,70,17.0,82.0,57.0,2348.66
+2020,1,15,ES,Gasteiz / Vitoria,pm25,67,13.0,63.0,38.0,1828.04
+2020,2,26,ES,Gasteiz / Vitoria,pm25,66,5.0,164.0,13.0,6664.1
+2020,4,13,ES,Gasteiz / Vitoria,pm25,69,25.0,59.0,46.0,465.72
+2020,5,22,ES,Gasteiz / Vitoria,pm25,71,5.0,70.0,38.0,2374.53
+2020,1,4,ES,Gasteiz / Vitoria,pm25,64,5.0,82.0,34.0,7993.55
+2020,6,17,ES,Gasteiz / Vitoria,pm25,10,5.0,21.0,21.0,277.33
+2020,3,14,ES,Gasteiz / Vitoria,pm25,72,5.0,57.0,34.0,1612.68
+2020,4,5,ES,Gasteiz / Vitoria,pm25,70,5.0,70.0,30.0,1110.56
+2020,1,13,ES,Gasteiz / Vitoria,pm25,72,9.0,89.0,50.0,3577.87
+2020,2,5,ES,Gasteiz / Vitoria,pm25,63,5.0,68.0,25.0,2206.63
+2020,2,18,ES,Gasteiz / Vitoria,pm25,68,5.0,59.0,21.0,1356.3
+2020,6,4,ES,Gasteiz / Vitoria,pm25,70,5.0,57.0,30.0,1890.27
+2020,7,10,ES,Gasteiz / Vitoria,pm25,70,9.0,61.0,30.0,2238.75
+2020,7,29,ES,Gasteiz / Vitoria,pm25,65,5.0,59.0,34.0,2590.03
+2020,4,25,ES,Gasteiz / Vitoria,pm25,66,25.0,59.0,42.0,948.27
+2020,5,23,ES,Gasteiz / Vitoria,pm25,66,5.0,42.0,13.0,819.65
+2020,6,14,ES,Gasteiz / Vitoria,pm25,69,5.0,55.0,25.0,1081.1
+2020,7,17,ES,Gasteiz / Vitoria,pm25,66,9.0,46.0,21.0,836.59
+2020,1,26,ES,Gasteiz / Vitoria,pm25,69,5.0,50.0,30.0,878.71
+2020,3,1,ES,Gasteiz / Vitoria,pm25,66,5.0,55.0,17.0,1375.96
+2020,3,17,ES,Gasteiz / Vitoria,pm25,72,5.0,50.0,21.0,1289.48
+2020,8,4,ES,Gasteiz / Vitoria,pm25,53,5.0,144.0,17.0,8498.02
+2020,2,8,ES,Gasteiz / Vitoria,pm25,72,5.0,85.0,61.0,4898.97
+2020,2,22,ES,Gasteiz / Vitoria,pm25,72,13.0,87.0,55.0,3014.35
+2020,4,14,ES,Gasteiz / Vitoria,pm25,69,17.0,63.0,42.0,1267.91
+2020,5,1,ES,Gasteiz / Vitoria,pm25,63,5.0,53.0,17.0,811.88
+2020,5,4,ES,Gasteiz / Vitoria,pm25,69,9.0,59.0,38.0,1646.37
+2020,7,8,ES,Gasteiz / Vitoria,pm25,71,21.0,70.0,50.0,1444.38
+2020,7,30,ES,Gasteiz / Vitoria,pm25,68,9.0,91.0,46.0,3157.76
+2020,1,2,ES,Gasteiz / Vitoria,pm25,71,9.0,65.0,38.0,1829.41
+2020,4,8,ES,Gasteiz / Vitoria,pm25,70,9.0,57.0,30.0,1701.3
+2020,5,17,ES,Gasteiz / Vitoria,pm25,65,17.0,57.0,38.0,1062.27
+2020,7,28,ES,Gasteiz / Vitoria,pm25,70,5.0,57.0,21.0,1268.04
+2020,5,14,ES,Gasteiz / Vitoria,pm25,67,5.0,46.0,21.0,720.97
+2020,7,6,ES,Gasteiz / Vitoria,pm25,63,5.0,68.0,25.0,1404.78
+2020,3,7,ES,Gasteiz / Vitoria,pm25,66,5.0,68.0,25.0,3083.23
+2020,3,28,ES,Gasteiz / Vitoria,pm25,72,17.0,72.0,50.0,1510.7
+2020,4,23,ES,Gasteiz / Vitoria,pm25,69,9.0,74.0,34.0,2633.1
+2020,4,28,ES,Gasteiz / Vitoria,pm25,68,5.0,34.0,17.0,484.78
+2020,3,4,ES,Gasteiz / Vitoria,pm25,64,5.0,59.0,17.0,1401.15
+2020,4,7,ES,Gasteiz / Vitoria,pm25,70,9.0,46.0,25.0,834.18
+2020,6,9,ES,Gasteiz / Vitoria,pm25,69,5.0,72.0,25.0,1857.83
+2020,6,21,ES,Gasteiz / Vitoria,pm25,69,5.0,55.0,30.0,1667.18
+2020,1,17,ES,Gasteiz / Vitoria,pm25,69,5.0,42.0,21.0,897.55
+2020,1,18,ES,Gasteiz / Vitoria,pm25,71,5.0,59.0,34.0,2322.47
+2020,2,24,ES,Gasteiz / Vitoria,pm25,72,17.0,104.0,61.0,4664.49
+2020,3,9,ES,Gasteiz / Vitoria,pm25,69,9.0,46.0,21.0,968.3
+2020,5,27,ES,Gasteiz / Vitoria,pm25,70,13.0,70.0,42.0,2005.08
+2020,6,8,ES,Gasteiz / Vitoria,pm25,60,5.0,68.0,17.0,987.86
+2020,6,15,ES,Gasteiz / Vitoria,pm25,70,5.0,63.0,25.0,1320.13
+2020,8,2,ES,Gasteiz / Vitoria,pm25,64,5.0,42.0,13.0,1064.72
+2020,1,24,ES,Gasteiz / Vitoria,pm25,67,25.0,80.0,59.0,1475.12
+2020,5,31,ES,Gasteiz / Vitoria,pm25,72,9.0,65.0,42.0,1522.49
+2020,1,7,ES,Gasteiz / Vitoria,pm25,70,25.0,129.0,63.0,5850.6
+2020,6,20,ES,Gasteiz / Vitoria,pm25,71,13.0,57.0,30.0,1050.74
+2020,6,30,ES,Gasteiz / Vitoria,pm25,69,9.0,57.0,21.0,2286.65
+2020,3,18,ES,Gasteiz / Vitoria,pm25,71,30.0,70.0,53.0,724.18
+2020,7,23,ES,Gasteiz / Vitoria,pm25,68,5.0,142.0,53.0,6679.8
+2020,6,16,ES,Gasteiz / Vitoria,pm25,30,9.0,34.0,25.0,397.02
+2020,6,19,ES,Gasteiz / Vitoria,pm25,67,5.0,55.0,30.0,1247.26
+2020,8,6,ES,Gasteiz / Vitoria,pm25,67,21.0,78.0,50.0,1700.99
+2020,8,3,ES,Gasteiz / Vitoria,pm25,54,5.0,57.0,17.0,1447.4
+2020,7,26,ES,Gasteiz / Vitoria,pm25,71,5.0,70.0,34.0,2163.69
+2020,2,25,ES,Gasteiz / Vitoria,pm25,57,5.0,142.0,80.0,13739.6
+2020,3,11,ES,Gasteiz / Vitoria,pm25,72,17.0,89.0,50.0,2825.02
+2020,4,30,ES,Gasteiz / Vitoria,pm25,64,5.0,65.0,21.0,1897.72
+2020,6,13,ES,Gasteiz / Vitoria,pm25,68,5.0,50.0,21.0,870.63
+2020,2,23,ES,Gasteiz / Vitoria,pm25,72,9.0,82.0,55.0,2624.79
+2020,3,10,ES,Gasteiz / Vitoria,pm25,68,17.0,158.0,55.0,4960.69
+2020,7,5,ES,Gasteiz / Vitoria,pm25,68,5.0,53.0,25.0,1782.41
+2020,7,11,ES,Gasteiz / Vitoria,pm25,70,5.0,46.0,25.0,946.72
+2019,12,31,ES,Gasteiz / Vitoria,pm25,71,21.0,82.0,46.0,2364.14
+2020,6,7,ES,Gasteiz / Vitoria,pm25,62,5.0,34.0,17.0,589.99
+2020,7,7,ES,Gasteiz / Vitoria,pm25,70,5.0,59.0,38.0,1708.57
+2020,1,19,ES,Gasteiz / Vitoria,pm25,66,5.0,30.0,17.0,359.07
+2020,5,7,ES,Gasteiz / Vitoria,pm25,71,21.0,63.0,42.0,1402.64
+2020,5,15,ES,Gasteiz / Vitoria,pm25,64,9.0,53.0,38.0,1271.07
+2020,7,1,ES,Gasteiz / Vitoria,pm25,67,5.0,57.0,25.0,1684.95
+2020,4,18,ES,Gasteiz / Vitoria,pm25,64,5.0,70.0,21.0,1626.55
+2020,5,10,ES,Gasteiz / Vitoria,pm25,66,5.0,61.0,13.0,1514.09
+2020,3,25,ES,Gasteiz / Vitoria,pm25,70,25.0,68.0,53.0,1471.11
+2020,3,15,ES,Gasteiz / Vitoria,pm25,71,5.0,68.0,38.0,2971.13
+2020,6,28,ES,Gasteiz / Vitoria,pm25,70,5.0,57.0,21.0,1689.61
+2020,4,10,ES,Gasteiz / Vitoria,pm25,72,17.0,50.0,34.0,1042.63
+2020,3,27,ES,Gasteiz / Vitoria,pm25,72,17.0,80.0,50.0,2517.02
+2020,1,16,ES,Gasteiz / Vitoria,pm25,72,17.0,70.0,46.0,1869.86
+2020,3,5,ES,Gasteiz / Vitoria,pm25,70,5.0,72.0,17.0,1207.33
+2020,3,8,ES,Gasteiz / Vitoria,pm25,70,5.0,63.0,34.0,2333.9
+2020,1,8,ES,Gasteiz / Vitoria,pm25,72,9.0,139.0,65.0,5337.34
+2020,4,29,ES,Gasteiz / Vitoria,pm25,58,5.0,55.0,17.0,659.93
+2020,2,11,ES,Gasteiz / Vitoria,pm25,71,13.0,63.0,34.0,1972.66
+2020,2,16,ES,Gasteiz / Vitoria,pm25,71,5.0,55.0,25.0,1334.94
+2020,2,17,ES,Gasteiz / Vitoria,pm25,66,5.0,68.0,21.0,1076.78
+2020,2,29,ES,Gasteiz / Vitoria,pm25,71,13.0,159.0,53.0,20029.0
+2020,1,5,ES,Gasteiz / Vitoria,pm25,69,5.0,68.0,21.0,2605.28
+2020,1,21,ES,Gasteiz / Vitoria,pm25,68,5.0,50.0,30.0,480.01
+2020,4,3,ES,Gasteiz / Vitoria,pm25,72,21.0,65.0,42.0,1435.99
+2020,1,25,ES,Gasteiz / Vitoria,pm25,72,13.0,91.0,50.0,3165.4
+2020,2,9,ES,Gasteiz / Vitoria,pm25,68,5.0,65.0,25.0,2291.72
+2020,6,12,ES,Gasteiz / Vitoria,pm25,68,5.0,46.0,17.0,969.22
+2020,8,1,ES,Gasteiz / Vitoria,pm25,70,5.0,72.0,21.0,3407.88
+2020,2,21,ES,Gasteiz / Vitoria,pm25,72,5.0,85.0,42.0,3436.99
+2020,3,24,ES,Gasteiz / Vitoria,pm25,71,9.0,80.0,42.0,1986.73
+2020,4,26,ES,Gasteiz / Vitoria,pm25,62,5.0,53.0,25.0,1211.42
+2020,7,31,ES,Gasteiz / Vitoria,pm25,67,5.0,104.0,55.0,3906.24
+2020,7,22,ES,Gasteiz / Vitoria,pm25,68,9.0,114.0,55.0,3543.42
+2020,2,28,ES,Gasteiz / Vitoria,pm25,72,30.0,99.0,70.0,2936.99
+2020,6,23,ES,Gasteiz / Vitoria,pm25,72,5.0,72.0,46.0,2703.28
+2020,2,15,ES,Gasteiz / Vitoria,pm25,69,17.0,59.0,30.0,1870.39
+2020,3,20,ES,Gasteiz / Vitoria,pm25,67,9.0,55.0,38.0,898.13
+2020,2,10,ES,Gasteiz / Vitoria,pm25,69,5.0,61.0,17.0,2204.24
+2020,4,24,ES,Gasteiz / Vitoria,pm25,69,13.0,72.0,42.0,1645.24
+2020,1,30,ES,Gasteiz / Vitoria,pm25,61,5.0,55.0,17.0,986.39
+2020,4,6,ES,Gasteiz / Vitoria,pm25,69,9.0,50.0,30.0,647.5
+2020,1,6,ES,Gasteiz / Vitoria,pm25,71,13.0,70.0,46.0,1534.14
+2020,5,24,ES,Gasteiz / Vitoria,pm25,63,9.0,63.0,21.0,1904.94
+2020,6,6,ES,Gasteiz / Vitoria,pm25,68,5.0,61.0,30.0,1529.03
+2020,3,31,ES,Gasteiz / Vitoria,pm25,64,5.0,42.0,17.0,740.31
+2020,4,4,ES,Gasteiz / Vitoria,pm25,70,5.0,70.0,34.0,3504.86
+2020,2,2,ES,Gasteiz / Vitoria,pm25,61,5.0,63.0,13.0,1733.34
+2020,2,4,ES,Gasteiz / Vitoria,pm25,65,9.0,166.0,34.0,10720.4
+2020,3,2,ES,Gasteiz / Vitoria,pm25,48,5.0,61.0,13.0,1518.23
+2020,3,26,ES,Gasteiz / Vitoria,pm25,71,21.0,59.0,42.0,1057.56
+2020,1,12,ES,Gasteiz / Vitoria,pm25,72,13.0,192.0,53.0,5352.95
+2020,6,11,ES,Gasteiz / Vitoria,pm25,69,5.0,59.0,34.0,2483.13
+2020,7,15,ES,Gasteiz / Vitoria,pm25,64,5.0,59.0,21.0,1445.75
+2020,6,25,ES,Gasteiz / Vitoria,pm25,71,34.0,74.0,53.0,801.13
+2020,7,20,ES,Gasteiz / Vitoria,pm25,71,13.0,78.0,50.0,1617.85
+2020,8,5,ES,Gasteiz / Vitoria,pm25,64,5.0,68.0,25.0,2905.47
+2020,3,13,ES,Gasteiz / Vitoria,pm25,64,5.0,74.0,17.0,1970.15
+2020,5,2,ES,Gasteiz / Vitoria,pm25,66,5.0,46.0,21.0,954.19
+2020,5,8,ES,Gasteiz / Vitoria,pm25,71,13.0,53.0,34.0,1108.76
+2020,5,21,ES,Gasteiz / Vitoria,pm25,69,17.0,68.0,46.0,1925.39
+2020,2,6,ES,Gasteiz / Vitoria,pm25,72,21.0,91.0,53.0,2006.9
+2020,6,26,ES,Gasteiz / Vitoria,pm25,68,5.0,72.0,34.0,2074.72
+2020,7,4,ES,Gasteiz / Vitoria,pm25,70,5.0,46.0,25.0,1096.7
+2020,1,14,ES,Gasteiz / Vitoria,pm25,70,5.0,53.0,25.0,1168.28
+2020,1,23,ES,Gasteiz / Vitoria,pm25,72,21.0,74.0,50.0,1586.26
+2020,5,5,ES,Gasteiz / Vitoria,pm25,69,5.0,74.0,21.0,2089.38
+2020,5,28,ES,Gasteiz / Vitoria,pm25,71,5.0,70.0,34.0,2966.9
+2020,1,20,ES,Gasteiz / Vitoria,pm25,67,9.0,63.0,25.0,1006.77
+2020,5,30,ES,Gasteiz / Vitoria,pm25,69,5.0,74.0,42.0,2197.52
+2020,6,10,ES,Gasteiz / Vitoria,pm25,72,17.0,53.0,34.0,534.36
+2020,1,26,ES,Valladolid,pm25,86,5.0,107.0,38.0,4432.54
+2020,3,13,ES,Valladolid,pm25,87,5.0,55.0,34.0,1307.29
+2020,4,16,ES,Valladolid,pm25,40,5.0,59.0,21.0,1713.62
+2020,5,28,ES,Valladolid,pm25,52,5.0,70.0,50.0,2866.68
+2020,7,17,ES,Valladolid,pm25,63,17.0,65.0,34.0,1519.74
+2020,3,19,ES,Valladolid,pm25,66,34.0,102.0,61.0,2084.53
+2020,4,29,ES,Valladolid,pm25,60,9.0,112.0,38.0,3477.12
+2020,5,7,ES,Valladolid,pm25,63,21.0,124.0,53.0,3148.91
+2020,5,16,ES,Valladolid,pm25,63,21.0,63.0,42.0,1190.1
+2020,6,16,ES,Valladolid,pm25,62,5.0,42.0,30.0,1231.68
+2020,7,25,ES,Valladolid,pm25,42,13.0,104.0,46.0,2749.02
+2020,8,5,ES,Valladolid,pm25,42,9.0,68.0,46.0,1803.93
+2020,3,21,ES,Valladolid,pm25,93,5.0,78.0,42.0,2387.49
+2020,3,25,ES,Valladolid,pm25,98,13.0,104.0,42.0,4823.38
+2020,2,11,ES,Valladolid,pm25,39,9.0,80.0,34.0,2542.08
+2020,3,2,ES,Valladolid,pm25,55,5.0,87.0,25.0,2906.99
+2020,5,20,ES,Valladolid,pm25,63,5.0,127.0,34.0,5130.88
+2020,6,7,ES,Valladolid,pm25,59,5.0,70.0,21.0,1412.97
+2020,7,5,ES,Valladolid,pm25,84,17.0,65.0,38.0,1789.79
+2020,7,26,ES,Valladolid,pm25,42,5.0,63.0,38.0,1763.21
+2020,2,13,ES,Valladolid,pm25,43,9.0,91.0,46.0,2868.37
+2020,5,15,ES,Valladolid,pm25,63,5.0,63.0,38.0,2810.46
+2020,5,24,ES,Valladolid,pm25,63,5.0,38.0,25.0,680.7
+2020,7,27,ES,Valladolid,pm25,36,38.0,87.0,57.0,1356.29
+2020,2,19,ES,Valladolid,pm25,58,13.0,104.0,61.0,4184.66
+2020,3,5,ES,Valladolid,pm25,63,5.0,76.0,25.0,1846.16
+2020,7,12,ES,Valladolid,pm25,62,17.0,82.0,50.0,1353.31
+2020,2,17,ES,Valladolid,pm25,62,5.0,95.0,25.0,4443.81
+2020,5,9,ES,Valladolid,pm25,63,17.0,72.0,46.0,1548.44
+2020,7,9,ES,Valladolid,pm25,44,5.0,97.0,59.0,4782.85
+2020,7,29,ES,Valladolid,pm25,42,9.0,76.0,46.0,2445.51
+2020,1,15,ES,Valladolid,pm25,61,9.0,95.0,34.0,4088.46
+2020,3,4,ES,Valladolid,pm25,60,5.0,97.0,25.0,3650.68
+2020,3,8,ES,Valladolid,pm25,88,13.0,97.0,46.0,2321.39
+2020,5,12,ES,Valladolid,pm25,63,9.0,59.0,25.0,1359.26
+2020,5,26,ES,Valladolid,pm25,63,13.0,68.0,34.0,1011.23
+2020,6,6,ES,Valladolid,pm25,63,9.0,63.0,38.0,2676.52
+2020,1,13,ES,Valladolid,pm25,66,9.0,93.0,50.0,3806.19
+2020,5,21,ES,Valladolid,pm25,63,5.0,70.0,50.0,2214.83
+2020,1,5,ES,Valladolid,pm25,66,9.0,85.0,42.0,2267.07
+2020,1,30,ES,Valladolid,pm25,43,9.0,82.0,34.0,2743.0
+2020,2,2,ES,Valladolid,pm25,82,5.0,99.0,30.0,4620.3
+2020,2,4,ES,Valladolid,pm25,82,13.0,122.0,61.0,4585.54
+2020,2,6,ES,Valladolid,pm25,82,9.0,147.0,65.0,6846.45
+2020,2,23,ES,Valladolid,pm25,44,34.0,134.0,72.0,4575.91
+2020,3,29,ES,Valladolid,pm25,57,21.0,80.0,55.0,1715.26
+2020,2,28,ES,Valladolid,pm25,25,13.0,147.0,61.0,7434.1
+2020,3,26,ES,Valladolid,pm25,96,9.0,104.0,38.0,3384.73
+2020,5,14,ES,Valladolid,pm25,59,5.0,46.0,25.0,803.54
+2019,12,30,ES,Valladolid,pm25,66,38.0,161.0,76.0,10030.6
+2020,5,30,ES,Valladolid,pm25,42,17.0,114.0,46.0,2840.95
+2020,3,18,ES,Valladolid,pm25,66,30.0,95.0,63.0,2631.93
+2020,1,10,ES,Valladolid,pm25,65,5.0,155.0,42.0,8715.78
+2020,2,14,ES,Valladolid,pm25,63,9.0,95.0,46.0,4552.81
+2020,4,22,ES,Valladolid,pm25,56,21.0,68.0,42.0,1383.0
+2020,1,11,ES,Valladolid,pm25,66,34.0,159.0,63.0,8330.21
+2020,7,16,ES,Valladolid,pm25,63,5.0,168.0,38.0,7801.43
+2020,4,5,ES,Valladolid,pm25,78,5.0,85.0,30.0,2313.42
+2020,4,17,ES,Valladolid,pm25,40,5.0,59.0,21.0,1512.79
+2020,3,15,ES,Valladolid,pm25,86,9.0,109.0,46.0,3684.95
+2020,3,22,ES,Valladolid,pm25,110,5.0,91.0,34.0,3131.81
+2020,4,11,ES,Valladolid,pm25,94,5.0,61.0,21.0,1523.52
+2020,4,21,ES,Valladolid,pm25,43,5.0,59.0,30.0,2234.71
+2020,5,25,ES,Valladolid,pm25,63,17.0,70.0,46.0,1894.37
+2020,3,10,ES,Valladolid,pm25,86,17.0,99.0,42.0,3124.86
+2020,4,20,ES,Valladolid,pm25,45,5.0,59.0,30.0,1893.92
+2020,8,6,ES,Valladolid,pm25,40,34.0,85.0,59.0,976.1
+2020,3,27,ES,Valladolid,pm25,71,9.0,89.0,50.0,4362.27
+2020,4,23,ES,Valladolid,pm25,63,17.0,61.0,34.0,1359.42
+2020,6,18,ES,Valladolid,pm25,64,13.0,65.0,34.0,1502.45
+2020,6,21,ES,Valladolid,pm25,105,5.0,63.0,30.0,1479.09
+2020,2,21,ES,Valladolid,pm25,44,46.0,114.0,68.0,2485.68
+2020,6,5,ES,Valladolid,pm25,55,5.0,53.0,30.0,1326.28
+2020,6,14,ES,Valladolid,pm25,63,5.0,63.0,30.0,1467.24
+2020,4,26,ES,Valladolid,pm25,33,21.0,53.0,30.0,705.93
+2020,7,20,ES,Valladolid,pm25,63,30.0,78.0,59.0,1005.71
+2020,2,3,ES,Valladolid,pm25,88,17.0,151.0,59.0,10425.1
+2020,6,13,ES,Valladolid,pm25,63,5.0,50.0,25.0,1707.19
+2020,3,11,ES,Valladolid,pm25,64,17.0,93.0,46.0,3635.52
+2020,4,18,ES,Valladolid,pm25,40,5.0,53.0,25.0,1376.4
+2020,4,30,ES,Valladolid,pm25,63,5.0,134.0,25.0,8454.65
+2020,5,10,ES,Valladolid,pm25,63,9.0,65.0,21.0,1049.96
+2020,7,22,ES,Valladolid,pm25,60,25.0,68.0,50.0,1168.69
+2020,6,22,ES,Valladolid,pm25,105,9.0,59.0,42.0,1179.99
+2020,1,9,ES,Valladolid,pm25,66,13.0,139.0,78.0,7293.92
+2020,1,20,ES,Valladolid,pm25,20,13.0,38.0,25.0,419.87
+2020,1,24,ES,Valladolid,pm25,107,9.0,117.0,61.0,3403.32
+2020,4,13,ES,Valladolid,pm25,80,9.0,107.0,30.0,4470.81
+2020,4,28,ES,Valladolid,pm25,63,9.0,63.0,30.0,1867.7
+2020,5,2,ES,Valladolid,pm25,63,9.0,68.0,30.0,1907.59
+2020,5,4,ES,Valladolid,pm25,63,21.0,104.0,53.0,4860.68
+2020,6,27,ES,Valladolid,pm25,63,5.0,46.0,30.0,1455.75
+2020,2,12,ES,Valladolid,pm25,41,21.0,122.0,57.0,5622.39
+2020,3,20,ES,Valladolid,pm25,62,5.0,104.0,57.0,3410.92
+2020,5,8,ES,Valladolid,pm25,63,25.0,72.0,50.0,860.88
+2020,6,24,ES,Valladolid,pm25,85,30.0,97.0,59.0,2857.17
+2020,7,4,ES,Valladolid,pm25,84,5.0,76.0,30.0,2552.72
+2020,4,1,ES,Valladolid,pm25,76,5.0,93.0,21.0,3451.59
+2020,5,19,ES,Valladolid,pm25,63,9.0,74.0,42.0,3257.33
+2020,6,11,ES,Valladolid,pm25,56,17.0,72.0,50.0,2198.91
+2020,1,25,ES,Valladolid,pm25,86,5.0,112.0,46.0,4666.83
+2020,2,8,ES,Valladolid,pm25,40,9.0,129.0,50.0,6856.28
+2020,3,14,ES,Valladolid,pm25,82,9.0,78.0,42.0,2102.27
+2020,7,10,ES,Valladolid,pm25,57,25.0,78.0,59.0,1618.46
+2020,4,3,ES,Valladolid,pm25,80,17.0,95.0,42.0,2154.35
+2020,5,22,ES,Valladolid,pm25,55,17.0,72.0,55.0,2099.44
+2020,7,2,ES,Valladolid,pm25,84,13.0,63.0,34.0,1479.84
+2020,8,3,ES,Valladolid,pm25,45,5.0,55.0,25.0,1078.82
+2020,2,1,ES,Valladolid,pm25,65,5.0,93.0,25.0,3574.09
+2020,4,24,ES,Valladolid,pm25,60,13.0,70.0,42.0,2292.48
+2020,5,27,ES,Valladolid,pm25,63,21.0,65.0,38.0,1268.06
+2019,12,31,ES,Valladolid,pm25,66,38.0,139.0,68.0,2947.93
+2020,1,8,ES,Valladolid,pm25,66,38.0,139.0,82.0,5489.81
+2020,5,3,ES,Valladolid,pm25,63,13.0,61.0,30.0,1166.91
+2020,5,31,ES,Valladolid,pm25,39,13.0,63.0,38.0,1159.23
+2020,6,12,ES,Valladolid,pm25,63,5.0,50.0,30.0,855.47
+2020,7,28,ES,Valladolid,pm25,42,21.0,70.0,50.0,2288.36
+2020,1,6,ES,Valladolid,pm25,66,9.0,76.0,42.0,2515.18
+2020,6,29,ES,Valladolid,pm25,63,13.0,72.0,46.0,1659.28
+2020,7,1,ES,Valladolid,pm25,55,13.0,63.0,42.0,1319.89
+2020,2,5,ES,Valladolid,pm25,79,5.0,89.0,42.0,3706.14
+2020,2,9,ES,Valladolid,pm25,41,13.0,93.0,30.0,3316.78
+2020,4,12,ES,Valladolid,pm25,97,5.0,65.0,30.0,1637.42
+2020,4,19,ES,Valladolid,pm25,42,5.0,68.0,25.0,1734.66
+2020,6,25,ES,Valladolid,pm25,63,38.0,87.0,65.0,1169.26
+2020,7,31,ES,Valladolid,pm25,45,5.0,78.0,50.0,4741.34
+2020,8,1,ES,Valladolid,pm25,42,13.0,72.0,55.0,2629.02
+2020,6,10,ES,Valladolid,pm25,63,17.0,63.0,38.0,1037.09
+2020,1,3,ES,Valladolid,pm25,64,50.0,114.0,72.0,1848.83
+2020,4,8,ES,Valladolid,pm25,75,5.0,85.0,30.0,3191.11
+2020,5,1,ES,Valladolid,pm25,63,9.0,74.0,34.0,3083.4
+2020,5,5,ES,Valladolid,pm25,63,5.0,46.0,30.0,1143.28
+2020,3,6,ES,Valladolid,pm25,79,5.0,87.0,25.0,3642.84
+2020,4,14,ES,Valladolid,pm25,70,13.0,104.0,42.0,5587.29
+2020,3,12,ES,Valladolid,pm25,78,17.0,122.0,59.0,4897.95
+2020,3,17,ES,Valladolid,pm25,63,5.0,78.0,25.0,2281.76
+2020,6,8,ES,Valladolid,pm25,63,9.0,46.0,25.0,694.61
+2020,5,13,ES,Valladolid,pm25,61,5.0,61.0,25.0,836.84
+2020,1,29,ES,Valladolid,pm25,43,9.0,76.0,25.0,1727.88
+2020,4,6,ES,Valladolid,pm25,78,5.0,134.0,25.0,7274.01
+2020,4,7,ES,Valladolid,pm25,92,5.0,93.0,25.0,5132.0
+2020,2,15,ES,Valladolid,pm25,66,25.0,132.0,59.0,2890.45
+2020,3,7,ES,Valladolid,pm25,82,5.0,97.0,25.0,3293.22
+2020,4,4,ES,Valladolid,pm25,80,5.0,97.0,42.0,4059.18
+2020,7,7,ES,Valladolid,pm25,63,17.0,70.0,42.0,1951.28
+2020,7,11,ES,Valladolid,pm25,63,9.0,76.0,42.0,2613.49
+2020,4,25,ES,Valladolid,pm25,60,5.0,50.0,25.0,1288.98
+2020,1,1,ES,Valladolid,pm25,66,21.0,132.0,61.0,5443.96
+2020,1,23,ES,Valladolid,pm25,98,5.0,93.0,57.0,3265.61
+2020,2,10,ES,Valladolid,pm25,41,9.0,95.0,34.0,4070.24
+2020,2,25,ES,Valladolid,pm25,32,34.0,117.0,59.0,2979.91
+2020,3,23,ES,Valladolid,pm25,107,5.0,107.0,38.0,5309.11
+2020,5,23,ES,Valladolid,pm25,63,9.0,72.0,42.0,2836.08
+2020,7,23,ES,Valladolid,pm25,50,5.0,87.0,59.0,3212.88
+2020,1,17,ES,Valladolid,pm25,63,5.0,89.0,30.0,2383.15
+2020,3,28,ES,Valladolid,pm25,66,13.0,87.0,46.0,3805.5
+2020,5,29,ES,Valladolid,pm25,42,5.0,59.0,42.0,1968.76
+2020,7,13,ES,Valladolid,pm25,61,25.0,68.0,50.0,1087.61
+2020,7,21,ES,Valladolid,pm25,63,38.0,99.0,65.0,1669.03
+2020,7,18,ES,Valladolid,pm25,63,5.0,59.0,42.0,1638.59
+2020,1,19,ES,Valladolid,pm25,109,5.0,50.0,25.0,880.03
+2020,6,28,ES,Valladolid,pm25,63,9.0,65.0,34.0,1505.9
+2020,3,30,ES,Valladolid,pm25,75,5.0,95.0,34.0,3031.35
+2020,4,27,ES,Valladolid,pm25,63,17.0,70.0,38.0,1554.75
+2020,1,28,ES,Valladolid,pm25,41,5.0,87.0,25.0,4396.78
+2020,3,16,ES,Valladolid,pm25,75,5.0,74.0,21.0,2574.85
+2020,4,2,ES,Valladolid,pm25,65,5.0,89.0,30.0,4821.74
+2020,6,4,ES,Valladolid,pm25,63,9.0,59.0,42.0,1526.08
+2020,3,3,ES,Valladolid,pm25,30,5.0,87.0,21.0,2887.69
+2020,5,17,ES,Valladolid,pm25,61,17.0,61.0,38.0,1511.16
+2020,6,19,ES,Valladolid,pm25,105,17.0,70.0,42.0,1097.52
+2020,6,26,ES,Valladolid,pm25,63,21.0,78.0,57.0,1843.69
+2020,2,7,ES,Valladolid,pm25,56,9.0,122.0,68.0,8646.95
+2020,2,20,ES,Valladolid,pm25,32,34.0,137.0,59.0,4898.55
+2020,6,3,ES,Valladolid,pm25,61,25.0,158.0,53.0,3211.96
+2020,7,30,ES,Valladolid,pm25,45,5.0,89.0,59.0,3264.16
+2020,7,24,ES,Valladolid,pm25,45,5.0,78.0,42.0,2398.01
+2020,5,18,ES,Valladolid,pm25,63,5.0,169.0,38.0,8376.36
+2020,6,23,ES,Valladolid,pm25,105,5.0,80.0,61.0,1219.06
+2020,7,8,ES,Valladolid,pm25,51,5.0,93.0,61.0,4255.21
+2020,1,12,ES,Valladolid,pm25,66,13.0,142.0,63.0,9165.38
+2020,4,9,ES,Valladolid,pm25,90,9.0,93.0,38.0,3076.98
+2020,5,11,ES,Valladolid,pm25,63,5.0,59.0,25.0,1202.4
+2020,1,4,ES,Valladolid,pm25,66,17.0,87.0,50.0,4176.53
+2020,1,31,ES,Valladolid,pm25,38,9.0,89.0,30.0,3624.19
+2020,2,26,ES,Valladolid,pm25,32,5.0,89.0,25.0,2235.96
+2020,6,17,ES,Valladolid,pm25,63,5.0,50.0,30.0,920.93
+2020,1,14,ES,Valladolid,pm25,64,17.0,89.0,50.0,2906.21
+2020,6,30,ES,Valladolid,pm25,75,21.0,91.0,46.0,1678.26
+2020,7,15,ES,Valladolid,pm25,63,5.0,59.0,34.0,1208.94
+2020,2,16,ES,Valladolid,pm25,63,5.0,99.0,50.0,4171.75
+2020,6,20,ES,Valladolid,pm25,105,9.0,76.0,42.0,1947.55
+2020,8,2,ES,Valladolid,pm25,42,13.0,50.0,25.0,956.38
+2020,8,4,ES,Valladolid,pm25,42,5.0,55.0,25.0,1809.02
+2020,1,22,ES,Valladolid,pm25,104,5.0,95.0,42.0,2632.92
+2020,7,6,ES,Valladolid,pm25,68,9.0,65.0,38.0,1634.16
+2020,1,21,ES,Valladolid,pm25,110,9.0,59.0,34.0,938.05
+2020,1,27,ES,Valladolid,pm25,68,9.0,89.0,34.0,3772.87
+2020,3,9,ES,Valladolid,pm25,88,9.0,97.0,38.0,4751.16
+2020,2,18,ES,Valladolid,pm25,65,9.0,85.0,30.0,3054.02
+2020,5,6,ES,Valladolid,pm25,63,13.0,61.0,38.0,1822.36
+2020,7,14,ES,Valladolid,pm25,63,5.0,122.0,38.0,2613.69
+2020,7,19,ES,Valladolid,pm25,63,21.0,68.0,46.0,981.24
+2020,1,18,ES,Valladolid,pm25,72,5.0,61.0,34.0,1599.95
+2020,6,9,ES,Valladolid,pm25,63,9.0,63.0,30.0,1657.36
+2020,7,3,ES,Valladolid,pm25,84,17.0,177.0,30.0,3513.95
+2020,1,7,ES,Valladolid,pm25,66,9.0,87.0,55.0,2469.39
+2020,2,24,ES,Valladolid,pm25,44,25.0,168.0,59.0,8768.08
+2020,3,31,ES,Valladolid,pm25,70,5.0,82.0,21.0,3582.59
+2020,4,15,ES,Valladolid,pm25,51,5.0,85.0,25.0,1919.36
+2020,6,2,ES,Valladolid,pm25,56,21.0,85.0,50.0,1430.52
+2020,8,7,ES,Valladolid,pm25,38,38.0,158.0,65.0,4229.65
+2020,2,22,ES,Valladolid,pm25,44,21.0,132.0,68.0,4401.56
+2020,3,24,ES,Valladolid,pm25,85,9.0,91.0,34.0,4112.51
+2020,4,10,ES,Valladolid,pm25,83,5.0,68.0,30.0,2001.7
+2020,6,15,ES,Valladolid,pm25,59,9.0,55.0,25.0,971.62
+2020,1,2,ES,Valladolid,pm25,61,46.0,142.0,63.0,3533.09
+2020,1,16,ES,Valladolid,pm25,65,5.0,91.0,34.0,3226.07
+2020,6,1,ES,Valladolid,pm25,43,5.0,63.0,38.0,1815.22
+2020,1,10,ES,Palma,pm25,24,9.0,57.0,17.0,1315.2
+2020,3,6,ES,Palma,pm25,22,9.0,193.0,10.0,14983.5
+2020,3,21,ES,Palma,pm25,24,11.0,63.0,50.0,2396.45
+2020,7,8,ES,Palma,pm25,12,9.0,41.0,25.0,1009.92
+2020,7,14,ES,Palma,pm25,24,12.0,68.0,33.0,2389.49
+2020,7,24,ES,Palma,pm25,24,9.0,50.0,27.0,1632.88
+2020,7,30,ES,Palma,pm25,24,17.0,63.0,50.0,1431.88
+2020,2,10,ES,Palma,pm25,24,10.0,59.0,28.0,1472.75
+2020,3,4,ES,Palma,pm25,24,9.0,63.0,17.0,1927.37
+2020,1,9,ES,Palma,pm25,24,9.0,46.0,23.0,1234.62
+2020,2,26,ES,Palma,pm25,6,9.0,46.0,15.0,1746.67
+2020,3,16,ES,Palma,pm25,24,10.0,61.0,33.0,2596.36
+2020,5,4,ES,Palma,pm25,24,9.0,55.0,16.0,1678.19
+2020,5,25,ES,Palma,pm25,11,9.0,32.0,18.0,630.55
+2020,6,6,ES,Palma,pm25,12,9.0,35.0,10.0,697.88
+2020,6,19,ES,Palma,pm25,24,9.0,29.0,15.0,517.39
+2020,7,13,ES,Palma,pm25,22,9.0,57.0,21.0,1869.81
+2020,3,14,ES,Palma,pm25,24,9.0,53.0,23.0,1526.67
+2020,3,18,ES,Palma,pm25,24,9.0,165.0,25.0,8996.45
+2020,4,17,ES,Palma,pm25,20,13.0,63.0,50.0,2355.79
+2020,6,12,ES,Palma,pm25,20,9.0,57.0,23.0,1918.53
+2020,6,26,ES,Palma,pm25,24,9.0,70.0,18.0,2354.62
+2020,7,22,ES,Palma,pm25,24,9.0,50.0,16.0,1212.97
+2020,7,26,ES,Palma,pm25,24,12.0,65.0,36.0,2537.37
+2020,7,29,ES,Palma,pm25,24,9.0,72.0,35.0,2709.49
+2020,8,2,ES,Palma,pm25,24,10.0,87.0,38.0,3918.97
+2020,1,31,ES,Palma,pm25,20,9.0,40.0,11.0,985.76
+2020,2,25,ES,Palma,pm25,24,9.0,59.0,30.0,2492.1
+2020,3,1,ES,Palma,pm25,23,9.0,53.0,14.0,1464.03
+2020,3,9,ES,Palma,pm25,24,9.0,35.0,14.0,370.42
+2020,3,30,ES,Palma,pm25,24,12.0,57.0,31.0,1841.67
+2020,5,1,ES,Palma,pm25,23,9.0,42.0,18.0,1327.67
+2020,6,8,ES,Palma,pm25,15,9.0,53.0,17.0,2359.24
+2020,6,29,ES,Palma,pm25,24,22.0,70.0,46.0,1422.01
+2020,4,14,ES,Palma,pm25,24,9.0,59.0,14.0,2551.3
+2020,4,18,ES,Palma,pm25,24,9.0,63.0,42.0,2017.81
+2020,5,5,ES,Palma,pm25,24,9.0,46.0,9.0,957.81
+2020,5,28,ES,Palma,pm25,23,9.0,41.0,13.0,604.03
+2020,2,11,ES,Palma,pm25,24,9.0,102.0,30.0,5521.09
+2020,2,18,ES,Palma,pm25,24,9.0,78.0,17.0,2857.81
+2020,5,19,ES,Palma,pm25,24,9.0,46.0,15.0,1419.84
+2020,6,24,ES,Palma,pm25,23,9.0,55.0,13.0,1094.03
+2020,7,21,ES,Palma,pm25,24,9.0,63.0,16.0,1668.53
+2020,4,1,ES,Palma,pm25,16,9.0,57.0,25.0,1591.33
+2020,4,4,ES,Palma,pm25,24,10.0,55.0,28.0,1705.63
+2020,4,6,ES,Palma,pm25,24,9.0,53.0,30.0,1641.74
+2020,5,3,ES,Palma,pm25,24,9.0,42.0,13.0,1351.29
+2020,7,10,ES,Palma,pm25,20,10.0,65.0,40.0,3066.61
+2020,7,11,ES,Palma,pm25,24,9.0,57.0,31.0,1189.55
+2020,1,13,ES,Palma,pm25,24,9.0,57.0,15.0,2026.88
+2020,3,8,ES,Palma,pm25,23,9.0,26.0,9.0,208.38
+2020,4,5,ES,Palma,pm25,24,9.0,57.0,24.0,2077.81
+2020,4,8,ES,Palma,pm25,19,25.0,50.0,33.0,721.52
+2020,4,19,ES,Palma,pm25,23,9.0,76.0,46.0,4168.14
+2020,6,20,ES,Palma,pm25,11,9.0,24.0,11.0,284.73
+2020,7,15,ES,Palma,pm25,24,10.0,59.0,24.0,1415.87
+2020,7,19,ES,Palma,pm25,24,9.0,50.0,20.0,1266.5
+2020,2,17,ES,Palma,pm25,14,35.0,76.0,57.0,1040.93
+2020,3,11,ES,Palma,pm25,24,9.0,102.0,34.0,4653.62
+2020,4,10,ES,Palma,pm25,24,18.0,55.0,42.0,848.1
+2020,8,3,ES,Palma,pm25,23,17.0,50.0,38.0,946.64
+2020,1,26,ES,Palma,pm25,23,9.0,50.0,34.0,1599.96
+2020,3,15,ES,Palma,pm25,24,12.0,50.0,25.0,887.23
+2020,3,31,ES,Palma,pm25,18,9.0,59.0,31.0,2973.5
+2020,6,25,ES,Palma,pm25,23,9.0,57.0,18.0,1750.2
+2020,7,3,ES,Palma,pm25,15,10.0,37.0,29.0,828.1
+2020,8,4,ES,Palma,pm25,24,9.0,53.0,20.0,1426.3
+2020,1,12,ES,Palma,pm25,22,9.0,53.0,15.0,1299.65
+2020,2,12,ES,Palma,pm25,24,9.0,57.0,21.0,2317.81
+2020,2,27,ES,Palma,pm25,14,9.0,53.0,30.0,2556.04
+2020,4,9,ES,Palma,pm25,24,17.0,59.0,36.0,891.58
+2020,4,12,ES,Palma,pm25,24,16.0,59.0,42.0,1321.67
+2020,5,31,ES,Palma,pm25,24,9.0,42.0,16.0,875.58
+2020,7,20,ES,Palma,pm25,24,9.0,55.0,23.0,1766.5
+2019,12,30,ES,Palma,pm25,23,9.0,38.0,16.0,604.03
+2020,1,24,ES,Palma,pm25,24,13.0,164.0,70.0,6380.0
+2020,2,29,ES,Palma,pm25,18,26.0,109.0,68.0,4385.65
+2020,4,20,ES,Palma,pm25,20,9.0,68.0,19.0,3194.21
+2020,4,21,ES,Palma,pm25,21,9.0,40.0,10.0,940.48
+2020,4,24,ES,Palma,pm25,23,10.0,50.0,33.0,1507.94
+2020,5,6,ES,Palma,pm25,23,9.0,41.0,21.0,994.19
+2020,6,17,ES,Palma,pm25,24,9.0,57.0,20.0,2691.3
+2020,1,17,ES,Palma,pm25,24,9.0,61.0,33.0,1818.84
+2020,2,3,ES,Palma,pm25,19,9.0,152.0,19.0,10898.8
+2020,3,10,ES,Palma,pm25,24,9.0,151.0,17.0,9413.26
+2020,3,23,ES,Palma,pm25,3,10.0,21.0,12.0,343.33
+2020,1,14,ES,Palma,pm25,24,9.0,76.0,19.0,3179.11
+2020,1,21,ES,Palma,pm25,24,10.0,213.0,50.0,28033.3
+2020,2,20,ES,Palma,pm25,17,9.0,32.0,14.0,581.18
+2020,2,23,ES,Palma,pm25,24,9.0,76.0,33.0,3410.36
+2020,3,3,ES,Palma,pm25,13,9.0,41.0,15.0,1081.92
+2020,3,19,ES,Palma,pm25,24,9.0,50.0,21.0,989.28
+2020,7,5,ES,Palma,pm25,2,21.0,21.0,21.0,0.0
+2020,7,18,ES,Palma,pm25,24,9.0,42.0,22.0,1082.83
+2020,8,6,ES,Palma,pm25,24,9.0,53.0,19.0,1359.71
+2020,1,15,ES,Palma,pm25,24,10.0,68.0,23.0,2498.24
+2020,1,18,ES,Palma,pm25,24,9.0,68.0,16.0,1985.8
+2020,2,7,ES,Palma,pm25,24,9.0,171.0,15.0,11042.6
+2020,2,21,ES,Palma,pm25,11,9.0,46.0,25.0,1658.0
+2020,2,24,ES,Palma,pm25,24,9.0,40.0,21.0,1021.74
+2020,6,2,ES,Palma,pm25,24,9.0,50.0,20.0,1213.89
+2020,7,2,ES,Palma,pm25,24,9.0,57.0,34.0,2097.39
+2019,12,31,ES,Palma,pm25,21,9.0,32.0,15.0,482.62
+2020,1,7,ES,Palma,pm25,11,9.0,33.0,18.0,626.0
+2020,3,13,ES,Palma,pm25,24,9.0,30.0,10.0,458.53
+2020,6,1,ES,Palma,pm25,23,9.0,163.0,15.0,11315.1
+2020,6,3,ES,Palma,pm25,24,9.0,53.0,18.0,1428.68
+2020,6,10,ES,Palma,pm25,15,9.0,34.0,12.0,702.57
+2020,1,1,ES,Palma,pm25,4,9.0,50.0,21.0,3229.17
+2020,1,20,ES,Palma,pm25,23,9.0,168.0,13.0,27051.5
+2020,2,8,ES,Palma,pm25,24,9.0,42.0,21.0,1112.1
+2020,4,25,ES,Palma,pm25,24,9.0,50.0,23.0,1344.06
+2020,4,29,ES,Palma,pm25,24,9.0,35.0,13.0,622.61
+2020,5,18,ES,Palma,pm25,24,9.0,53.0,15.0,1587.54
+2020,7,23,ES,Palma,pm25,24,10.0,59.0,29.0,1604.28
+2020,8,7,ES,Palma,pm25,12,9.0,46.0,18.0,1014.55
+2020,1,16,ES,Palma,pm25,24,9.0,194.0,30.0,23284.8
+2020,1,23,ES,Palma,pm25,24,16.0,168.0,85.0,10987.7
+2020,1,25,ES,Palma,pm25,24,46.0,80.0,63.0,778.48
+2020,3,29,ES,Palma,pm25,23,9.0,39.0,20.0,796.8
+2020,4,23,ES,Palma,pm25,24,10.0,57.0,27.0,1664.35
+2020,5,20,ES,Palma,pm25,24,9.0,68.0,26.0,2948.68
+2020,6,9,ES,Palma,pm25,8,9.0,26.0,12.0,528.39
+2020,7,28,ES,Palma,pm25,24,14.0,57.0,40.0,1735.05
+2020,8,5,ES,Palma,pm25,24,9.0,59.0,18.0,1568.62
+2020,1,22,ES,Palma,pm25,24,53.0,175.0,102.0,18163.0
+2020,3,20,ES,Palma,pm25,24,9.0,41.0,28.0,684.06
+2020,5,8,ES,Palma,pm25,22,9.0,50.0,25.0,1747.03
+2020,5,15,ES,Palma,pm25,24,9.0,53.0,16.0,1492.97
+2020,5,17,ES,Palma,pm25,24,9.0,41.0,18.0,877.32
+2020,5,29,ES,Palma,pm25,24,10.0,36.0,22.0,678.48
+2020,5,30,ES,Palma,pm25,24,9.0,42.0,24.0,1006.01
+2020,6,27,ES,Palma,pm25,24,11.0,57.0,40.0,1257.97
+2020,1,19,ES,Palma,pm25,24,9.0,42.0,16.0,1239.06
+2020,1,29,ES,Palma,pm25,18,9.0,68.0,30.0,3439.38
+2020,2,9,ES,Palma,pm25,24,9.0,70.0,32.0,4558.48
+2020,2,14,ES,Palma,pm25,18,19.0,109.0,59.0,5988.4
+2020,3,7,ES,Palma,pm25,23,9.0,42.0,11.0,757.95
+2020,3,28,ES,Palma,pm25,24,9.0,40.0,19.0,763.03
+2020,5,22,ES,Palma,pm25,23,9.0,50.0,20.0,1509.01
+2020,6,15,ES,Palma,pm25,24,9.0,41.0,21.0,1336.79
+2020,2,19,ES,Palma,pm25,24,9.0,50.0,11.0,1028.68
+2020,5,2,ES,Palma,pm25,22,9.0,72.0,20.0,2262.36
+2020,5,23,ES,Palma,pm25,24,9.0,40.0,19.0,944.06
+2020,7,16,ES,Palma,pm25,24,9.0,50.0,21.0,1259.84
+2020,7,17,ES,Palma,pm25,20,11.0,37.0,28.0,611.47
+2020,8,1,ES,Palma,pm25,24,13.0,68.0,50.0,1572.39
+2020,2,4,ES,Palma,pm25,24,9.0,59.0,30.0,2196.45
+2020,3,27,ES,Palma,pm25,17,12.0,33.0,20.0,446.91
+2020,6,11,ES,Palma,pm25,14,9.0,55.0,28.0,1996.1
+2020,6,14,ES,Palma,pm25,24,9.0,46.0,15.0,1200.58
+2020,6,16,ES,Palma,pm25,24,12.0,53.0,31.0,1356.94
+2020,1,30,ES,Palma,pm25,24,9.0,122.0,23.0,6590.65
+2020,3,17,ES,Palma,pm25,24,9.0,169.0,38.0,8701.09
+2020,4,16,ES,Palma,pm25,22,9.0,68.0,26.0,3687.53
+2020,4,28,ES,Palma,pm25,24,9.0,55.0,27.0,2118.19
+2020,6,13,ES,Palma,pm25,24,9.0,50.0,16.0,926.79
+2020,6,18,ES,Palma,pm25,24,14.0,59.0,28.0,921.72
+2020,1,8,ES,Palma,pm25,24,9.0,41.0,18.0,1054.33
+2020,1,27,ES,Palma,pm25,9,14.0,32.0,23.0,361.94
+2020,3,2,ES,Palma,pm25,18,9.0,68.0,22.0,2573.2
+2020,3,12,ES,Palma,pm25,24,9.0,57.0,22.0,1683.41
+2020,4,11,ES,Palma,pm25,24,20.0,68.0,39.0,1262.59
+2020,7,6,ES,Palma,pm25,22,9.0,46.0,17.0,1642.51
+2020,7,27,ES,Palma,pm25,24,9.0,59.0,35.0,1667.81
+2020,2,5,ES,Palma,pm25,24,9.0,182.0,16.0,12571.1
+2020,2,22,ES,Palma,pm25,24,9.0,55.0,21.0,1513.62
+2020,4,15,ES,Palma,pm25,24,17.0,59.0,36.0,1885.2
+2020,4,22,ES,Palma,pm25,21,9.0,167.0,13.0,11778.9
+2020,4,26,ES,Palma,pm25,24,9.0,53.0,20.0,1315.49
+2020,5,26,ES,Palma,pm25,24,9.0,46.0,20.0,1421.29
+2020,6,30,ES,Palma,pm25,24,11.0,53.0,38.0,1827.81
+2020,7,7,ES,Palma,pm25,24,9.0,46.0,20.0,816.94
+2020,7,12,ES,Palma,pm25,24,9.0,46.0,22.0,1696.07
+2020,5,21,ES,Palma,pm25,15,15.0,46.0,19.0,1236.95
+2020,7,25,ES,Palma,pm25,22,13.0,59.0,42.0,1461.9
+2020,3,5,ES,Palma,pm25,24,11.0,34.0,20.0,545.15
+2020,4,7,ES,Palma,pm25,24,9.0,53.0,30.0,1408.97
+2020,4,27,ES,Palma,pm25,24,9.0,63.0,31.0,3139.06
+2020,5,10,ES,Palma,pm25,18,9.0,70.0,39.0,3680.65
+2020,5,27,ES,Palma,pm25,24,11.0,55.0,22.0,1796.36
+2020,6,5,ES,Palma,pm25,24,9.0,42.0,15.0,1084.93
+2020,3,22,ES,Palma,pm25,24,17.0,63.0,50.0,1175.36
+2020,4,30,ES,Palma,pm25,23,9.0,41.0,16.0,1122.49
+2020,7,31,ES,Palma,pm25,24,13.0,80.0,40.0,3596.36
+2020,1,11,ES,Palma,pm25,24,9.0,39.0,11.0,854.76
+2020,2,6,ES,Palma,pm25,24,9.0,82.0,20.0,3776.94
+2020,2,13,ES,Palma,pm25,24,9.0,63.0,13.0,3244.06
+2020,4,2,ES,Palma,pm25,24,9.0,40.0,15.0,918.19
+2020,6,23,ES,Palma,pm25,20,9.0,163.0,20.0,10863.1
+2020,7,1,ES,Palma,pm25,23,10.0,74.0,34.0,3024.31
+2020,1,3,ES,Palma,pm25,2,9.0,9.0,9.0,0.0
+2020,2,2,ES,Palma,pm25,24,9.0,76.0,13.0,3065.49
+2020,2,28,ES,Palma,pm25,18,14.0,95.0,50.0,5687.35
+2020,4,3,ES,Palma,pm25,24,9.0,61.0,27.0,2044.76
+2020,4,13,ES,Palma,pm25,24,9.0,50.0,23.0,1663.75
+2020,2,1,ES,Palma,pm25,23,9.0,114.0,17.0,9711.58
+2020,5,7,ES,Palma,pm25,24,9.0,46.0,13.0,1216.36
+2020,5,9,ES,Palma,pm25,24,9.0,72.0,46.0,2428.1
+2020,5,13,ES,Palma,pm25,18,9.0,42.0,13.0,1014.38
+2020,5,14,ES,Palma,pm25,24,9.0,40.0,10.0,610.36
+2020,5,16,ES,Palma,pm25,24,9.0,53.0,28.0,1821.09
+2020,5,24,ES,Palma,pm25,12,9.0,53.0,16.0,1587.27
+2020,6,4,ES,Palma,pm25,21,9.0,59.0,21.0,2145.9
+2020,6,28,ES,Palma,pm25,24,28.0,63.0,50.0,684.35
+2020,6,22,ES,Bilbao,pm25,401,5.0,80.0,25.0,1794.21
+2020,6,27,ES,Bilbao,pm25,436,5.0,63.0,34.0,1956.11
+2020,1,18,ES,Bilbao,pm25,402,5.0,97.0,25.0,5100.1
+2020,4,11,ES,Bilbao,pm25,346,5.0,129.0,38.0,4225.33
+2020,6,20,ES,Bilbao,pm25,277,5.0,68.0,25.0,2091.26
+2020,5,17,ES,Bilbao,pm25,442,9.0,72.0,38.0,2038.55
+2020,6,23,ES,Bilbao,pm25,418,9.0,173.0,50.0,3318.13
+2020,3,18,ES,Bilbao,pm25,451,13.0,132.0,61.0,3155.03
+2020,7,2,ES,Bilbao,pm25,423,5.0,53.0,21.0,932.02
+2020,7,4,ES,Bilbao,pm25,298,5.0,95.0,30.0,2459.36
+2020,2,3,ES,Bilbao,pm25,342,5.0,114.0,63.0,3896.92
+2020,3,20,ES,Bilbao,pm25,452,5.0,161.0,42.0,4471.9
+2020,4,12,ES,Bilbao,pm25,357,5.0,65.0,34.0,1897.34
+2020,1,4,ES,Bilbao,pm25,335,5.0,82.0,38.0,4919.46
+2020,6,19,ES,Bilbao,pm25,256,5.0,65.0,30.0,2180.39
+2020,7,9,ES,Bilbao,pm25,432,5.0,112.0,34.0,2773.08
+2020,6,6,ES,Bilbao,pm25,216,5.0,50.0,17.0,1136.65
+2020,6,12,ES,Bilbao,pm25,221,5.0,53.0,17.0,1031.25
+2020,7,8,ES,Bilbao,pm25,399,5.0,80.0,42.0,2032.25
+2020,5,2,ES,Bilbao,pm25,285,5.0,193.0,21.0,5795.34
+2020,5,18,ES,Bilbao,pm25,435,9.0,85.0,42.0,1615.04
+2020,5,28,ES,Bilbao,pm25,209,5.0,93.0,55.0,5119.03
+2020,1,20,ES,Bilbao,pm25,387,5.0,53.0,25.0,996.65
+2020,3,5,ES,Bilbao,pm25,400,5.0,68.0,17.0,2331.43
+2020,5,20,ES,Bilbao,pm25,388,9.0,95.0,53.0,2698.88
+2020,3,11,ES,Bilbao,pm25,440,5.0,124.0,63.0,6667.73
+2020,4,7,ES,Bilbao,pm25,436,5.0,95.0,30.0,3059.61
+2020,5,21,ES,Bilbao,pm25,448,17.0,82.0,59.0,1276.72
+2020,6,1,ES,Bilbao,pm25,236,9.0,97.0,61.0,2832.91
+2020,6,25,ES,Bilbao,pm25,423,17.0,91.0,57.0,1868.15
+2020,6,24,ES,Bilbao,pm25,422,21.0,197.0,72.0,11687.3
+2020,7,10,ES,Bilbao,pm25,397,5.0,59.0,21.0,1527.79
+2020,3,2,ES,Bilbao,pm25,237,5.0,57.0,13.0,1328.45
+2020,3,4,ES,Bilbao,pm25,397,5.0,154.0,34.0,5048.24
+2020,4,30,ES,Bilbao,pm25,350,5.0,55.0,17.0,1333.26
+2020,4,10,ES,Bilbao,pm25,357,13.0,72.0,38.0,1235.1
+2020,6,10,ES,Bilbao,pm25,213,5.0,85.0,34.0,3294.18
+2020,2,8,ES,Bilbao,pm25,411,5.0,87.0,50.0,4375.1
+2020,7,18,ES,Bilbao,pm25,422,5.0,78.0,42.0,1867.28
+2020,4,26,ES,Bilbao,pm25,364,9.0,82.0,53.0,2272.49
+2020,5,4,ES,Bilbao,pm25,397,9.0,97.0,38.0,1925.77
+2020,1,23,ES,Bilbao,pm25,413,25.0,147.0,61.0,3589.9
+2020,1,31,ES,Bilbao,pm25,341,5.0,65.0,21.0,2344.88
+2020,2,26,ES,Bilbao,pm25,268,5.0,65.0,17.0,1453.25
+2020,7,12,ES,Bilbao,pm25,399,9.0,74.0,34.0,1624.65
+2020,7,24,ES,Bilbao,pm25,416,9.0,95.0,30.0,3381.41
+2020,1,8,ES,Bilbao,pm25,362,5.0,97.0,65.0,1909.43
+2020,1,13,ES,Bilbao,pm25,389,5.0,76.0,34.0,3014.49
+2020,1,25,ES,Bilbao,pm25,408,13.0,78.0,46.0,1944.14
+2020,2,24,ES,Bilbao,pm25,261,46.0,162.0,93.0,8140.21
+2020,5,29,ES,Bilbao,pm25,193,25.0,104.0,65.0,2759.04
+2020,7,29,ES,Bilbao,pm25,382,5.0,50.0,25.0,873.68
+2020,1,27,ES,Bilbao,pm25,368,5.0,63.0,17.0,1562.74
+2020,3,10,ES,Bilbao,pm25,442,5.0,160.0,59.0,3468.98
+2020,3,17,ES,Bilbao,pm25,436,5.0,109.0,30.0,4209.84
+2020,3,14,ES,Bilbao,pm25,425,5.0,452.0,46.0,25031.1
+2020,4,19,ES,Bilbao,pm25,412,5.0,78.0,13.0,759.99
+2020,4,24,ES,Bilbao,pm25,432,5.0,174.0,55.0,5458.72
+2020,7,17,ES,Bilbao,pm25,395,5.0,72.0,25.0,1439.06
+2020,1,17,ES,Bilbao,pm25,428,5.0,68.0,21.0,2445.39
+2020,5,14,ES,Bilbao,pm25,438,5.0,50.0,21.0,873.03
+2020,3,8,ES,Bilbao,pm25,440,5.0,124.0,42.0,3574.98
+2020,3,9,ES,Bilbao,pm25,437,5.0,137.0,34.0,4292.32
+2020,6,11,ES,Bilbao,pm25,228,5.0,72.0,30.0,3477.27
+2020,7,22,ES,Bilbao,pm25,442,21.0,149.0,57.0,1970.5
+2020,3,25,ES,Bilbao,pm25,452,9.0,93.0,53.0,4654.46
+2020,5,31,ES,Bilbao,pm25,240,9.0,95.0,63.0,1821.84
+2020,1,3,ES,Bilbao,pm25,406,25.0,109.0,59.0,2344.99
+2020,1,16,ES,Bilbao,pm25,404,5.0,53.0,25.0,1079.45
+2020,7,5,ES,Bilbao,pm25,303,5.0,93.0,38.0,3951.49
+2020,1,28,ES,Bilbao,pm25,413,5.0,95.0,25.0,3478.25
+2020,8,1,ES,Bilbao,pm25,308,5.0,74.0,34.0,2937.72
+2020,1,29,ES,Bilbao,pm25,387,5.0,104.0,53.0,5381.14
+2020,2,12,ES,Bilbao,pm25,165,5.0,97.0,38.0,3517.28
+2020,6,17,ES,Bilbao,pm25,37,9.0,74.0,30.0,2809.22
+2020,6,21,ES,Bilbao,pm25,260,5.0,57.0,25.0,1628.3
+2020,2,2,ES,Bilbao,pm25,277,5.0,85.0,17.0,3240.42
+2020,3,13,ES,Bilbao,pm25,416,5.0,99.0,25.0,3742.58
+2020,4,27,ES,Bilbao,pm25,397,5.0,97.0,38.0,2761.23
+2020,5,24,ES,Bilbao,pm25,376,5.0,61.0,30.0,1666.66
+2020,6,28,ES,Bilbao,pm25,410,5.0,53.0,17.0,1057.83
+2020,1,9,ES,Bilbao,pm25,422,5.0,134.0,30.0,4685.68
+2020,1,14,ES,Bilbao,pm25,400,5.0,93.0,25.0,2104.46
+2020,1,30,ES,Bilbao,pm25,361,5.0,46.0,13.0,1086.01
+2020,7,30,ES,Bilbao,pm25,425,5.0,114.0,53.0,3048.39
+2019,12,30,ES,Bilbao,pm25,131,5.0,139.0,53.0,3462.52
+2020,3,7,ES,Bilbao,pm25,437,5.0,137.0,34.0,3870.83
+2020,3,26,ES,Bilbao,pm25,452,9.0,74.0,50.0,1968.19
+2020,8,7,ES,Bilbao,pm25,243,5.0,157.0,57.0,3454.55
+2020,1,21,ES,Bilbao,pm25,415,9.0,112.0,46.0,3945.44
+2020,2,11,ES,Bilbao,pm25,167,5.0,124.0,46.0,5412.85
+2020,2,21,ES,Bilbao,pm25,156,5.0,119.0,57.0,5151.07
+2020,2,5,ES,Bilbao,pm25,403,5.0,76.0,42.0,3744.72
+2020,3,24,ES,Bilbao,pm25,447,17.0,93.0,57.0,1928.1
+2020,5,13,ES,Bilbao,pm25,428,5.0,80.0,30.0,1734.53
+2020,5,8,ES,Bilbao,pm25,439,5.0,117.0,46.0,4268.95
+2020,5,15,ES,Bilbao,pm25,431,9.0,114.0,38.0,1735.83
+2020,7,6,ES,Bilbao,pm25,384,5.0,102.0,25.0,1525.05
+2020,4,4,ES,Bilbao,pm25,437,5.0,80.0,30.0,4101.1
+2020,4,22,ES,Bilbao,pm25,441,5.0,129.0,30.0,1895.37
+2020,4,29,ES,Bilbao,pm25,418,5.0,63.0,17.0,1296.02
+2020,5,11,ES,Bilbao,pm25,428,5.0,147.0,21.0,3028.55
+2020,2,29,ES,Bilbao,pm25,399,5.0,164.0,55.0,20729.2
+2020,4,2,ES,Bilbao,pm25,436,5.0,78.0,38.0,2206.26
+2020,5,1,ES,Bilbao,pm25,285,5.0,53.0,21.0,1563.98
+2020,2,23,ES,Bilbao,pm25,182,17.0,137.0,76.0,3098.73
+2020,5,7,ES,Bilbao,pm25,439,17.0,87.0,59.0,1291.34
+2020,6,29,ES,Bilbao,pm25,389,5.0,78.0,17.0,1297.55
+2020,7,19,ES,Bilbao,pm25,414,5.0,112.0,50.0,1667.1
+2020,1,11,ES,Bilbao,pm25,401,9.0,155.0,50.0,8142.55
+2020,4,5,ES,Bilbao,pm25,413,5.0,65.0,25.0,1486.51
+2020,6,5,ES,Bilbao,pm25,225,5.0,57.0,25.0,1037.36
+2020,5,5,ES,Bilbao,pm25,431,5.0,102.0,34.0,2296.18
+2020,1,6,ES,Bilbao,pm25,383,5.0,104.0,42.0,3332.5
+2020,1,12,ES,Bilbao,pm25,426,5.0,170.0,53.0,8840.7
+2020,2,17,ES,Bilbao,pm25,138,5.0,91.0,17.0,3256.44
+2020,1,24,ES,Bilbao,pm25,406,5.0,82.0,50.0,1480.92
+2020,4,9,ES,Bilbao,pm25,382,9.0,78.0,42.0,1958.21
+2020,8,5,ES,Bilbao,pm25,354,5.0,97.0,38.0,2205.94
+2020,3,28,ES,Bilbao,pm25,452,9.0,91.0,61.0,1233.61
+2020,4,13,ES,Bilbao,pm25,347,5.0,68.0,38.0,2739.38
+2020,4,17,ES,Bilbao,pm25,379,5.0,245.0,13.0,8289.75
+2020,5,9,ES,Bilbao,pm25,441,5.0,195.0,46.0,6429.18
+2020,5,10,ES,Bilbao,pm25,423,5.0,59.0,17.0,1442.06
+2020,2,20,ES,Bilbao,pm25,158,5.0,99.0,50.0,3875.68
+2020,2,22,ES,Bilbao,pm25,172,13.0,87.0,59.0,2053.85
+2020,3,31,ES,Bilbao,pm25,453,5.0,74.0,38.0,2141.94
+2020,7,13,ES,Bilbao,pm25,360,5.0,72.0,34.0,1984.21
+2020,7,25,ES,Bilbao,pm25,431,9.0,76.0,34.0,1562.61
+2020,2,19,ES,Bilbao,pm25,158,5.0,87.0,46.0,3465.44
+2020,2,27,ES,Bilbao,pm25,401,5.0,112.0,42.0,4364.24
+2020,3,29,ES,Bilbao,pm25,435,5.0,122.0,76.0,6738.34
+2020,6,9,ES,Bilbao,pm25,209,5.0,78.0,25.0,2823.02
+2020,6,13,ES,Bilbao,pm25,228,5.0,74.0,30.0,2356.78
+2020,7,28,ES,Bilbao,pm25,406,5.0,68.0,30.0,1965.63
+2020,1,1,ES,Bilbao,pm25,214,5.0,219.0,61.0,13511.8
+2020,1,5,ES,Bilbao,pm25,371,5.0,112.0,38.0,2961.41
+2020,2,15,ES,Bilbao,pm25,160,5.0,104.0,30.0,4337.13
+2020,7,7,ES,Bilbao,pm25,349,9.0,82.0,42.0,1508.77
+2020,7,31,ES,Bilbao,pm25,341,9.0,87.0,55.0,2080.38
+2020,2,13,ES,Bilbao,pm25,161,5.0,80.0,30.0,2424.07
+2020,4,1,ES,Bilbao,pm25,375,5.0,70.0,21.0,2894.13
+2020,6,18,ES,Bilbao,pm25,204,5.0,72.0,21.0,1742.0
+2020,5,6,ES,Bilbao,pm25,415,9.0,78.0,42.0,1921.09
+2020,2,1,ES,Bilbao,pm25,269,5.0,91.0,25.0,2237.07
+2020,8,4,ES,Bilbao,pm25,387,5.0,80.0,17.0,2541.38
+2020,3,3,ES,Bilbao,pm25,180,5.0,104.0,34.0,4385.22
+2020,4,23,ES,Bilbao,pm25,436,5.0,82.0,42.0,3215.27
+2020,4,28,ES,Bilbao,pm25,411,5.0,68.0,30.0,2737.79
+2020,4,20,ES,Bilbao,pm25,404,5.0,102.0,21.0,1583.45
+2020,5,30,ES,Bilbao,pm25,235,9.0,82.0,57.0,2412.85
+2020,7,3,ES,Bilbao,pm25,393,5.0,63.0,17.0,1281.69
+2020,7,15,ES,Bilbao,pm25,395,5.0,80.0,25.0,2747.68
+2020,7,21,ES,Bilbao,pm25,435,9.0,91.0,42.0,2097.89
+2020,1,15,ES,Bilbao,pm25,403,5.0,162.0,25.0,2752.08
+2020,2,9,ES,Bilbao,pm25,200,5.0,72.0,25.0,3439.1
+2020,4,6,ES,Bilbao,pm25,402,5.0,74.0,25.0,2216.74
+2020,7,26,ES,Bilbao,pm25,415,5.0,99.0,30.0,2304.83
+2020,4,8,ES,Bilbao,pm25,448,5.0,104.0,50.0,3761.85
+2020,5,23,ES,Bilbao,pm25,305,5.0,50.0,17.0,1105.8
+2020,6,15,ES,Bilbao,pm25,221,5.0,61.0,30.0,1928.33
+2020,2,28,ES,Bilbao,pm25,402,17.0,147.0,80.0,3694.62
+2020,3,6,ES,Bilbao,pm25,414,5.0,104.0,21.0,3032.36
+2020,7,20,ES,Bilbao,pm25,442,5.0,89.0,46.0,2685.99
+2020,7,23,ES,Bilbao,pm25,414,5.0,97.0,53.0,1992.05
+2020,3,30,ES,Bilbao,pm25,429,5.0,93.0,21.0,1731.07
+2020,4,16,ES,Bilbao,pm25,427,5.0,82.0,25.0,1800.24
+2020,7,27,ES,Bilbao,pm25,414,5.0,76.0,38.0,2415.14
+2020,3,1,ES,Bilbao,pm25,320,5.0,89.0,42.0,3543.98
+2020,5,19,ES,Bilbao,pm25,442,5.0,114.0,50.0,3761.96
+2020,3,27,ES,Bilbao,pm25,449,5.0,99.0,63.0,2525.31
+2020,8,3,ES,Bilbao,pm25,284,5.0,99.0,21.0,3151.13
+2020,3,16,ES,Bilbao,pm25,381,5.0,104.0,13.0,2734.97
+2020,7,14,ES,Bilbao,pm25,340,5.0,82.0,30.0,3951.33
+2020,8,2,ES,Bilbao,pm25,270,5.0,240.0,17.0,13447.1
+2020,2,18,ES,Bilbao,pm25,159,5.0,72.0,30.0,3256.47
+2020,2,10,ES,Bilbao,pm25,156,5.0,129.0,34.0,5455.08
+2020,3,12,ES,Bilbao,pm25,419,5.0,134.0,50.0,6071.51
+2020,2,6,ES,Bilbao,pm25,420,5.0,70.0,46.0,2491.76
+2020,2,16,ES,Bilbao,pm25,155,5.0,207.0,25.0,4764.52
+2020,4,18,ES,Bilbao,pm25,400,5.0,91.0,17.0,1904.0
+2020,6,8,ES,Bilbao,pm25,199,5.0,61.0,17.0,1418.06
+2020,2,4,ES,Bilbao,pm25,351,5.0,107.0,30.0,7233.25
+2020,6,3,ES,Bilbao,pm25,240,17.0,78.0,57.0,1373.88
+2020,5,22,ES,Bilbao,pm25,432,9.0,91.0,42.0,4448.45
+2020,7,11,ES,Bilbao,pm25,373,5.0,55.0,25.0,1456.96
+2020,1,22,ES,Bilbao,pm25,427,17.0,158.0,65.0,3425.6
+2020,4,25,ES,Bilbao,pm25,371,5.0,93.0,57.0,2546.25
+2020,5,16,ES,Bilbao,pm25,415,9.0,152.0,38.0,2216.01
+2020,6,7,ES,Bilbao,pm25,166,5.0,46.0,13.0,707.06
+2020,4,3,ES,Bilbao,pm25,448,9.0,93.0,55.0,1878.13
+2020,4,15,ES,Bilbao,pm25,433,5.0,119.0,34.0,3428.29
+2020,7,16,ES,Bilbao,pm25,384,5.0,165.0,21.0,2651.7
+2020,1,26,ES,Bilbao,pm25,395,5.0,74.0,38.0,2085.07
+2020,2,7,ES,Bilbao,pm25,428,9.0,74.0,50.0,1877.64
+2020,3,21,ES,Bilbao,pm25,455,13.0,107.0,53.0,1662.0
+2020,4,14,ES,Bilbao,pm25,403,5.0,74.0,46.0,1440.05
+2020,4,21,ES,Bilbao,pm25,427,5.0,74.0,25.0,1810.49
+2020,6,4,ES,Bilbao,pm25,233,5.0,74.0,30.0,1450.44
+2020,1,10,ES,Bilbao,pm25,422,5.0,68.0,30.0,2090.17
+2020,3,22,ES,Bilbao,pm25,456,38.0,129.0,65.0,2552.74
+2020,6,2,ES,Bilbao,pm25,233,42.0,117.0,65.0,3317.5
+2020,6,26,ES,Bilbao,pm25,447,5.0,70.0,30.0,1456.1
+2019,12,31,ES,Bilbao,pm25,186,17.0,132.0,55.0,3971.33
+2020,1,7,ES,Bilbao,pm25,344,5.0,158.0,57.0,5528.83
+2020,5,3,ES,Bilbao,pm25,330,5.0,160.0,25.0,2586.52
+2020,3,15,ES,Bilbao,pm25,430,5.0,102.0,42.0,3736.61
+2020,6,14,ES,Bilbao,pm25,227,5.0,61.0,30.0,2028.75
+2020,6,16,ES,Bilbao,pm25,118,5.0,74.0,34.0,1928.53
+2020,5,25,ES,Bilbao,pm25,264,5.0,82.0,34.0,3232.28
+2020,7,1,ES,Bilbao,pm25,436,5.0,87.0,25.0,2610.84
+2020,8,6,ES,Bilbao,pm25,304,9.0,102.0,53.0,2546.79
+2020,1,19,ES,Bilbao,pm25,432,5.0,55.0,17.0,1088.86
+2020,6,30,ES,Bilbao,pm25,436,5.0,78.0,30.0,2576.73
+2020,5,26,ES,Bilbao,pm25,228,9.0,89.0,46.0,3434.05
+2020,5,27,ES,Bilbao,pm25,216,13.0,89.0,55.0,2412.97
+2020,2,25,ES,Bilbao,pm25,256,5.0,104.0,70.0,10627.1
+2020,3,23,ES,Bilbao,pm25,452,13.0,82.0,53.0,1077.0
+2020,5,12,ES,Bilbao,pm25,373,5.0,181.0,30.0,6590.17
+2020,1,2,ES,Bilbao,pm25,394,5.0,124.0,53.0,3751.7
+2020,2,14,ES,Bilbao,pm25,166,5.0,107.0,46.0,2776.51
+2020,3,19,ES,Bilbao,pm25,455,13.0,157.0,59.0,9551.03
+2020,5,12,ES,Castelló de la Plana,pm25,100,5.0,46.0,17.0,1110.0
+2020,6,15,ES,Castelló de la Plana,pm25,94,9.0,50.0,21.0,1001.81
+2020,6,30,ES,Castelló de la Plana,pm25,74,9.0,74.0,30.0,1560.22
+2020,7,25,ES,Castelló de la Plana,pm25,67,5.0,76.0,17.0,1962.28
+2020,1,25,ES,Castelló de la Plana,pm25,120,9.0,107.0,57.0,5105.09
+2020,3,25,ES,Castelló de la Plana,pm25,108,9.0,57.0,17.0,991.24
+2020,4,21,ES,Castelló de la Plana,pm25,111,9.0,42.0,21.0,726.27
+2020,4,26,ES,Castelló de la Plana,pm25,108,9.0,85.0,34.0,3906.99
+2020,8,1,ES,Castelló de la Plana,pm25,87,9.0,124.0,34.0,4945.78
+2020,6,7,ES,Castelló de la Plana,pm25,95,5.0,59.0,21.0,2141.58
+2020,2,14,ES,Castelló de la Plana,pm25,109,5.0,82.0,21.0,3161.32
+2020,3,19,ES,Castelló de la Plana,pm25,115,17.0,78.0,34.0,2207.6
+2020,3,20,ES,Castelló de la Plana,pm25,99,17.0,53.0,25.0,1023.75
+2020,3,26,ES,Castelló de la Plana,pm25,109,5.0,55.0,21.0,1319.1
+2020,7,31,ES,Castelló de la Plana,pm25,80,9.0,63.0,30.0,1739.74
+2020,2,13,ES,Castelló de la Plana,pm25,87,21.0,99.0,59.0,3192.28
+2020,4,10,ES,Castelló de la Plana,pm25,119,21.0,70.0,46.0,1240.2
+2020,7,7,ES,Castelló de la Plana,pm25,20,9.0,42.0,13.0,1378.39
+2020,7,30,ES,Castelló de la Plana,pm25,86,9.0,109.0,25.0,2899.68
+2020,5,3,ES,Castelló de la Plana,pm25,93,5.0,38.0,13.0,587.35
+2020,6,17,ES,Castelló de la Plana,pm25,89,5.0,38.0,13.0,643.2
+2020,1,3,ES,Castelló de la Plana,pm25,102,9.0,107.0,59.0,3646.42
+2020,3,28,ES,Castelló de la Plana,pm25,96,9.0,65.0,25.0,1288.42
+2020,5,6,ES,Castelló de la Plana,pm25,109,5.0,63.0,25.0,1372.95
+2020,7,8,ES,Castelló de la Plana,pm25,18,17.0,70.0,30.0,2559.08
+2020,5,27,ES,Castelló de la Plana,pm25,110,5.0,55.0,21.0,1159.44
+2020,7,10,ES,Castelló de la Plana,pm25,97,5.0,61.0,21.0,1838.54
+2020,7,24,ES,Castelló de la Plana,pm25,84,5.0,76.0,17.0,2845.46
+2020,6,20,ES,Castelló de la Plana,pm25,102,5.0,68.0,25.0,2375.21
+2020,6,24,ES,Castelló de la Plana,pm25,98,5.0,46.0,17.0,1204.59
+2020,5,8,ES,Castelló de la Plana,pm25,94,13.0,61.0,25.0,1012.99
+2020,6,3,ES,Castelló de la Plana,pm25,112,5.0,61.0,30.0,2254.08
+2020,7,11,ES,Castelló de la Plana,pm25,96,9.0,55.0,25.0,1476.16
+2020,1,15,ES,Castelló de la Plana,pm25,115,17.0,87.0,50.0,2586.66
+2020,5,14,ES,Castelló de la Plana,pm25,58,5.0,72.0,17.0,1627.1
+2020,5,7,ES,Castelló de la Plana,pm25,115,9.0,55.0,17.0,959.48
+2020,6,12,ES,Castelló de la Plana,pm25,87,5.0,142.0,13.0,4848.56
+2020,2,1,ES,Castelló de la Plana,pm25,114,5.0,63.0,17.0,1576.86
+2020,4,7,ES,Castelló de la Plana,pm25,113,9.0,63.0,30.0,2024.02
+2020,5,10,ES,Castelló de la Plana,pm25,100,5.0,85.0,21.0,3150.24
+2020,7,3,ES,Castelló de la Plana,pm25,73,5.0,50.0,13.0,1007.79
+2020,1,29,ES,Castelló de la Plana,pm25,28,5.0,30.0,17.0,604.71
+2020,4,9,ES,Castelló de la Plana,pm25,114,17.0,65.0,34.0,1667.79
+2020,2,24,ES,Castelló de la Plana,pm25,118,13.0,89.0,46.0,2563.63
+2020,3,9,ES,Castelló de la Plana,pm25,109,5.0,57.0,17.0,1356.46
+2019,12,30,ES,Castelló de la Plana,pm25,116,21.0,91.0,42.0,1872.5
+2020,2,5,ES,Castelló de la Plana,pm25,112,5.0,59.0,21.0,1885.47
+2020,7,2,ES,Castelló de la Plana,pm25,57,9.0,55.0,30.0,1819.82
+2020,7,18,ES,Castelló de la Plana,pm25,92,5.0,50.0,21.0,1126.39
+2020,1,4,ES,Castelló de la Plana,pm25,115,9.0,95.0,34.0,3192.15
+2020,4,28,ES,Castelló de la Plana,pm25,102,5.0,46.0,17.0,706.26
+2020,2,8,ES,Castelló de la Plana,pm25,118,17.0,87.0,53.0,2337.43
+2020,4,18,ES,Castelló de la Plana,pm25,108,17.0,80.0,38.0,3087.62
+2020,5,4,ES,Castelló de la Plana,pm25,101,9.0,55.0,25.0,1139.3
+2020,8,4,ES,Castelló de la Plana,pm25,59,5.0,34.0,13.0,553.57
+2020,3,12,ES,Castelló de la Plana,pm25,119,17.0,117.0,50.0,2263.93
+2020,3,27,ES,Castelló de la Plana,pm25,91,5.0,59.0,17.0,1257.17
+2020,3,29,ES,Castelló de la Plana,pm25,114,5.0,50.0,17.0,1075.96
+2020,5,18,ES,Castelló de la Plana,pm25,99,5.0,50.0,21.0,853.53
+2020,1,6,ES,Castelló de la Plana,pm25,51,5.0,42.0,21.0,655.0
+2020,4,24,ES,Castelló de la Plana,pm25,85,13.0,74.0,34.0,2765.81
+2020,5,23,ES,Castelló de la Plana,pm25,98,9.0,50.0,25.0,1301.17
+2020,7,15,ES,Castelló de la Plana,pm25,75,5.0,50.0,21.0,1604.73
+2020,6,27,ES,Castelló de la Plana,pm25,95,5.0,38.0,21.0,455.66
+2020,7,5,ES,Castelló de la Plana,pm25,70,5.0,42.0,21.0,810.6
+2020,1,20,ES,Castelló de la Plana,pm25,48,5.0,182.0,9.0,13534.7
+2020,2,17,ES,Castelló de la Plana,pm25,104,30.0,117.0,76.0,2458.85
+2020,3,3,ES,Castelló de la Plana,pm25,45,5.0,93.0,9.0,3253.25
+2020,6,11,ES,Castelló de la Plana,pm25,104,13.0,55.0,30.0,1309.27
+2020,1,19,ES,Castelló de la Plana,pm25,88,5.0,102.0,13.0,3986.39
+2020,2,20,ES,Castelló de la Plana,pm25,120,13.0,89.0,42.0,2385.54
+2020,5,1,ES,Castelló de la Plana,pm25,87,5.0,61.0,13.0,905.79
+2020,6,14,ES,Castelló de la Plana,pm25,87,9.0,42.0,17.0,658.09
+2020,8,3,ES,Castelló de la Plana,pm25,72,5.0,57.0,13.0,892.25
+2020,4,13,ES,Castelló de la Plana,pm25,108,5.0,57.0,30.0,1743.83
+2020,6,29,ES,Castelló de la Plana,pm25,96,9.0,124.0,30.0,5629.55
+2020,4,27,ES,Castelló de la Plana,pm25,113,9.0,63.0,38.0,1787.12
+2020,1,2,ES,Castelló de la Plana,pm25,82,17.0,70.0,38.0,2143.81
+2020,1,8,ES,Castelló de la Plana,pm25,118,13.0,97.0,53.0,3983.0
+2020,3,16,ES,Castelló de la Plana,pm25,94,9.0,70.0,21.0,1900.04
+2020,3,17,ES,Castelló de la Plana,pm25,46,9.0,74.0,30.0,2106.55
+2020,7,14,ES,Castelló de la Plana,pm25,105,5.0,70.0,17.0,1612.36
+2020,1,18,ES,Castelló de la Plana,pm25,114,5.0,65.0,25.0,2708.29
+2020,5,17,ES,Castelló de la Plana,pm25,91,5.0,34.0,17.0,419.07
+2020,7,22,ES,Castelló de la Plana,pm25,92,5.0,57.0,17.0,1014.33
+2020,8,5,ES,Castelló de la Plana,pm25,70,5.0,112.0,17.0,2376.86
+2020,2,29,ES,Castelló de la Plana,pm25,120,13.0,151.0,46.0,5326.42
+2020,3,5,ES,Castelló de la Plana,pm25,102,5.0,55.0,13.0,1557.15
+2020,3,18,ES,Castelló de la Plana,pm25,111,21.0,65.0,34.0,1363.22
+2020,5,11,ES,Castelló de la Plana,pm25,71,5.0,34.0,9.0,718.98
+2020,2,6,ES,Castelló de la Plana,pm25,117,9.0,68.0,30.0,1987.25
+2020,5,30,ES,Castelló de la Plana,pm25,81,5.0,102.0,17.0,2638.86
+2020,6,4,ES,Castelló de la Plana,pm25,96,5.0,55.0,17.0,1316.42
+2020,6,13,ES,Castelló de la Plana,pm25,81,5.0,30.0,13.0,477.48
+2020,5,16,ES,Castelló de la Plana,pm25,96,5.0,46.0,13.0,578.04
+2020,7,13,ES,Castelló de la Plana,pm25,105,5.0,61.0,25.0,1977.27
+2020,1,5,ES,Castelló de la Plana,pm25,94,5.0,74.0,17.0,1791.12
+2020,1,16,ES,Castelló de la Plana,pm25,119,13.0,89.0,34.0,3111.69
+2020,4,23,ES,Castelló de la Plana,pm25,84,17.0,68.0,38.0,1569.03
+2020,4,29,ES,Castelló de la Plana,pm25,97,5.0,55.0,17.0,1316.71
+2020,5,31,ES,Castelló de la Plana,pm25,58,5.0,25.0,17.0,231.53
+2020,7,27,ES,Castelló de la Plana,pm25,80,5.0,76.0,21.0,2300.15
+2020,4,20,ES,Castelló de la Plana,pm25,106,5.0,42.0,17.0,514.09
+2020,2,22,ES,Castelló de la Plana,pm25,119,21.0,95.0,57.0,2335.7
+2020,6,2,ES,Castelló de la Plana,pm25,94,5.0,53.0,21.0,920.18
+2020,2,7,ES,Castelló de la Plana,pm25,118,9.0,80.0,38.0,2839.26
+2020,2,21,ES,Castelló de la Plana,pm25,118,25.0,109.0,55.0,3074.84
+2020,1,12,ES,Castelló de la Plana,pm25,104,5.0,85.0,21.0,2276.0
+2020,4,25,ES,Castelló de la Plana,pm25,95,9.0,72.0,34.0,2186.04
+2020,7,28,ES,Castelló de la Plana,pm25,87,5.0,76.0,17.0,1891.89
+2020,1,17,ES,Castelló de la Plana,pm25,113,5.0,97.0,38.0,4288.86
+2020,2,19,ES,Castelló de la Plana,pm25,115,5.0,151.0,21.0,2796.63
+2020,5,21,ES,Castelló de la Plana,pm25,112,5.0,61.0,30.0,2289.32
+2020,7,26,ES,Castelló de la Plana,pm25,79,5.0,34.0,17.0,561.12
+2020,5,19,ES,Castelló de la Plana,pm25,63,9.0,53.0,21.0,1210.2
+2020,6,19,ES,Castelló de la Plana,pm25,86,5.0,30.0,13.0,512.85
+2020,2,15,ES,Castelló de la Plana,pm25,95,13.0,93.0,50.0,3596.59
+2020,3,15,ES,Castelló de la Plana,pm25,109,9.0,63.0,30.0,2330.84
+2020,5,2,ES,Castelló de la Plana,pm25,88,5.0,38.0,9.0,684.08
+2020,5,9,ES,Castelló de la Plana,pm25,106,13.0,68.0,30.0,1815.18
+2020,3,30,ES,Castelló de la Plana,pm25,110,9.0,63.0,21.0,1629.89
+2020,4,11,ES,Castelló de la Plana,pm25,111,17.0,61.0,38.0,952.09
+2020,1,10,ES,Castelló de la Plana,pm25,111,5.0,78.0,21.0,4259.79
+2020,7,6,ES,Castelló de la Plana,pm25,73,5.0,59.0,17.0,1358.55
+2020,2,28,ES,Castelló de la Plana,pm25,117,21.0,134.0,53.0,6959.91
+2020,6,10,ES,Castelló de la Plana,pm25,93,5.0,127.0,13.0,3182.59
+2020,7,21,ES,Castelló de la Plana,pm25,51,5.0,50.0,25.0,1300.83
+2020,8,6,ES,Castelló de la Plana,pm25,67,5.0,34.0,13.0,615.48
+2020,1,23,ES,Castelló de la Plana,pm25,89,25.0,82.0,55.0,2020.14
+2020,2,16,ES,Castelló de la Plana,pm25,95,38.0,102.0,65.0,2181.24
+2020,3,21,ES,Castelló de la Plana,pm25,110,17.0,59.0,30.0,1212.36
+2020,4,22,ES,Castelló de la Plana,pm25,62,5.0,42.0,13.0,1060.69
+2020,3,14,ES,Castelló de la Plana,pm25,115,5.0,68.0,21.0,1229.19
+2020,4,5,ES,Castelló de la Plana,pm25,116,9.0,59.0,21.0,1156.28
+2020,2,3,ES,Castelló de la Plana,pm25,115,13.0,93.0,38.0,3681.78
+2020,2,9,ES,Castelló de la Plana,pm25,92,38.0,107.0,61.0,2450.57
+2020,2,23,ES,Castelló de la Plana,pm25,120,13.0,99.0,50.0,3327.98
+2020,3,10,ES,Castelló de la Plana,pm25,110,9.0,55.0,21.0,1688.76
+2020,2,10,ES,Castelló de la Plana,pm25,104,9.0,97.0,38.0,4521.49
+2020,2,27,ES,Castelló de la Plana,pm25,115,9.0,124.0,25.0,4480.17
+2020,4,8,ES,Castelló de la Plana,pm25,108,13.0,80.0,34.0,1587.59
+2020,6,5,ES,Castelló de la Plana,pm25,77,5.0,42.0,9.0,475.69
+2020,2,18,ES,Castelló de la Plana,pm25,116,5.0,107.0,25.0,3883.2
+2020,3,6,ES,Castelló de la Plana,pm25,92,5.0,189.0,9.0,4389.35
+2020,6,23,ES,Castelló de la Plana,pm25,108,5.0,46.0,17.0,815.06
+2020,1,22,ES,Castelló de la Plana,pm25,24,46.0,129.0,76.0,6843.41
+2020,2,25,ES,Castelló de la Plana,pm25,120,9.0,112.0,50.0,3476.06
+2020,5,24,ES,Castelló de la Plana,pm25,89,5.0,38.0,17.0,560.29
+2020,6,1,ES,Castelló de la Plana,pm25,85,5.0,55.0,17.0,1695.08
+2020,1,1,ES,Castelló de la Plana,pm25,108,13.0,85.0,46.0,2417.82
+2020,1,14,ES,Castelló de la Plana,pm25,113,17.0,99.0,50.0,2925.13
+2020,7,17,ES,Castelló de la Plana,pm25,83,5.0,50.0,25.0,1750.44
+2020,5,20,ES,Castelló de la Plana,pm25,112,5.0,61.0,25.0,1598.87
+2020,7,20,ES,Castelló de la Plana,pm25,90,5.0,50.0,21.0,1661.94
+2020,1,26,ES,Castelló de la Plana,pm25,119,9.0,74.0,25.0,2020.8
+2020,2,12,ES,Castelló de la Plana,pm25,114,13.0,68.0,30.0,2173.23
+2020,3,11,ES,Castelló de la Plana,pm25,117,13.0,87.0,34.0,2121.46
+2020,3,23,ES,Castelló de la Plana,pm25,110,5.0,61.0,17.0,1442.1
+2019,12,31,ES,Castelló de la Plana,pm25,112,17.0,114.0,50.0,2954.32
+2020,1,11,ES,Castelló de la Plana,pm25,90,5.0,63.0,13.0,2191.71
+2020,5,5,ES,Castelló de la Plana,pm25,115,5.0,63.0,21.0,2119.74
+2020,6,18,ES,Castelló de la Plana,pm25,91,5.0,30.0,13.0,298.38
+2020,7,1,ES,Castelló de la Plana,pm25,76,9.0,76.0,30.0,2334.02
+2020,7,4,ES,Castelló de la Plana,pm25,70,9.0,59.0,25.0,2027.46
+2020,5,28,ES,Castelló de la Plana,pm25,102,5.0,46.0,21.0,973.68
+2020,1,28,ES,Castelló de la Plana,pm25,89,5.0,53.0,13.0,967.4
+2020,4,17,ES,Castelló de la Plana,pm25,107,21.0,76.0,46.0,2162.42
+2020,6,25,ES,Castelló de la Plana,pm25,103,5.0,42.0,17.0,736.63
+2020,1,30,ES,Castelló de la Plana,pm25,110,5.0,85.0,21.0,2296.95
+2020,4,15,ES,Castelló de la Plana,pm25,99,13.0,70.0,34.0,2030.75
+2020,5,15,ES,Castelló de la Plana,pm25,77,5.0,38.0,13.0,625.19
+2020,6,16,ES,Castelló de la Plana,pm25,100,5.0,46.0,17.0,851.09
+2020,2,11,ES,Castelló de la Plana,pm25,119,5.0,72.0,25.0,2826.16
+2020,4,19,ES,Castelló de la Plana,pm25,85,5.0,34.0,9.0,437.18
+2020,6,9,ES,Castelló de la Plana,pm25,70,5.0,30.0,13.0,383.88
+2020,7,23,ES,Castelló de la Plana,pm25,94,5.0,74.0,13.0,1985.51
+2020,1,13,ES,Castelló de la Plana,pm25,120,9.0,76.0,34.0,2633.53
+2020,1,24,ES,Castelló de la Plana,pm25,112,21.0,117.0,63.0,4433.96
+2020,3,7,ES,Castelló de la Plana,pm25,74,5.0,38.0,9.0,781.67
+2020,4,16,ES,Castelló de la Plana,pm25,105,17.0,65.0,38.0,1595.38
+2020,3,13,ES,Castelló de la Plana,pm25,101,9.0,102.0,38.0,5658.18
+2020,4,4,ES,Castelló de la Plana,pm25,112,9.0,362.0,21.0,19975.0
+2020,2,2,ES,Castelló de la Plana,pm25,97,5.0,53.0,13.0,919.13
+2020,6,26,ES,Castelló de la Plana,pm25,82,5.0,38.0,13.0,548.96
+2020,1,21,ES,Castelló de la Plana,pm25,47,5.0,102.0,34.0,7761.84
+2020,3,24,ES,Castelló de la Plana,pm25,107,13.0,61.0,25.0,1787.25
+2020,3,31,ES,Castelló de la Plana,pm25,47,5.0,21.0,9.0,185.75
+2020,5,22,ES,Castelló de la Plana,pm25,105,5.0,74.0,25.0,2195.02
+2020,1,9,ES,Castelló de la Plana,pm25,113,13.0,78.0,34.0,2628.86
+2020,6,8,ES,Castelló de la Plana,pm25,74,5.0,25.0,9.0,281.38
+2020,3,8,ES,Castelló de la Plana,pm25,109,5.0,61.0,13.0,1022.38
+2020,4,2,ES,Castelló de la Plana,pm25,97,5.0,34.0,13.0,347.42
+2020,5,13,ES,Castelló de la Plana,pm25,96,5.0,38.0,13.0,556.66
+2020,6,22,ES,Castelló de la Plana,pm25,96,5.0,46.0,17.0,869.21
+2020,3,2,ES,Castelló de la Plana,pm25,88,5.0,362.0,17.0,38734.2
+2020,4,12,ES,Castelló de la Plana,pm25,112,17.0,61.0,38.0,1138.12
+2020,2,26,ES,Castelló de la Plana,pm25,110,9.0,68.0,21.0,1890.43
+2020,4,6,ES,Castelló de la Plana,pm25,113,13.0,57.0,25.0,1702.7
+2020,5,29,ES,Castelló de la Plana,pm25,105,5.0,53.0,21.0,1021.28
+2020,8,2,ES,Castelló de la Plana,pm25,87,5.0,95.0,25.0,3882.38
+2020,6,6,ES,Castelló de la Plana,pm25,89,9.0,53.0,21.0,1014.09
+2020,6,28,ES,Castelló de la Plana,pm25,100,9.0,59.0,25.0,1776.67
+2020,7,12,ES,Castelló de la Plana,pm25,87,9.0,42.0,21.0,1129.73
+2020,7,29,ES,Castelló de la Plana,pm25,78,9.0,76.0,25.0,2100.37
+2020,7,19,ES,Castelló de la Plana,pm25,92,5.0,61.0,25.0,1600.34
+2020,1,7,ES,Castelló de la Plana,pm25,115,9.0,104.0,42.0,4156.72
+2020,4,3,ES,Castelló de la Plana,pm25,111,9.0,50.0,21.0,681.55
+2020,4,30,ES,Castelló de la Plana,pm25,105,5.0,74.0,13.0,2309.25
+2020,5,26,ES,Castelló de la Plana,pm25,101,9.0,70.0,25.0,1943.35
+2020,3,22,ES,Castelló de la Plana,pm25,114,5.0,63.0,21.0,2136.13
+2020,7,16,ES,Castelló de la Plana,pm25,67,5.0,46.0,17.0,1188.12
+2020,3,4,ES,Castelló de la Plana,pm25,113,5.0,76.0,21.0,2083.23
+2020,6,21,ES,Castelló de la Plana,pm25,108,5.0,55.0,21.0,1532.96
+2020,5,25,ES,Castelló de la Plana,pm25,110,9.0,61.0,21.0,902.6
+2020,1,31,ES,Castelló de la Plana,pm25,118,5.0,65.0,21.0,1812.94
+2020,2,4,ES,Castelló de la Plana,pm25,118,5.0,70.0,34.0,2180.43
+2020,1,27,ES,Castelló de la Plana,pm25,107,9.0,63.0,30.0,1642.5
+2020,4,1,ES,Castelló de la Plana,pm25,61,5.0,30.0,9.0,462.51
+2020,3,1,ES,Castelló de la Plana,pm25,106,5.0,63.0,13.0,964.02
+2020,4,14,ES,Castelló de la Plana,pm25,91,5.0,50.0,17.0,993.89
+2020,5,20,ES,Madrid,pm25,210,5.0,87.0,30.0,2075.14
+2020,3,13,ES,Madrid,pm25,212,9.0,76.0,55.0,1414.44
+2020,4,7,ES,Madrid,pm25,206,5.0,170.0,30.0,6944.37
+2020,4,19,ES,Madrid,pm25,207,5.0,74.0,21.0,2231.92
+2020,4,24,ES,Madrid,pm25,209,5.0,68.0,34.0,2051.61
+2020,5,14,ES,Madrid,pm25,185,5.0,74.0,21.0,2084.95
+2020,6,26,ES,Madrid,pm25,184,5.0,80.0,46.0,2075.55
+2020,2,16,ES,Madrid,pm25,213,5.0,99.0,63.0,3146.62
+2020,1,28,ES,Madrid,pm25,168,5.0,76.0,17.0,1315.26
+2020,2,7,ES,Madrid,pm25,214,42.0,139.0,65.0,1533.55
+2020,3,6,ES,Madrid,pm25,208,5.0,87.0,13.0,1591.2
+2020,7,15,ES,Madrid,pm25,214,5.0,117.0,34.0,2947.25
+2020,8,1,ES,Madrid,pm25,210,5.0,93.0,46.0,3338.59
+2020,3,10,ES,Madrid,pm25,215,5.0,142.0,50.0,3270.47
+2020,3,31,ES,Madrid,pm25,203,5.0,53.0,21.0,1121.75
+2020,2,10,ES,Madrid,pm25,184,5.0,107.0,57.0,3701.9
+2020,5,3,ES,Madrid,pm25,208,5.0,95.0,34.0,2985.06
+2020,5,13,ES,Madrid,pm25,200,5.0,164.0,21.0,6036.38
+2020,5,26,ES,Madrid,pm25,208,5.0,159.0,34.0,5272.37
+2020,1,23,ES,Madrid,pm25,201,17.0,122.0,65.0,2973.14
+2020,3,20,ES,Madrid,pm25,213,5.0,134.0,46.0,2640.55
+2020,5,25,ES,Madrid,pm25,194,5.0,182.0,46.0,9393.96
+2020,2,25,ES,Madrid,pm25,212,5.0,122.0,42.0,6920.1
+2020,4,5,ES,Madrid,pm25,205,9.0,65.0,30.0,1218.69
+2020,6,13,ES,Madrid,pm25,183,5.0,144.0,25.0,4122.3
+2020,3,27,ES,Madrid,pm25,213,5.0,59.0,38.0,2039.35
+2020,6,15,ES,Madrid,pm25,183,5.0,89.0,34.0,2203.86
+2020,8,5,ES,Madrid,pm25,209,5.0,114.0,34.0,4421.83
+2020,1,27,ES,Madrid,pm25,174,5.0,89.0,38.0,3382.27
+2020,3,17,ES,Madrid,pm25,204,5.0,104.0,21.0,2500.2
+2020,4,6,ES,Madrid,pm25,204,5.0,87.0,25.0,2579.06
+2020,7,7,ES,Madrid,pm25,188,5.0,91.0,42.0,4131.06
+2020,2,22,ES,Madrid,pm25,214,21.0,142.0,57.0,3432.16
+2020,5,29,ES,Madrid,pm25,208,5.0,91.0,42.0,2579.85
+2020,6,4,ES,Madrid,pm25,192,5.0,244.0,38.0,7482.84
+2020,1,19,ES,Madrid,pm25,211,5.0,137.0,17.0,3371.67
+2020,3,12,ES,Madrid,pm25,213,5.0,109.0,50.0,2750.69
+2020,4,16,ES,Madrid,pm25,205,5.0,85.0,25.0,2180.96
+2020,5,27,ES,Madrid,pm25,213,5.0,144.0,38.0,4112.09
+2020,1,18,ES,Madrid,pm25,215,5.0,99.0,50.0,3031.74
+2020,5,24,ES,Madrid,pm25,184,5.0,155.0,38.0,5222.0
+2020,6,6,ES,Madrid,pm25,210,5.0,153.0,38.0,4302.97
+2020,6,23,ES,Madrid,pm25,170,9.0,124.0,50.0,3998.91
+2020,6,29,ES,Madrid,pm25,188,5.0,114.0,38.0,3306.98
+2020,7,27,ES,Madrid,pm25,207,5.0,87.0,59.0,3470.05
+2020,5,2,ES,Madrid,pm25,214,5.0,159.0,25.0,3893.48
+2020,5,12,ES,Madrid,pm25,199,5.0,78.0,25.0,2813.2
+2020,7,20,ES,Madrid,pm25,212,5.0,161.0,63.0,5228.32
+2020,6,21,ES,Madrid,pm25,189,5.0,78.0,42.0,2213.85
+2020,1,24,ES,Madrid,pm25,214,5.0,97.0,55.0,1836.05
+2020,3,19,ES,Madrid,pm25,212,5.0,109.0,46.0,2821.97
+2020,4,3,ES,Madrid,pm25,209,5.0,57.0,30.0,1005.43
+2020,4,15,ES,Madrid,pm25,207,5.0,63.0,25.0,1830.82
+2020,7,9,ES,Madrid,pm25,120,5.0,89.0,53.0,3200.6
+2020,1,30,ES,Madrid,pm25,201,5.0,78.0,38.0,2055.55
+2020,3,26,ES,Madrid,pm25,213,5.0,65.0,30.0,1636.43
+2020,5,7,ES,Madrid,pm25,213,5.0,91.0,38.0,2129.11
+2020,8,7,ES,Madrid,pm25,171,5.0,82.0,46.0,2607.21
+2020,7,17,ES,Madrid,pm25,198,5.0,180.0,25.0,5294.9
+2020,1,17,ES,Madrid,pm25,215,5.0,87.0,38.0,2497.54
+2020,3,14,ES,Madrid,pm25,215,5.0,87.0,42.0,2230.78
+2020,4,4,ES,Madrid,pm25,207,5.0,53.0,30.0,1122.3
+2020,2,2,ES,Madrid,pm25,214,5.0,87.0,46.0,3289.26
+2020,3,3,ES,Madrid,pm25,85,5.0,59.0,25.0,1481.04
+2020,4,21,ES,Madrid,pm25,184,5.0,53.0,17.0,924.96
+2020,7,4,ES,Madrid,pm25,123,5.0,68.0,25.0,2077.1
+2020,1,1,ES,Madrid,pm25,170,5.0,171.0,93.0,8741.02
+2020,1,12,ES,Madrid,pm25,214,5.0,117.0,68.0,4530.95
+2020,4,14,ES,Madrid,pm25,216,5.0,68.0,42.0,1811.05
+2020,5,17,ES,Madrid,pm25,186,5.0,65.0,34.0,1338.67
+2020,1,29,ES,Madrid,pm25,209,5.0,216.0,21.0,5388.51
+2020,2,8,ES,Madrid,pm25,216,30.0,119.0,74.0,2587.76
+2020,3,1,ES,Madrid,pm25,210,5.0,107.0,21.0,1884.38
+2020,3,15,ES,Madrid,pm25,210,5.0,162.0,38.0,3599.32
+2020,3,24,ES,Madrid,pm25,209,5.0,59.0,25.0,1682.79
+2020,6,30,ES,Madrid,pm25,186,5.0,144.0,50.0,4496.85
+2020,2,5,ES,Madrid,pm25,209,5.0,80.0,25.0,3512.69
+2020,2,21,ES,Madrid,pm25,205,5.0,147.0,46.0,4988.65
+2020,3,30,ES,Madrid,pm25,210,5.0,72.0,25.0,3538.43
+2020,4,18,ES,Madrid,pm25,213,5.0,74.0,30.0,1463.56
+2020,4,26,ES,Madrid,pm25,213,5.0,76.0,34.0,2054.83
+2020,5,1,ES,Madrid,pm25,205,5.0,107.0,21.0,3193.41
+2020,2,1,ES,Madrid,pm25,199,5.0,68.0,21.0,1590.59
+2020,2,29,ES,Madrid,pm25,214,5.0,158.0,42.0,11928.5
+2020,3,25,ES,Madrid,pm25,211,5.0,68.0,38.0,1452.53
+2020,4,10,ES,Madrid,pm25,214,5.0,95.0,42.0,2078.2
+2020,5,8,ES,Madrid,pm25,211,5.0,68.0,34.0,1365.24
+2020,5,11,ES,Madrid,pm25,186,5.0,122.0,17.0,2697.2
+2020,2,6,ES,Madrid,pm25,214,21.0,117.0,55.0,3184.25
+2020,3,23,ES,Madrid,pm25,209,5.0,82.0,17.0,1933.77
+2020,4,30,ES,Madrid,pm25,206,5.0,61.0,25.0,1597.35
+2020,7,28,ES,Madrid,pm25,197,5.0,152.0,63.0,4679.53
+2020,6,18,ES,Madrid,pm25,172,5.0,82.0,25.0,2636.45
+2020,8,3,ES,Madrid,pm25,205,5.0,50.0,17.0,1191.22
+2020,3,4,ES,Madrid,pm25,200,5.0,112.0,21.0,1807.2
+2020,6,1,ES,Madrid,pm25,187,5.0,93.0,46.0,3221.29
+2020,1,22,ES,Madrid,pm25,198,5.0,107.0,42.0,4497.39
+2020,6,10,ES,Madrid,pm25,186,5.0,74.0,30.0,1876.97
+2020,7,16,ES,Madrid,pm25,202,5.0,91.0,30.0,3090.39
+2020,7,25,ES,Madrid,pm25,208,5.0,114.0,42.0,3369.12
+2020,7,26,ES,Madrid,pm25,212,5.0,155.0,55.0,5133.27
+2020,2,4,ES,Madrid,pm25,215,5.0,155.0,70.0,10970.4
+2020,6,3,ES,Madrid,pm25,185,5.0,244.0,55.0,7507.16
+2020,6,17,ES,Madrid,pm25,178,5.0,74.0,25.0,2203.41
+2020,7,10,ES,Madrid,pm25,201,9.0,95.0,38.0,2659.91
+2020,2,11,ES,Madrid,pm25,168,42.0,152.0,74.0,5313.21
+2020,4,29,ES,Madrid,pm25,208,5.0,53.0,21.0,1229.05
+2020,5,21,ES,Madrid,pm25,191,5.0,82.0,38.0,2320.92
+2020,5,31,ES,Madrid,pm25,185,5.0,247.0,46.0,8930.99
+2020,7,3,ES,Madrid,pm25,164,5.0,78.0,25.0,2569.12
+2020,7,5,ES,Madrid,pm25,125,5.0,137.0,25.0,5236.68
+2020,8,6,ES,Madrid,pm25,212,5.0,104.0,53.0,3022.14
+2020,4,1,ES,Madrid,pm25,208,5.0,65.0,21.0,1269.91
+2020,4,17,ES,Madrid,pm25,211,5.0,59.0,25.0,1505.1
+2020,4,23,ES,Madrid,pm25,214,9.0,76.0,30.0,1735.02
+2020,5,4,ES,Madrid,pm25,206,5.0,155.0,46.0,5226.82
+2020,5,22,ES,Madrid,pm25,190,5.0,102.0,57.0,1865.5
+2020,6,19,ES,Madrid,pm25,185,5.0,95.0,42.0,3332.79
+2020,2,18,ES,Madrid,pm25,211,5.0,124.0,38.0,3066.4
+2020,7,24,ES,Madrid,pm25,214,13.0,134.0,55.0,3355.15
+2020,3,11,ES,Madrid,pm25,212,5.0,144.0,55.0,3124.37
+2020,4,11,ES,Madrid,pm25,216,5.0,63.0,38.0,1583.47
+2020,4,8,ES,Madrid,pm25,213,9.0,93.0,46.0,2326.87
+2020,7,21,ES,Madrid,pm25,212,5.0,149.0,59.0,4675.38
+2020,7,22,ES,Madrid,pm25,204,5.0,129.0,57.0,4212.76
+2020,7,31,ES,Madrid,pm25,207,5.0,129.0,53.0,4221.13
+2020,1,4,ES,Madrid,pm25,135,5.0,76.0,30.0,3311.56
+2020,1,14,ES,Madrid,pm25,214,5.0,149.0,76.0,5285.4
+2020,1,26,ES,Madrid,pm25,213,5.0,89.0,42.0,2428.66
+2020,2,14,ES,Madrid,pm25,215,17.0,122.0,68.0,3851.4
+2020,4,22,ES,Madrid,pm25,208,5.0,55.0,21.0,1056.13
+2020,6,25,ES,Madrid,pm25,175,9.0,89.0,53.0,2126.37
+2020,1,10,ES,Madrid,pm25,214,5.0,112.0,30.0,7449.43
+2020,1,13,ES,Madrid,pm25,214,5.0,129.0,80.0,5200.6
+2020,6,14,ES,Madrid,pm25,185,5.0,61.0,30.0,1505.17
+2020,7,11,ES,Madrid,pm25,195,5.0,142.0,50.0,3505.02
+2020,1,6,ES,Madrid,pm25,144,5.0,162.0,57.0,5821.79
+2020,1,11,ES,Madrid,pm25,210,5.0,97.0,30.0,3823.37
+2020,3,7,ES,Madrid,pm25,209,5.0,72.0,21.0,1866.78
+2020,3,8,ES,Madrid,pm25,212,5.0,72.0,38.0,2062.68
+2020,5,9,ES,Madrid,pm25,202,5.0,132.0,42.0,4516.18
+2020,7,1,ES,Madrid,pm25,184,5.0,107.0,53.0,4617.8
+2020,1,15,ES,Madrid,pm25,215,30.0,151.0,80.0,4419.67
+2020,2,27,ES,Madrid,pm25,209,5.0,232.0,53.0,27329.3
+2020,4,20,ES,Madrid,pm25,212,5.0,82.0,25.0,2272.43
+2020,2,12,ES,Madrid,pm25,165,5.0,114.0,78.0,4630.3
+2020,2,24,ES,Madrid,pm25,216,13.0,127.0,53.0,3608.4
+2020,1,16,ES,Madrid,pm25,213,5.0,155.0,76.0,3278.3
+2020,3,22,ES,Madrid,pm25,205,5.0,102.0,17.0,1697.25
+2020,7,19,ES,Madrid,pm25,211,5.0,117.0,46.0,4367.16
+2020,7,30,ES,Madrid,pm25,210,5.0,165.0,57.0,8138.93
+2020,6,22,ES,Madrid,pm25,186,5.0,149.0,42.0,6321.66
+2020,2,17,ES,Madrid,pm25,209,9.0,91.0,46.0,2182.67
+2020,6,8,ES,Madrid,pm25,198,5.0,137.0,17.0,1735.6
+2020,1,3,ES,Madrid,pm25,144,38.0,160.0,99.0,9445.61
+2020,2,3,ES,Madrid,pm25,214,5.0,137.0,72.0,4794.04
+2020,2,20,ES,Madrid,pm25,190,9.0,109.0,55.0,3413.46
+2020,7,14,ES,Madrid,pm25,211,5.0,163.0,34.0,6321.8
+2020,6,12,ES,Madrid,pm25,189,5.0,65.0,21.0,1701.29
+2020,7,6,ES,Madrid,pm25,183,5.0,85.0,34.0,2420.71
+2019,12,31,ES,Madrid,pm25,216,42.0,151.0,82.0,4873.09
+2020,1,7,ES,Madrid,pm25,182,5.0,154.0,78.0,8011.31
+2020,2,19,ES,Madrid,pm25,205,5.0,117.0,30.0,4112.83
+2020,5,18,ES,Madrid,pm25,180,5.0,74.0,34.0,1669.22
+2020,6,27,ES,Madrid,pm25,183,5.0,76.0,34.0,2407.04
+2020,1,25,ES,Madrid,pm25,213,5.0,124.0,42.0,3456.53
+2020,4,13,ES,Madrid,pm25,216,9.0,127.0,46.0,1904.81
+2020,7,12,ES,Madrid,pm25,214,5.0,152.0,55.0,4486.87
+2020,7,13,ES,Madrid,pm25,213,5.0,102.0,38.0,3243.01
+2020,4,9,ES,Madrid,pm25,213,5.0,72.0,42.0,1829.57
+2020,1,8,ES,Madrid,pm25,213,13.0,154.0,72.0,5247.98
+2020,2,28,ES,Madrid,pm25,210,30.0,175.0,78.0,9565.85
+2020,4,28,ES,Madrid,pm25,210,5.0,57.0,21.0,1249.66
+2020,5,23,ES,Madrid,pm25,196,5.0,170.0,53.0,8305.66
+2020,6,28,ES,Madrid,pm25,176,5.0,80.0,25.0,2467.36
+2020,3,18,ES,Madrid,pm25,212,17.0,151.0,50.0,2502.33
+2020,3,21,ES,Madrid,pm25,198,5.0,95.0,34.0,2215.42
+2020,3,29,ES,Madrid,pm25,201,5.0,65.0,34.0,1606.6
+2020,4,25,ES,Madrid,pm25,211,13.0,70.0,34.0,1482.68
+2020,5,30,ES,Madrid,pm25,211,5.0,107.0,46.0,3374.48
+2020,3,2,ES,Madrid,pm25,183,5.0,87.0,17.0,1589.06
+2020,3,5,ES,Madrid,pm25,210,5.0,102.0,21.0,2243.96
+2020,7,23,ES,Madrid,pm25,213,5.0,155.0,57.0,5737.61
+2020,2,9,ES,Madrid,pm25,212,17.0,97.0,61.0,2204.07
+2020,7,29,ES,Madrid,pm25,212,5.0,127.0,59.0,3779.1
+2020,8,2,ES,Madrid,pm25,211,9.0,93.0,50.0,3163.21
+2020,1,31,ES,Madrid,pm25,190,5.0,59.0,25.0,1542.42
+2020,4,27,ES,Madrid,pm25,201,5.0,57.0,25.0,1307.16
+2020,5,19,ES,Madrid,pm25,185,5.0,63.0,30.0,1689.64
+2020,2,15,ES,Madrid,pm25,207,5.0,122.0,68.0,2862.51
+2020,3,28,ES,Madrid,pm25,208,5.0,63.0,25.0,1335.61
+2020,4,2,ES,Madrid,pm25,209,5.0,57.0,25.0,1053.75
+2020,4,12,ES,Madrid,pm25,210,9.0,76.0,42.0,1489.0
+2020,1,2,ES,Madrid,pm25,140,9.0,117.0,72.0,4478.67
+2020,5,6,ES,Madrid,pm25,206,5.0,85.0,30.0,2241.02
+2020,5,28,ES,Madrid,pm25,209,5.0,76.0,38.0,1978.43
+2020,6,9,ES,Madrid,pm25,188,5.0,82.0,17.0,2252.65
+2020,7,8,ES,Madrid,pm25,157,9.0,137.0,61.0,2892.79
+2020,1,20,ES,Madrid,pm25,206,5.0,89.0,17.0,2049.61
+2020,5,10,ES,Madrid,pm25,185,5.0,59.0,17.0,1262.3
+2020,6,7,ES,Madrid,pm25,211,5.0,260.0,34.0,10265.8
+2020,6,20,ES,Madrid,pm25,189,5.0,97.0,38.0,3187.19
+2020,1,9,ES,Madrid,pm25,215,5.0,127.0,72.0,3807.61
+2020,1,21,ES,Madrid,pm25,205,5.0,82.0,13.0,1265.73
+2020,2,13,ES,Madrid,pm25,203,5.0,109.0,68.0,4983.37
+2020,2,26,ES,Madrid,pm25,208,5.0,97.0,21.0,1937.24
+2020,3,16,ES,Madrid,pm25,177,5.0,80.0,17.0,2116.51
+2020,5,5,ES,Madrid,pm25,204,5.0,61.0,17.0,1348.97
+2020,2,23,ES,Madrid,pm25,213,5.0,137.0,46.0,4108.83
+2020,6,5,ES,Madrid,pm25,209,5.0,85.0,30.0,2968.28
+2020,6,16,ES,Madrid,pm25,189,5.0,59.0,21.0,1705.7
+2020,1,5,ES,Madrid,pm25,139,5.0,114.0,30.0,5587.8
+2020,8,4,ES,Madrid,pm25,198,5.0,80.0,21.0,2341.34
+2019,12,30,ES,Madrid,pm25,215,5.0,241.0,63.0,7214.9
+2020,5,15,ES,Madrid,pm25,181,5.0,107.0,17.0,2937.34
+2020,5,16,ES,Madrid,pm25,179,5.0,89.0,21.0,1702.82
+2020,6,2,ES,Madrid,pm25,183,13.0,167.0,57.0,5781.41
+2020,6,11,ES,Madrid,pm25,179,5.0,78.0,38.0,2362.73
+2020,6,24,ES,Madrid,pm25,166,9.0,154.0,53.0,4021.88
+2020,3,9,ES,Madrid,pm25,208,5.0,137.0,30.0,2436.16
+2020,7,2,ES,Madrid,pm25,186,5.0,61.0,30.0,1794.35
+2020,7,18,ES,Madrid,pm25,213,5.0,168.0,34.0,5774.11
+2020,2,3,ES,Valencia,pm25,144,13.0,97.0,50.0,3692.58
+2020,3,13,ES,Valencia,pm25,129,13.0,162.0,61.0,17936.0
+2020,6,15,ES,Valencia,pm25,132,13.0,61.0,38.0,1719.78
+2020,6,19,ES,Valencia,pm25,113,9.0,65.0,34.0,2301.41
+2020,1,11,ES,Valencia,pm25,144,5.0,99.0,30.0,4833.72
+2020,7,12,ES,Valencia,pm25,109,30.0,78.0,50.0,1368.69
+2020,7,14,ES,Valencia,pm25,140,21.0,85.0,46.0,2240.59
+2020,6,1,ES,Valencia,pm25,131,13.0,89.0,34.0,2425.39
+2020,7,10,ES,Valencia,pm25,106,25.0,93.0,46.0,1349.02
+2020,2,26,ES,Valencia,pm25,141,9.0,119.0,34.0,5016.42
+2020,5,8,ES,Valencia,pm25,107,5.0,65.0,46.0,3110.7
+2020,5,20,ES,Valencia,pm25,114,9.0,85.0,42.0,2801.45
+2020,1,31,ES,Valencia,pm25,137,5.0,65.0,25.0,1584.61
+2020,3,20,ES,Valencia,pm25,110,17.0,63.0,42.0,1247.8
+2020,4,20,ES,Valencia,pm25,129,5.0,72.0,21.0,2112.2
+2020,2,9,ES,Valencia,pm25,144,17.0,155.0,82.0,9546.85
+2020,2,17,ES,Valencia,pm25,130,25.0,165.0,112.0,7016.9
+2020,4,14,ES,Valencia,pm25,128,5.0,68.0,30.0,2480.92
+2020,5,9,ES,Valencia,pm25,112,5.0,99.0,55.0,4906.76
+2020,6,2,ES,Valencia,pm25,123,13.0,61.0,38.0,1346.07
+2020,7,24,ES,Valencia,pm25,130,17.0,124.0,34.0,2433.56
+2020,1,9,ES,Valencia,pm25,131,38.0,139.0,72.0,4324.66
+2020,4,27,ES,Valencia,pm25,144,5.0,91.0,46.0,4877.41
+2020,4,29,ES,Valencia,pm25,107,5.0,38.0,13.0,770.01
+2020,6,6,ES,Valencia,pm25,136,21.0,76.0,42.0,1371.22
+2020,6,12,ES,Valencia,pm25,103,9.0,42.0,17.0,399.83
+2020,7,20,ES,Valencia,pm25,112,25.0,72.0,42.0,1218.56
+2020,7,30,ES,Valencia,pm25,119,17.0,85.0,46.0,2532.87
+2020,2,16,ES,Valencia,pm25,144,63.0,158.0,104.0,6184.37
+2020,3,14,ES,Valencia,pm25,142,13.0,85.0,42.0,2233.35
+2020,5,4,ES,Valencia,pm25,124,5.0,109.0,38.0,4235.27
+2020,5,11,ES,Valencia,pm25,76,5.0,30.0,13.0,258.9
+2020,7,11,ES,Valencia,pm25,86,38.0,112.0,55.0,2063.57
+2020,2,4,ES,Valencia,pm25,144,5.0,129.0,57.0,4593.24
+2020,4,3,ES,Valencia,pm25,130,13.0,95.0,30.0,2730.5
+2020,4,4,ES,Valencia,pm25,140,17.0,87.0,34.0,2159.37
+2020,3,31,ES,Valencia,pm25,129,5.0,46.0,13.0,543.2
+2020,3,11,ES,Valencia,pm25,139,25.0,137.0,65.0,4318.6
+2020,7,16,ES,Valencia,pm25,97,17.0,76.0,34.0,1205.99
+2020,5,18,ES,Valencia,pm25,117,5.0,63.0,30.0,1738.9
+2020,6,16,ES,Valencia,pm25,134,13.0,74.0,38.0,2636.57
+2020,3,26,ES,Valencia,pm25,138,9.0,65.0,30.0,3019.72
+2020,3,22,ES,Valencia,pm25,108,5.0,72.0,25.0,3128.69
+2020,5,6,ES,Valencia,pm25,113,5.0,74.0,34.0,4125.31
+2020,2,1,ES,Valencia,pm25,123,5.0,53.0,17.0,1209.34
+2020,4,18,ES,Valencia,pm25,129,25.0,129.0,63.0,5253.14
+2020,5,23,ES,Valencia,pm25,98,5.0,80.0,34.0,3052.06
+2020,7,1,ES,Valencia,pm25,131,17.0,102.0,59.0,2968.23
+2020,7,6,ES,Valencia,pm25,123,9.0,142.0,34.0,3734.98
+2020,8,4,ES,Valencia,pm25,124,5.0,53.0,30.0,1292.13
+2020,3,27,ES,Valencia,pm25,137,5.0,85.0,25.0,2730.85
+2020,1,20,ES,Valencia,pm25,88,5.0,34.0,13.0,519.94
+2020,2,11,ES,Valencia,pm25,139,9.0,127.0,38.0,5798.41
+2020,3,5,ES,Valencia,pm25,134,5.0,74.0,17.0,1999.21
+2020,3,17,ES,Valencia,pm25,58,21.0,85.0,38.0,2016.19
+2020,3,23,ES,Valencia,pm25,114,5.0,46.0,17.0,1216.66
+2020,1,1,ES,Valencia,pm25,136,55.0,162.0,85.0,5026.93
+2020,3,4,ES,Valencia,pm25,118,5.0,53.0,13.0,753.07
+2020,5,16,ES,Valencia,pm25,92,5.0,57.0,25.0,1296.06
+2020,7,19,ES,Valencia,pm25,133,25.0,65.0,42.0,685.22
+2020,2,6,ES,Valencia,pm25,144,21.0,107.0,59.0,2926.55
+2020,3,15,ES,Valencia,pm25,141,13.0,59.0,38.0,2137.33
+2020,1,18,ES,Valencia,pm25,142,9.0,102.0,38.0,4386.41
+2020,6,14,ES,Valencia,pm25,130,13.0,57.0,30.0,1429.15
+2020,1,12,ES,Valencia,pm25,135,17.0,124.0,53.0,5723.11
+2020,5,15,ES,Valencia,pm25,94,5.0,59.0,17.0,1968.96
+2020,6,20,ES,Valencia,pm25,132,13.0,93.0,42.0,3200.89
+2020,4,16,ES,Valencia,pm25,130,25.0,124.0,61.0,3574.44
+2020,1,27,ES,Valencia,pm25,135,13.0,82.0,34.0,1743.53
+2020,6,22,ES,Valencia,pm25,128,13.0,91.0,42.0,3647.63
+2020,7,4,ES,Valencia,pm25,106,25.0,109.0,50.0,2384.34
+2020,8,6,ES,Valencia,pm25,98,5.0,89.0,25.0,1642.23
+2020,1,19,ES,Valencia,pm25,123,5.0,68.0,17.0,2426.79
+2020,3,24,ES,Valencia,pm25,126,17.0,78.0,34.0,1767.58
+2020,4,21,ES,Valencia,pm25,127,5.0,57.0,17.0,993.78
+2020,7,25,ES,Valencia,pm25,122,13.0,50.0,30.0,797.1
+2020,1,22,ES,Valencia,pm25,135,9.0,154.0,65.0,7944.37
+2020,4,5,ES,Valencia,pm25,134,13.0,109.0,34.0,2425.13
+2020,7,27,ES,Valencia,pm25,131,21.0,63.0,42.0,1110.93
+2020,2,14,ES,Valencia,pm25,142,17.0,153.0,53.0,6356.4
+2020,2,12,ES,Valencia,pm25,133,13.0,112.0,63.0,4199.49
+2020,2,20,ES,Valencia,pm25,142,17.0,122.0,59.0,3134.24
+2020,3,10,ES,Valencia,pm25,135,5.0,91.0,30.0,3865.79
+2020,4,23,ES,Valencia,pm25,136,17.0,97.0,46.0,3144.65
+2020,1,3,ES,Valencia,pm25,127,61.0,156.0,97.0,5640.43
+2020,6,25,ES,Valencia,pm25,123,9.0,74.0,30.0,2180.88
+2020,7,26,ES,Valencia,pm25,119,21.0,59.0,38.0,806.26
+2020,2,19,ES,Valencia,pm25,143,13.0,80.0,38.0,2830.76
+2020,7,15,ES,Valencia,pm25,101,21.0,70.0,50.0,1375.05
+2020,1,2,ES,Valencia,pm25,120,61.0,117.0,82.0,1365.41
+2020,3,19,ES,Valencia,pm25,115,17.0,82.0,53.0,3184.59
+2020,8,3,ES,Valencia,pm25,126,9.0,87.0,30.0,2540.54
+2020,1,24,ES,Valencia,pm25,140,34.0,153.0,85.0,6662.07
+2020,2,5,ES,Valencia,pm25,138,13.0,89.0,30.0,2493.96
+2020,4,7,ES,Valencia,pm25,139,17.0,95.0,50.0,3325.76
+2020,4,13,ES,Valencia,pm25,129,17.0,107.0,55.0,3471.84
+2020,5,1,ES,Valencia,pm25,76,5.0,30.0,13.0,390.52
+2020,5,3,ES,Valencia,pm25,99,5.0,57.0,21.0,1573.58
+2020,5,29,ES,Valencia,pm25,131,17.0,65.0,34.0,1704.22
+2020,1,14,ES,Valencia,pm25,137,38.0,163.0,74.0,5064.62
+2020,7,3,ES,Valencia,pm25,109,9.0,74.0,38.0,1931.36
+2020,7,5,ES,Valencia,pm25,111,9.0,70.0,42.0,1720.23
+2020,4,26,ES,Valencia,pm25,138,9.0,93.0,53.0,5668.29
+2020,7,21,ES,Valencia,pm25,74,25.0,63.0,42.0,869.1
+2020,5,31,ES,Valencia,pm25,123,13.0,46.0,21.0,426.39
+2020,1,17,ES,Valencia,pm25,142,13.0,137.0,42.0,7428.68
+2020,6,9,ES,Valencia,pm25,122,9.0,57.0,21.0,1469.47
+2020,3,18,ES,Valencia,pm25,138,21.0,80.0,50.0,1863.21
+2020,5,27,ES,Valencia,pm25,131,21.0,68.0,42.0,1262.62
+2020,6,4,ES,Valencia,pm25,139,13.0,65.0,34.0,1610.76
+2020,6,13,ES,Valencia,pm25,101,5.0,55.0,17.0,1617.37
+2020,1,13,ES,Valencia,pm25,130,21.0,124.0,70.0,4023.91
+2020,6,3,ES,Valencia,pm25,116,21.0,78.0,53.0,1630.42
+2020,2,25,ES,Valencia,pm25,144,17.0,127.0,61.0,4207.92
+2020,3,8,ES,Valencia,pm25,143,9.0,85.0,21.0,2621.89
+2020,4,10,ES,Valencia,pm25,144,34.0,117.0,65.0,2698.13
+2020,4,15,ES,Valencia,pm25,132,21.0,102.0,55.0,3129.43
+2020,7,7,ES,Valencia,pm25,25,21.0,50.0,34.0,617.1
+2020,1,28,ES,Valencia,pm25,112,9.0,46.0,25.0,722.32
+2020,4,6,ES,Valencia,pm25,141,17.0,109.0,50.0,2926.62
+2020,5,17,ES,Valencia,pm25,103,5.0,61.0,25.0,1128.68
+2020,5,19,ES,Valencia,pm25,117,5.0,76.0,38.0,2739.36
+2020,1,5,ES,Valencia,pm25,137,21.0,97.0,50.0,2645.1
+2020,4,9,ES,Valencia,pm25,143,21.0,112.0,55.0,2660.15
+2020,6,29,ES,Valencia,pm25,137,17.0,112.0,59.0,3666.85
+2020,1,16,ES,Valencia,pm25,138,25.0,153.0,76.0,6649.35
+2020,3,6,ES,Valencia,pm25,117,5.0,72.0,13.0,1830.39
+2020,3,25,ES,Valencia,pm25,124,9.0,68.0,21.0,1366.84
+2020,1,23,ES,Valencia,pm25,144,25.0,153.0,76.0,6447.66
+2020,2,21,ES,Valencia,pm25,144,25.0,144.0,76.0,4032.71
+2020,6,8,ES,Valencia,pm25,119,5.0,46.0,17.0,823.39
+2020,8,5,ES,Valencia,pm25,126,9.0,65.0,34.0,1659.3
+2020,2,18,ES,Valencia,pm25,134,13.0,169.0,42.0,14570.9
+2020,5,2,ES,Valencia,pm25,75,5.0,46.0,17.0,679.97
+2020,5,25,ES,Valencia,pm25,98,5.0,158.0,30.0,8824.85
+2020,5,26,ES,Valencia,pm25,131,9.0,85.0,38.0,2324.53
+2020,2,29,ES,Valencia,pm25,140,17.0,142.0,65.0,7578.95
+2020,4,19,ES,Valencia,pm25,113,5.0,65.0,21.0,2049.21
+2020,4,28,ES,Valencia,pm25,50,5.0,38.0,17.0,694.29
+2020,4,2,ES,Valencia,pm25,127,5.0,57.0,17.0,1322.23
+2020,6,28,ES,Valencia,pm25,133,17.0,93.0,57.0,3584.8
+2020,4,12,ES,Valencia,pm25,139,25.0,107.0,57.0,2689.32
+2020,4,24,ES,Valencia,pm25,141,17.0,97.0,50.0,3491.04
+2020,1,6,ES,Valencia,pm25,114,25.0,129.0,57.0,3318.32
+2020,1,21,ES,Valencia,pm25,110,5.0,163.0,72.0,24914.4
+2020,1,25,ES,Valencia,pm25,140,21.0,154.0,93.0,9009.28
+2020,5,28,ES,Valencia,pm25,130,9.0,76.0,34.0,2977.13
+2020,7,18,ES,Valencia,pm25,116,25.0,63.0,38.0,920.77
+2020,8,1,ES,Valencia,pm25,139,17.0,122.0,61.0,3113.11
+2020,1,8,ES,Valencia,pm25,120,46.0,152.0,87.0,6376.41
+2020,5,21,ES,Valencia,pm25,113,5.0,93.0,46.0,4297.68
+2020,6,24,ES,Valencia,pm25,119,9.0,55.0,30.0,1474.03
+2020,4,11,ES,Valencia,pm25,143,25.0,104.0,61.0,2564.46
+2020,3,12,ES,Valencia,pm25,144,25.0,158.0,72.0,8203.34
+2020,2,28,ES,Valencia,pm25,144,50.0,170.0,89.0,10317.0
+2020,3,1,ES,Valencia,pm25,136,9.0,65.0,17.0,1344.3
+2020,2,22,ES,Valencia,pm25,144,17.0,144.0,78.0,6368.87
+2020,6,21,ES,Valencia,pm25,140,13.0,109.0,38.0,4731.1
+2020,6,30,ES,Valencia,pm25,135,13.0,89.0,59.0,3213.21
+2020,7,28,ES,Valencia,pm25,129,13.0,65.0,42.0,1600.04
+2020,2,15,ES,Valencia,pm25,143,38.0,155.0,72.0,6151.73
+2020,4,1,ES,Valencia,pm25,104,5.0,25.0,9.0,246.02
+2020,6,18,ES,Valencia,pm25,118,13.0,63.0,34.0,1698.17
+2020,3,28,ES,Valencia,pm25,137,9.0,89.0,34.0,2618.31
+2020,5,30,ES,Valencia,pm25,125,5.0,61.0,25.0,2019.87
+2020,5,7,ES,Valencia,pm25,116,5.0,93.0,34.0,3610.83
+2020,1,15,ES,Valencia,pm25,139,30.0,153.0,82.0,7278.91
+2020,2,2,ES,Valencia,pm25,123,5.0,68.0,21.0,2286.16
+2020,7,22,ES,Valencia,pm25,109,17.0,61.0,34.0,995.77
+2020,1,7,ES,Valencia,pm25,128,46.0,152.0,76.0,4837.08
+2020,3,16,ES,Valencia,pm25,94,5.0,42.0,17.0,803.38
+2020,7,23,ES,Valencia,pm25,135,13.0,80.0,30.0,1431.59
+2019,12,30,ES,Valencia,pm25,140,55.0,134.0,85.0,2522.42
+2020,5,13,ES,Valencia,pm25,91,5.0,50.0,13.0,740.96
+2020,7,29,ES,Valencia,pm25,138,21.0,85.0,50.0,1692.64
+2020,1,4,ES,Valencia,pm25,130,34.0,154.0,70.0,7943.37
+2020,1,30,ES,Valencia,pm25,138,9.0,61.0,25.0,1220.22
+2020,7,17,ES,Valencia,pm25,113,25.0,72.0,38.0,1067.44
+2020,1,10,ES,Valencia,pm25,133,13.0,132.0,63.0,9154.99
+2020,3,29,ES,Valencia,pm25,137,5.0,87.0,30.0,3172.79
+2020,3,30,ES,Valencia,pm25,139,17.0,76.0,38.0,2937.61
+2020,5,22,ES,Valencia,pm25,120,5.0,78.0,42.0,3993.85
+2020,7,2,ES,Valencia,pm25,131,9.0,129.0,57.0,5352.52
+2019,12,31,ES,Valencia,pm25,135,53.0,165.0,76.0,5262.36
+2020,4,17,ES,Valencia,pm25,130,30.0,124.0,59.0,3381.83
+2020,6,5,ES,Valencia,pm25,133,9.0,57.0,21.0,1455.7
+2020,6,7,ES,Valencia,pm25,134,5.0,97.0,38.0,4806.65
+2020,6,26,ES,Valencia,pm25,119,9.0,63.0,25.0,1687.96
+2020,8,2,ES,Valencia,pm25,130,13.0,117.0,53.0,4249.18
+2020,2,13,ES,Valencia,pm25,144,30.0,152.0,87.0,6424.13
+2020,6,11,ES,Valencia,pm25,132,17.0,95.0,38.0,2165.0
+2020,2,24,ES,Valencia,pm25,144,17.0,122.0,61.0,2637.07
+2020,3,7,ES,Valencia,pm25,123,5.0,99.0,13.0,3855.36
+2020,1,26,ES,Valencia,pm25,143,5.0,142.0,55.0,7322.91
+2020,4,25,ES,Valencia,pm25,138,21.0,91.0,46.0,2751.1
+2020,5,10,ES,Valencia,pm25,97,5.0,85.0,17.0,7384.38
+2020,6,10,ES,Valencia,pm25,126,13.0,61.0,25.0,1372.53
+2020,2,8,ES,Valencia,pm25,144,13.0,139.0,76.0,6559.7
+2020,3,3,ES,Valencia,pm25,61,5.0,76.0,17.0,2179.73
+2020,6,17,ES,Valencia,pm25,123,13.0,91.0,30.0,2728.26
+2020,6,23,ES,Valencia,pm25,108,13.0,72.0,34.0,2047.0
+2020,2,27,ES,Valencia,pm25,144,13.0,157.0,46.0,5572.07
+2020,2,10,ES,Valencia,pm25,138,9.0,132.0,30.0,5376.99
+2020,2,23,ES,Valencia,pm25,142,17.0,114.0,63.0,3972.11
+2020,3,21,ES,Valencia,pm25,114,17.0,74.0,50.0,2202.92
+2020,7,13,ES,Valencia,pm25,119,21.0,97.0,46.0,2181.74
+2020,7,31,ES,Valencia,pm25,128,17.0,109.0,50.0,2172.75
+2020,4,30,ES,Valencia,pm25,100,5.0,38.0,13.0,533.29
+2020,5,14,ES,Valencia,pm25,88,5.0,63.0,17.0,2122.63
+2020,6,27,ES,Valencia,pm25,136,13.0,95.0,46.0,2680.92
+2020,2,7,ES,Valencia,pm25,141,5.0,134.0,59.0,5732.62
+2020,1,29,ES,Valencia,pm25,32,9.0,55.0,21.0,1210.81
+2020,4,8,ES,Valencia,pm25,140,17.0,109.0,57.0,3806.03
+2020,5,12,ES,Valencia,pm25,114,5.0,72.0,25.0,3204.29
+2020,5,24,ES,Valencia,pm25,84,5.0,57.0,34.0,2123.72
+2020,3,2,ES,Valencia,pm25,118,5.0,152.0,25.0,8125.84
+2020,3,9,ES,Valencia,pm25,138,9.0,74.0,25.0,2403.63
+2020,4,22,ES,Valencia,pm25,113,5.0,59.0,13.0,1997.45
+2020,5,5,ES,Valencia,pm25,130,5.0,117.0,38.0,4694.79
+2020,3,28,ES,Burgos,pm25,48,17.0,57.0,30.0,1629.77
+2020,5,12,ES,Burgos,pm25,46,5.0,53.0,30.0,1617.66
+2020,2,11,ES,Burgos,pm25,24,9.0,34.0,25.0,845.8
+2020,6,24,ES,Burgos,pm25,48,21.0,46.0,34.0,456.58
+2020,1,4,ES,Burgos,pm25,45,5.0,57.0,25.0,2464.07
+2020,2,10,ES,Burgos,pm25,22,5.0,25.0,13.0,425.28
+2020,8,2,ES,Burgos,pm25,48,9.0,34.0,17.0,557.45
+2020,1,20,ES,Burgos,pm25,48,9.0,70.0,38.0,3332.32
+2020,4,15,ES,Burgos,pm25,46,5.0,55.0,13.0,1844.72
+2020,6,30,ES,Burgos,pm25,44,9.0,34.0,25.0,391.9
+2020,1,24,ES,Burgos,pm25,48,5.0,57.0,34.0,1812.98
+2020,6,19,ES,Burgos,pm25,48,13.0,57.0,30.0,1743.76
+2020,6,17,ES,Burgos,pm25,44,5.0,70.0,21.0,2990.21
+2020,2,14,ES,Burgos,pm25,24,5.0,34.0,21.0,686.07
+2020,3,19,ES,Burgos,pm25,26,5.0,61.0,34.0,2611.94
+2020,5,8,ES,Burgos,pm25,48,21.0,57.0,34.0,964.1
+2020,5,17,ES,Burgos,pm25,48,38.0,63.0,50.0,530.21
+2020,6,5,ES,Burgos,pm25,46,9.0,34.0,21.0,504.89
+2020,4,6,ES,Burgos,pm25,48,5.0,30.0,21.0,657.8
+2020,7,2,ES,Burgos,pm25,42,5.0,34.0,21.0,582.72
+2020,3,13,ES,Burgos,pm25,46,5.0,653.0,13.0,598221.0
+2020,6,4,ES,Burgos,pm25,48,13.0,63.0,30.0,1391.9
+2020,5,24,ES,Burgos,pm25,40,17.0,57.0,34.0,1831.67
+2020,2,28,ES,Burgos,pm25,48,9.0,80.0,57.0,3595.46
+2020,3,9,ES,Burgos,pm25,42,5.0,42.0,17.0,2025.97
+2020,3,21,ES,Burgos,pm25,48,13.0,63.0,46.0,2205.96
+2020,6,1,ES,Burgos,pm25,46,5.0,38.0,21.0,1063.07
+2020,7,23,ES,Burgos,pm25,48,30.0,68.0,50.0,1210.43
+2020,1,1,ES,Burgos,pm25,22,17.0,68.0,38.0,1812.55
+2020,4,19,ES,Burgos,pm25,46,5.0,25.0,13.0,230.65
+2020,4,13,ES,Burgos,pm25,48,5.0,57.0,38.0,2354.82
+2020,4,20,ES,Burgos,pm25,46,9.0,53.0,21.0,1441.43
+2020,7,7,ES,Burgos,pm25,42,5.0,30.0,21.0,503.69
+2020,6,9,ES,Burgos,pm25,42,9.0,42.0,21.0,860.95
+2020,3,27,ES,Burgos,pm25,48,30.0,76.0,55.0,1491.84
+2020,5,10,ES,Burgos,pm25,46,9.0,42.0,21.0,1065.28
+2020,5,22,ES,Burgos,pm25,48,13.0,63.0,38.0,1445.94
+2020,1,6,ES,Burgos,pm25,44,5.0,42.0,9.0,1288.31
+2020,7,16,ES,Burgos,pm25,40,21.0,61.0,34.0,848.08
+2020,1,11,ES,Burgos,pm25,48,9.0,38.0,25.0,631.05
+2020,5,9,ES,Burgos,pm25,48,17.0,42.0,30.0,410.99
+2020,5,3,ES,Burgos,pm25,46,9.0,55.0,30.0,1804.14
+2020,1,31,ES,Burgos,pm25,36,5.0,25.0,5.0,642.54
+2020,2,13,ES,Burgos,pm25,20,5.0,38.0,30.0,1641.55
+2020,2,26,ES,Burgos,pm25,46,5.0,25.0,9.0,375.96
+2020,6,7,ES,Burgos,pm25,44,9.0,30.0,21.0,245.75
+2020,6,13,ES,Burgos,pm25,48,9.0,30.0,17.0,248.72
+2020,3,23,ES,Burgos,pm25,48,9.0,68.0,53.0,3501.21
+2020,6,16,ES,Burgos,pm25,44,9.0,57.0,21.0,1606.79
+2020,7,29,ES,Burgos,pm25,48,17.0,55.0,30.0,1037.29
+2020,4,4,ES,Burgos,pm25,48,5.0,38.0,21.0,1005.51
+2020,7,20,ES,Burgos,pm25,48,30.0,61.0,50.0,842.77
+2020,2,24,ES,Burgos,pm25,37,9.0,82.0,25.0,4149.25
+2020,4,7,ES,Burgos,pm25,48,5.0,38.0,30.0,1511.76
+2020,4,27,ES,Burgos,pm25,48,9.0,46.0,30.0,671.42
+2020,5,2,ES,Burgos,pm25,48,5.0,42.0,21.0,917.45
+2020,2,1,ES,Burgos,pm25,48,5.0,34.0,9.0,649.29
+2020,3,16,ES,Burgos,pm25,12,5.0,762.0,219.0,1337710.0
+2020,4,12,ES,Burgos,pm25,42,5.0,38.0,17.0,988.9
+2020,6,2,ES,Burgos,pm25,48,17.0,68.0,42.0,1527.66
+2020,8,3,ES,Burgos,pm25,48,9.0,42.0,25.0,781.68
+2020,4,16,ES,Burgos,pm25,44,5.0,17.0,9.0,183.0
+2020,4,29,ES,Burgos,pm25,46,9.0,55.0,17.0,1285.72
+2020,5,11,ES,Burgos,pm25,42,5.0,34.0,21.0,473.77
+2020,5,18,ES,Burgos,pm25,48,17.0,61.0,34.0,1752.27
+2020,6,15,ES,Burgos,pm25,46,9.0,57.0,21.0,1558.76
+2020,1,12,ES,Burgos,pm25,44,5.0,55.0,25.0,1992.73
+2020,5,31,ES,Burgos,pm25,46,17.0,42.0,30.0,289.43
+2020,7,15,ES,Burgos,pm25,46,5.0,38.0,17.0,1345.08
+2020,7,24,ES,Burgos,pm25,46,25.0,65.0,42.0,1180.87
+2020,6,11,ES,Burgos,pm25,40,5.0,42.0,21.0,1055.26
+2020,1,8,ES,Burgos,pm25,48,5.0,59.0,30.0,2874.31
+2020,2,9,ES,Burgos,pm25,29,5.0,25.0,17.0,256.16
+2020,2,15,ES,Burgos,pm25,24,9.0,53.0,25.0,1412.97
+2020,2,19,ES,Burgos,pm25,21,5.0,38.0,17.0,1138.48
+2020,3,20,ES,Burgos,pm25,48,21.0,78.0,53.0,1717.43
+2020,5,23,ES,Burgos,pm25,46,9.0,59.0,25.0,2239.96
+2020,2,4,ES,Burgos,pm25,46,5.0,38.0,21.0,603.44
+2020,5,13,ES,Burgos,pm25,44,13.0,30.0,25.0,251.16
+2020,6,28,ES,Burgos,pm25,44,9.0,42.0,21.0,884.57
+2020,3,11,ES,Burgos,pm25,32,5.0,21.0,9.0,430.97
+2020,4,5,ES,Burgos,pm25,48,5.0,34.0,21.0,716.31
+2020,5,30,ES,Burgos,pm25,48,25.0,63.0,38.0,1289.34
+2020,7,1,ES,Burgos,pm25,46,34.0,55.0,42.0,380.21
+2020,7,4,ES,Burgos,pm25,44,5.0,59.0,17.0,1853.3
+2020,2,3,ES,Burgos,pm25,48,9.0,63.0,25.0,3132.77
+2020,5,15,ES,Burgos,pm25,42,9.0,55.0,30.0,982.35
+2020,2,8,ES,Burgos,pm25,42,5.0,38.0,25.0,985.27
+2020,4,9,ES,Burgos,pm25,48,13.0,65.0,30.0,1747.8
+2020,8,7,ES,Burgos,pm25,38,21.0,63.0,46.0,2034.03
+2020,4,22,ES,Burgos,pm25,42,9.0,46.0,25.0,1095.93
+2020,4,28,ES,Burgos,pm25,48,13.0,38.0,25.0,455.73
+2020,5,21,ES,Burgos,pm25,40,9.0,78.0,25.0,2519.08
+2020,7,3,ES,Burgos,pm25,42,5.0,34.0,21.0,561.53
+2020,1,22,ES,Burgos,pm25,48,5.0,55.0,17.0,2210.05
+2020,3,4,ES,Burgos,pm25,46,5.0,30.0,17.0,676.37
+2020,3,12,ES,Burgos,pm25,34,5.0,46.0,25.0,1640.14
+2020,3,22,ES,Burgos,pm25,48,34.0,65.0,55.0,811.47
+2020,6,6,ES,Burgos,pm25,46,17.0,46.0,34.0,577.28
+2020,6,26,ES,Burgos,pm25,48,9.0,57.0,34.0,1353.4
+2020,1,13,ES,Burgos,pm25,46,13.0,59.0,25.0,1277.02
+2020,1,23,ES,Burgos,pm25,48,5.0,57.0,21.0,2696.1
+2020,3,14,ES,Burgos,pm25,46,5.0,653.0,25.0,811342.0
+2020,5,28,ES,Burgos,pm25,48,25.0,65.0,42.0,1499.79
+2020,5,29,ES,Burgos,pm25,46,21.0,61.0,38.0,751.11
+2020,2,29,ES,Burgos,pm25,48,9.0,114.0,30.0,13980.0
+2020,3,15,ES,Burgos,pm25,48,5.0,654.0,223.0,837892.0
+2020,6,23,ES,Burgos,pm25,46,17.0,50.0,34.0,1013.91
+2020,7,12,ES,Burgos,pm25,46,17.0,55.0,30.0,1385.47
+2020,3,5,ES,Burgos,pm25,42,5.0,34.0,13.0,734.54
+2020,2,27,ES,Burgos,pm25,48,9.0,99.0,34.0,8317.43
+2020,3,1,ES,Burgos,pm25,40,5.0,21.0,9.0,336.41
+2020,4,24,ES,Burgos,pm25,46,17.0,42.0,34.0,503.88
+2020,5,1,ES,Burgos,pm25,44,5.0,30.0,17.0,514.33
+2020,7,21,ES,Burgos,pm25,46,30.0,57.0,38.0,658.32
+2020,7,27,ES,Burgos,pm25,46,21.0,61.0,42.0,1375.54
+2020,4,26,ES,Burgos,pm25,42,5.0,55.0,34.0,1685.85
+2020,5,20,ES,Burgos,pm25,44,9.0,169.0,30.0,19190.4
+2020,7,8,ES,Burgos,pm25,42,5.0,57.0,34.0,1229.87
+2020,2,2,ES,Burgos,pm25,48,5.0,25.0,13.0,475.46
+2020,3,6,ES,Burgos,pm25,38,5.0,25.0,9.0,404.21
+2020,4,25,ES,Burgos,pm25,46,13.0,42.0,30.0,645.99
+2020,7,25,ES,Burgos,pm25,48,25.0,63.0,34.0,843.12
+2020,1,29,ES,Burgos,pm25,46,5.0,17.0,9.0,151.5
+2020,3,26,ES,Burgos,pm25,41,21.0,50.0,30.0,607.88
+2020,8,5,ES,Burgos,pm25,42,5.0,57.0,21.0,1830.85
+2020,7,6,ES,Burgos,pm25,44,5.0,30.0,17.0,454.8
+2020,1,9,ES,Burgos,pm25,48,5.0,46.0,30.0,1014.02
+2020,3,29,ES,Burgos,pm25,46,21.0,68.0,46.0,1902.11
+2020,5,5,ES,Burgos,pm25,42,5.0,30.0,21.0,795.45
+2020,6,25,ES,Burgos,pm25,46,25.0,57.0,38.0,674.86
+2020,7,13,ES,Burgos,pm25,44,5.0,57.0,38.0,1418.35
+2020,5,26,ES,Burgos,pm25,48,5.0,59.0,38.0,2173.46
+2020,2,21,ES,Burgos,pm25,24,21.0,59.0,38.0,1139.98
+2020,5,7,ES,Burgos,pm25,48,21.0,57.0,38.0,1129.77
+2020,5,19,ES,Burgos,pm25,48,17.0,57.0,42.0,1091.63
+2020,7,10,ES,Burgos,pm25,48,25.0,59.0,38.0,1203.81
+2020,7,14,ES,Burgos,pm25,48,17.0,46.0,30.0,681.63
+2020,7,26,ES,Burgos,pm25,48,9.0,57.0,25.0,1345.8
+2020,7,11,ES,Burgos,pm25,46,21.0,61.0,34.0,1479.07
+2020,1,3,ES,Burgos,pm25,42,13.0,68.0,53.0,2303.32
+2020,3,10,ES,Burgos,pm25,48,5.0,53.0,17.0,2146.22
+2020,5,4,ES,Burgos,pm25,48,9.0,61.0,30.0,2701.26
+2020,1,21,ES,Burgos,pm25,46,5.0,53.0,34.0,2273.31
+2020,4,14,ES,Burgos,pm25,48,9.0,53.0,34.0,1376.1
+2020,6,8,ES,Burgos,pm25,44,5.0,53.0,17.0,1377.59
+2020,1,26,ES,Burgos,pm25,46,5.0,34.0,17.0,914.36
+2020,8,1,ES,Burgos,pm25,46,21.0,63.0,34.0,1587.98
+2020,2,5,ES,Burgos,pm25,48,5.0,74.0,21.0,3230.48
+2020,2,20,ES,Burgos,pm25,22,5.0,74.0,17.0,5155.61
+2020,7,22,ES,Burgos,pm25,48,21.0,57.0,42.0,987.08
+2020,1,16,ES,Burgos,pm25,48,5.0,38.0,21.0,790.05
+2020,3,2,ES,Burgos,pm25,38,5.0,17.0,9.0,155.68
+2020,6,3,ES,Burgos,pm25,36,34.0,59.0,53.0,631.78
+2020,7,19,ES,Burgos,pm25,46,9.0,55.0,34.0,1417.62
+2020,5,6,ES,Burgos,pm25,48,5.0,53.0,25.0,1248.44
+2020,2,23,ES,Burgos,pm25,24,9.0,34.0,25.0,623.19
+2020,3,3,ES,Burgos,pm25,24,5.0,34.0,9.0,1488.7
+2020,4,23,ES,Burgos,pm25,46,9.0,38.0,30.0,789.99
+2020,6,29,ES,Burgos,pm25,48,9.0,38.0,25.0,778.09
+2020,3,24,ES,Burgos,pm25,48,17.0,53.0,34.0,1035.67
+2020,4,3,ES,Burgos,pm25,48,13.0,61.0,42.0,2239.93
+2020,5,25,ES,Burgos,pm25,48,17.0,53.0,42.0,981.68
+2020,1,15,ES,Burgos,pm25,42,5.0,25.0,17.0,491.34
+2020,2,12,ES,Burgos,pm25,24,13.0,65.0,30.0,1783.46
+2020,3,8,ES,Burgos,pm25,48,5.0,74.0,21.0,4247.59
+2020,7,30,ES,Burgos,pm25,36,21.0,57.0,42.0,1256.29
+2020,1,2,ES,Burgos,pm25,33,5.0,65.0,42.0,3853.6
+2020,1,5,ES,Burgos,pm25,44,5.0,30.0,17.0,636.64
+2020,2,16,ES,Burgos,pm25,24,5.0,55.0,25.0,1717.66
+2020,6,10,ES,Burgos,pm25,48,5.0,46.0,25.0,1291.91
+2020,7,9,ES,Burgos,pm25,42,13.0,55.0,38.0,1861.6
+2020,1,25,ES,Burgos,pm25,44,9.0,46.0,17.0,1094.4
+2020,1,27,ES,Burgos,pm25,36,5.0,30.0,21.0,524.73
+2020,2,6,ES,Burgos,pm25,44,9.0,65.0,25.0,3172.77
+2020,3,25,ES,Burgos,pm25,48,9.0,57.0,25.0,2221.28
+2020,5,14,ES,Burgos,pm25,48,13.0,55.0,30.0,1647.87
+2020,1,7,ES,Burgos,pm25,46,17.0,162.0,34.0,15011.8
+2020,1,28,ES,Burgos,pm25,26,5.0,21.0,9.0,336.74
+2020,2,25,ES,Burgos,pm25,48,5.0,63.0,25.0,2555.3
+2020,6,21,ES,Burgos,pm25,44,13.0,59.0,30.0,1303.53
+2020,7,18,ES,Burgos,pm25,46,13.0,46.0,30.0,682.2
+2020,8,4,ES,Burgos,pm25,46,5.0,57.0,17.0,2224.73
+2020,4,1,ES,Burgos,pm25,46,5.0,21.0,13.0,202.2
+2020,4,17,ES,Burgos,pm25,46,5.0,25.0,9.0,349.99
+2020,6,20,ES,Burgos,pm25,42,9.0,42.0,34.0,1294.12
+2020,1,18,ES,Burgos,pm25,42,5.0,38.0,17.0,1508.2
+2020,1,30,ES,Burgos,pm25,42,5.0,38.0,9.0,1096.91
+2020,4,2,ES,Burgos,pm25,44,5.0,55.0,25.0,2229.53
+2020,5,16,ES,Burgos,pm25,46,17.0,70.0,53.0,2257.7
+2020,8,6,ES,Burgos,pm25,48,5.0,61.0,42.0,1669.2
+2020,1,17,ES,Burgos,pm25,46,5.0,25.0,17.0,566.41
+2020,3,7,ES,Burgos,pm25,48,5.0,34.0,13.0,805.32
+2020,4,10,ES,Burgos,pm25,42,5.0,30.0,21.0,508.2
+2020,6,14,ES,Burgos,pm25,48,9.0,38.0,17.0,821.68
+2020,2,7,ES,Burgos,pm25,48,13.0,68.0,38.0,2853.33
+2020,4,21,ES,Burgos,pm25,48,9.0,159.0,30.0,14034.8
+2020,2,18,ES,Burgos,pm25,22,5.0,30.0,13.0,608.31
+2020,4,11,ES,Burgos,pm25,38,5.0,30.0,9.0,457.52
+2020,6,18,ES,Burgos,pm25,42,25.0,59.0,30.0,790.15
+2020,1,19,ES,Burgos,pm25,47,5.0,157.0,21.0,23168.7
+2020,2,17,ES,Burgos,pm25,23,5.0,30.0,13.0,732.21
+2020,3,30,ES,Burgos,pm25,44,5.0,25.0,21.0,389.68
+2020,1,10,ES,Burgos,pm25,40,5.0,25.0,17.0,280.61
+2020,4,8,ES,Burgos,pm25,48,5.0,55.0,30.0,971.84
+2020,4,30,ES,Burgos,pm25,48,5.0,25.0,13.0,434.61
+2020,5,27,ES,Burgos,pm25,48,25.0,57.0,42.0,923.4
+2020,7,5,ES,Burgos,pm25,40,5.0,30.0,17.0,805.74
+2020,1,14,ES,Burgos,pm25,44,5.0,72.0,34.0,3563.47
+2020,2,22,ES,Burgos,pm25,22,5.0,38.0,25.0,895.61
+2020,6,12,ES,Burgos,pm25,44,5.0,25.0,17.0,377.84
+2020,6,27,ES,Burgos,pm25,48,5.0,30.0,21.0,492.13
+2020,7,28,ES,Burgos,pm25,48,17.0,57.0,34.0,1269.79
+2019,12,30,ES,Burgos,pm25,24,5.0,97.0,57.0,8199.93
+2019,12,31,ES,Burgos,pm25,24,21.0,72.0,59.0,1833.84
+2020,3,31,ES,Burgos,pm25,44,5.0,30.0,21.0,440.59
+2020,4,18,ES,Burgos,pm25,48,5.0,21.0,13.0,358.3
+2020,7,17,ES,Burgos,pm25,46,5.0,50.0,38.0,1289.55
+2020,6,22,ES,Burgos,pm25,46,5.0,38.0,25.0,863.96
+2020,7,31,ES,Burgos,pm25,48,13.0,72.0,34.0,2461.12
+2020,2,3,ES,Santa Cruz de Tenerife,pm25,395,5.0,159.0,38.0,6976.06
+2020,4,4,ES,Santa Cruz de Tenerife,pm25,308,5.0,74.0,21.0,1847.53
+2020,7,17,ES,Santa Cruz de Tenerife,pm25,346,5.0,104.0,50.0,2332.65
+2020,2,29,ES,Santa Cruz de Tenerife,pm25,401,5.0,65.0,21.0,2163.15
+2020,3,20,ES,Santa Cruz de Tenerife,pm25,387,5.0,104.0,38.0,6563.41
+2020,4,13,ES,Santa Cruz de Tenerife,pm25,331,5.0,65.0,9.0,979.14
+2020,4,17,ES,Santa Cruz de Tenerife,pm25,389,5.0,97.0,17.0,1965.19
+2020,4,19,ES,Santa Cruz de Tenerife,pm25,316,5.0,61.0,9.0,1037.42
+2020,4,26,ES,Santa Cruz de Tenerife,pm25,355,5.0,57.0,13.0,966.18
+2020,5,9,ES,Santa Cruz de Tenerife,pm25,328,5.0,114.0,9.0,1594.41
+2020,6,16,ES,Santa Cruz de Tenerife,pm25,351,5.0,834.0,42.0,75968.6
+2020,7,7,ES,Santa Cruz de Tenerife,pm25,392,34.0,109.0,68.0,1646.03
+2020,3,1,ES,Santa Cruz de Tenerife,pm25,399,5.0,85.0,38.0,4028.95
+2020,7,28,ES,Santa Cruz de Tenerife,pm25,322,5.0,231.0,30.0,16317.9
+2020,2,12,ES,Santa Cruz de Tenerife,pm25,430,21.0,168.0,72.0,3665.1
+2020,2,16,ES,Santa Cruz de Tenerife,pm25,287,5.0,78.0,25.0,1874.96
+2020,5,28,ES,Santa Cruz de Tenerife,pm25,416,5.0,104.0,38.0,2394.64
+2020,3,12,ES,Santa Cruz de Tenerife,pm25,412,5.0,827.0,46.0,17905.9
+2020,5,26,ES,Santa Cruz de Tenerife,pm25,424,9.0,134.0,63.0,2802.3
+2020,6,5,ES,Santa Cruz de Tenerife,pm25,339,5.0,65.0,13.0,1986.17
+2020,7,22,ES,Santa Cruz de Tenerife,pm25,325,5.0,114.0,46.0,2485.17
+2020,1,3,ES,Santa Cruz de Tenerife,pm25,416,5.0,124.0,38.0,4590.55
+2020,1,29,ES,Santa Cruz de Tenerife,pm25,426,5.0,834.0,50.0,32619.0
+2020,4,18,ES,Santa Cruz de Tenerife,pm25,312,5.0,65.0,9.0,1366.86
+2020,5,27,ES,Santa Cruz de Tenerife,pm25,423,17.0,99.0,50.0,2522.56
+2020,7,18,ES,Santa Cruz de Tenerife,pm25,25,30.0,70.0,50.0,1548.93
+2020,2,17,ES,Santa Cruz de Tenerife,pm25,392,5.0,160.0,42.0,3076.01
+2020,4,16,ES,Santa Cruz de Tenerife,pm25,410,5.0,95.0,17.0,1759.29
+2020,5,29,ES,Santa Cruz de Tenerife,pm25,382,5.0,89.0,34.0,2268.91
+2020,3,13,ES,Santa Cruz de Tenerife,pm25,421,5.0,85.0,34.0,3121.13
+2020,3,15,ES,Santa Cruz de Tenerife,pm25,309,5.0,144.0,13.0,3079.57
+2020,2,14,ES,Santa Cruz de Tenerife,pm25,301,13.0,422.0,61.0,8432.23
+2020,6,14,ES,Santa Cruz de Tenerife,pm25,257,5.0,72.0,9.0,870.82
+2020,6,20,ES,Santa Cruz de Tenerife,pm25,306,5.0,68.0,13.0,1044.6
+2020,7,31,ES,Santa Cruz de Tenerife,pm25,186,5.0,78.0,21.0,2266.29
+2020,1,31,ES,Santa Cruz de Tenerife,pm25,413,5.0,82.0,30.0,3182.19
+2020,2,26,ES,Santa Cruz de Tenerife,pm25,400,5.0,119.0,34.0,3563.03
+2020,3,6,ES,Santa Cruz de Tenerife,pm25,286,5.0,132.0,21.0,3403.83
+2020,3,10,ES,Santa Cruz de Tenerife,pm25,411,5.0,834.0,46.0,18811.3
+2020,3,27,ES,Santa Cruz de Tenerife,pm25,423,5.0,78.0,34.0,3161.95
+2020,4,25,ES,Santa Cruz de Tenerife,pm25,364,5.0,57.0,9.0,791.79
+2020,1,17,ES,Santa Cruz de Tenerife,pm25,395,5.0,250.0,25.0,9714.33
+2020,1,20,ES,Santa Cruz de Tenerife,pm25,357,5.0,250.0,21.0,13330.5
+2020,3,16,ES,Santa Cruz de Tenerife,pm25,353,5.0,187.0,17.0,8536.69
+2020,7,29,ES,Santa Cruz de Tenerife,pm25,296,5.0,174.0,21.0,7906.02
+2020,1,23,ES,Santa Cruz de Tenerife,pm25,351,5.0,250.0,17.0,14990.4
+2020,2,7,ES,Santa Cruz de Tenerife,pm25,430,9.0,834.0,78.0,25794.2
+2020,3,8,ES,Santa Cruz de Tenerife,pm25,43,21.0,85.0,57.0,2729.17
+2020,7,11,ES,Santa Cruz de Tenerife,pm25,349,5.0,134.0,38.0,2322.58
+2020,2,21,ES,Santa Cruz de Tenerife,pm25,385,5.0,104.0,13.0,2291.1
+2020,3,4,ES,Santa Cruz de Tenerife,pm25,404,5.0,829.0,34.0,18342.5
+2020,2,13,ES,Santa Cruz de Tenerife,pm25,360,38.0,182.0,74.0,4011.27
+2020,3,3,ES,Santa Cruz de Tenerife,pm25,296,5.0,74.0,30.0,2563.89
+2020,3,29,ES,Santa Cruz de Tenerife,pm25,298,5.0,99.0,9.0,2226.52
+2020,7,3,ES,Santa Cruz de Tenerife,pm25,332,5.0,803.0,21.0,38433.0
+2020,1,6,ES,Santa Cruz de Tenerife,pm25,349,5.0,147.0,13.0,2784.53
+2020,2,25,ES,Santa Cruz de Tenerife,pm25,428,17.0,195.0,129.0,20971.1
+2020,7,13,ES,Santa Cruz de Tenerife,pm25,292,9.0,174.0,46.0,3363.2
+2020,1,10,ES,Santa Cruz de Tenerife,pm25,364,5.0,70.0,21.0,2208.74
+2020,1,12,ES,Santa Cruz de Tenerife,pm25,400,5.0,68.0,25.0,2426.94
+2020,2,5,ES,Santa Cruz de Tenerife,pm25,396,25.0,541.0,152.0,80396.0
+2020,2,23,ES,Santa Cruz de Tenerife,pm25,366,38.0,834.0,114.0,504060.0
+2020,6,26,ES,Santa Cruz de Tenerife,pm25,154,5.0,68.0,13.0,1087.52
+2020,5,14,ES,Santa Cruz de Tenerife,pm25,407,5.0,87.0,17.0,1351.32
+2020,5,23,ES,Santa Cruz de Tenerife,pm25,424,9.0,85.0,42.0,2577.16
+2020,8,5,ES,Santa Cruz de Tenerife,pm25,325,5.0,320.0,21.0,8694.6
+2020,2,27,ES,Santa Cruz de Tenerife,pm25,379,5.0,834.0,21.0,54044.0
+2020,4,28,ES,Santa Cruz de Tenerife,pm25,342,5.0,72.0,13.0,1335.99
+2020,8,1,ES,Santa Cruz de Tenerife,pm25,192,5.0,63.0,30.0,1929.0
+2020,8,2,ES,Santa Cruz de Tenerife,pm25,188,9.0,112.0,34.0,3732.4
+2020,1,11,ES,Santa Cruz de Tenerife,pm25,374,5.0,80.0,21.0,2364.18
+2020,6,30,ES,Santa Cruz de Tenerife,pm25,334,5.0,227.0,13.0,4028.82
+2020,1,8,ES,Santa Cruz de Tenerife,pm25,406,5.0,114.0,34.0,2261.96
+2020,2,18,ES,Santa Cruz de Tenerife,pm25,403,5.0,833.0,34.0,18857.5
+2020,6,21,ES,Santa Cruz de Tenerife,pm25,366,5.0,247.0,21.0,6880.57
+2020,1,22,ES,Santa Cruz de Tenerife,pm25,379,5.0,455.0,17.0,16960.2
+2020,2,22,ES,Santa Cruz de Tenerife,pm25,398,5.0,485.0,42.0,100180.0
+2020,3,14,ES,Santa Cruz de Tenerife,pm25,393,5.0,129.0,17.0,3330.87
+2020,5,10,ES,Santa Cruz de Tenerife,pm25,404,5.0,82.0,17.0,2002.27
+2020,3,24,ES,Santa Cruz de Tenerife,pm25,432,13.0,89.0,55.0,2280.08
+2020,6,7,ES,Santa Cruz de Tenerife,pm25,309,5.0,254.0,13.0,5814.1
+2020,6,9,ES,Santa Cruz de Tenerife,pm25,329,5.0,201.0,13.0,3985.99
+2020,6,23,ES,Santa Cruz de Tenerife,pm25,413,5.0,154.0,25.0,4569.11
+2020,6,29,ES,Santa Cruz de Tenerife,pm25,293,5.0,80.0,13.0,1633.59
+2020,7,16,ES,Santa Cruz de Tenerife,pm25,350,5.0,119.0,42.0,2311.22
+2020,5,20,ES,Santa Cruz de Tenerife,pm25,415,5.0,70.0,25.0,1922.69
+2020,5,31,ES,Santa Cruz de Tenerife,pm25,288,5.0,89.0,34.0,2021.06
+2020,7,12,ES,Santa Cruz de Tenerife,pm25,348,13.0,107.0,50.0,1753.76
+2020,7,23,ES,Santa Cruz de Tenerife,pm25,329,5.0,151.0,53.0,5188.6
+2020,8,4,ES,Santa Cruz de Tenerife,pm25,280,5.0,260.0,21.0,7682.6
+2020,3,17,ES,Santa Cruz de Tenerife,pm25,319,5.0,178.0,13.0,8185.24
+2020,5,5,ES,Santa Cruz de Tenerife,pm25,392,5.0,159.0,13.0,2353.57
+2020,6,3,ES,Santa Cruz de Tenerife,pm25,380,5.0,74.0,17.0,1685.12
+2020,7,9,ES,Santa Cruz de Tenerife,pm25,288,5.0,80.0,42.0,2749.94
+2020,3,26,ES,Santa Cruz de Tenerife,pm25,421,5.0,263.0,42.0,4828.81
+2020,6,19,ES,Santa Cruz de Tenerife,pm25,363,5.0,170.0,13.0,3150.27
+2020,1,5,ES,Santa Cruz de Tenerife,pm25,421,5.0,209.0,30.0,4041.28
+2020,4,10,ES,Santa Cruz de Tenerife,pm25,391,5.0,65.0,13.0,734.44
+2020,4,30,ES,Santa Cruz de Tenerife,pm25,296,5.0,247.0,9.0,7704.47
+2020,5,6,ES,Santa Cruz de Tenerife,pm25,349,5.0,834.0,13.0,39645.4
+2020,7,21,ES,Santa Cruz de Tenerife,pm25,359,5.0,167.0,34.0,4921.15
+2020,3,21,ES,Santa Cruz de Tenerife,pm25,390,5.0,102.0,13.0,1825.24
+2020,5,3,ES,Santa Cruz de Tenerife,pm25,415,5.0,65.0,21.0,1232.79
+2020,6,18,ES,Santa Cruz de Tenerife,pm25,367,5.0,76.0,13.0,1820.58
+2020,5,7,ES,Santa Cruz de Tenerife,pm25,361,5.0,247.0,9.0,4538.51
+2020,1,15,ES,Santa Cruz de Tenerife,pm25,388,9.0,163.0,93.0,13335.9
+2020,7,6,ES,Santa Cruz de Tenerife,pm25,406,5.0,807.0,46.0,61228.4
+2020,8,3,ES,Santa Cruz de Tenerife,pm25,298,5.0,102.0,34.0,2853.88
+2020,6,10,ES,Santa Cruz de Tenerife,pm25,381,5.0,74.0,13.0,1238.57
+2020,7,5,ES,Santa Cruz de Tenerife,pm25,318,5.0,85.0,25.0,2578.21
+2020,7,8,ES,Santa Cruz de Tenerife,pm25,340,5.0,301.0,68.0,5063.7
+2020,1,1,ES,Santa Cruz de Tenerife,pm25,427,5.0,490.0,55.0,13718.3
+2020,1,9,ES,Santa Cruz de Tenerife,pm25,403,5.0,61.0,21.0,2009.42
+2020,1,16,ES,Santa Cruz de Tenerife,pm25,383,13.0,132.0,57.0,4256.44
+2020,4,1,ES,Santa Cruz de Tenerife,pm25,362,5.0,165.0,9.0,1815.37
+2020,7,1,ES,Santa Cruz de Tenerife,pm25,365,5.0,508.0,17.0,27971.5
+2020,4,6,ES,Santa Cruz de Tenerife,pm25,238,5.0,70.0,25.0,1822.51
+2020,7,4,ES,Santa Cruz de Tenerife,pm25,310,5.0,72.0,25.0,1418.07
+2019,12,31,ES,Santa Cruz de Tenerife,pm25,411,5.0,168.0,38.0,5822.16
+2020,2,24,ES,Santa Cruz de Tenerife,pm25,403,65.0,600.0,190.0,117411.0
+2020,4,12,ES,Santa Cruz de Tenerife,pm25,351,5.0,834.0,9.0,58273.8
+2020,2,8,ES,Santa Cruz de Tenerife,pm25,432,38.0,151.0,85.0,4380.61
+2020,3,9,ES,Santa Cruz de Tenerife,pm25,269,5.0,132.0,55.0,3332.02
+2020,6,15,ES,Santa Cruz de Tenerife,pm25,362,5.0,834.0,17.0,56657.0
+2020,7,20,ES,Santa Cruz de Tenerife,pm25,343,5.0,151.0,34.0,4951.77
+2020,1,26,ES,Santa Cruz de Tenerife,pm25,174,5.0,167.0,13.0,3922.37
+2020,4,29,ES,Santa Cruz de Tenerife,pm25,348,5.0,63.0,9.0,1119.99
+2020,6,8,ES,Santa Cruz de Tenerife,pm25,315,5.0,74.0,13.0,1751.32
+2020,1,21,ES,Santa Cruz de Tenerife,pm25,402,5.0,226.0,21.0,7099.53
+2020,3,19,ES,Santa Cruz de Tenerife,pm25,403,5.0,117.0,57.0,5969.41
+2020,5,8,ES,Santa Cruz de Tenerife,pm25,333,5.0,74.0,13.0,1742.13
+2020,5,22,ES,Santa Cruz de Tenerife,pm25,397,5.0,87.0,21.0,2344.19
+2020,6,17,ES,Santa Cruz de Tenerife,pm25,360,5.0,127.0,55.0,2687.6
+2020,7,30,ES,Santa Cruz de Tenerife,pm25,204,5.0,87.0,17.0,3323.94
+2020,2,19,ES,Santa Cruz de Tenerife,pm25,367,5.0,834.0,30.0,24234.6
+2020,5,2,ES,Santa Cruz de Tenerife,pm25,404,5.0,109.0,17.0,1860.34
+2020,8,7,ES,Santa Cruz de Tenerife,pm25,226,5.0,53.0,13.0,965.71
+2020,1,27,ES,Santa Cruz de Tenerife,pm25,312,5.0,61.0,21.0,2266.19
+2020,2,1,ES,Santa Cruz de Tenerife,pm25,422,5.0,147.0,30.0,3936.45
+2020,7,25,ES,Santa Cruz de Tenerife,pm25,266,5.0,147.0,42.0,4072.53
+2020,2,9,ES,Santa Cruz de Tenerife,pm25,409,5.0,82.0,17.0,3816.38
+2020,4,2,ES,Santa Cruz de Tenerife,pm25,396,5.0,55.0,13.0,841.96
+2020,4,20,ES,Santa Cruz de Tenerife,pm25,338,5.0,61.0,13.0,795.45
+2020,5,16,ES,Santa Cruz de Tenerife,pm25,381,5.0,59.0,21.0,1261.73
+2020,6,4,ES,Santa Cruz de Tenerife,pm25,348,5.0,70.0,13.0,1487.45
+2020,6,12,ES,Santa Cruz de Tenerife,pm25,309,5.0,59.0,9.0,1016.39
+2020,6,22,ES,Santa Cruz de Tenerife,pm25,353,5.0,246.0,21.0,5344.99
+2020,2,2,ES,Santa Cruz de Tenerife,pm25,372,5.0,91.0,38.0,2556.63
+2020,1,7,ES,Santa Cruz de Tenerife,pm25,408,5.0,70.0,25.0,2377.44
+2020,4,27,ES,Santa Cruz de Tenerife,pm25,382,5.0,82.0,13.0,1631.59
+2020,7,24,ES,Santa Cruz de Tenerife,pm25,343,5.0,170.0,50.0,3330.37
+2020,3,25,ES,Santa Cruz de Tenerife,pm25,421,9.0,97.0,50.0,2157.75
+2020,5,4,ES,Santa Cruz de Tenerife,pm25,399,5.0,72.0,17.0,1361.26
+2020,5,13,ES,Santa Cruz de Tenerife,pm25,411,5.0,109.0,21.0,1907.82
+2020,5,24,ES,Santa Cruz de Tenerife,pm25,427,9.0,91.0,46.0,3005.37
+2020,7,2,ES,Santa Cruz de Tenerife,pm25,396,5.0,102.0,17.0,2234.34
+2020,1,4,ES,Santa Cruz de Tenerife,pm25,412,5.0,76.0,34.0,2487.99
+2020,2,28,ES,Santa Cruz de Tenerife,pm25,384,5.0,76.0,25.0,2031.08
+2020,3,23,ES,Santa Cruz de Tenerife,pm25,385,5.0,834.0,13.0,32283.1
+2020,2,10,ES,Santa Cruz de Tenerife,pm25,410,5.0,834.0,34.0,20052.6
+2020,2,15,ES,Santa Cruz de Tenerife,pm25,277,5.0,97.0,38.0,3189.46
+2020,5,11,ES,Santa Cruz de Tenerife,pm25,405,5.0,834.0,17.0,46914.6
+2020,5,15,ES,Santa Cruz de Tenerife,pm25,402,5.0,156.0,21.0,2411.8
+2020,5,25,ES,Santa Cruz de Tenerife,pm25,411,5.0,155.0,61.0,3733.18
+2020,6,24,ES,Santa Cruz de Tenerife,pm25,402,5.0,102.0,21.0,2401.11
+2020,6,25,ES,Santa Cruz de Tenerife,pm25,401,5.0,72.0,17.0,1292.47
+2020,1,24,ES,Santa Cruz de Tenerife,pm25,377,5.0,250.0,21.0,5842.91
+2020,2,11,ES,Santa Cruz de Tenerife,pm25,420,25.0,313.0,65.0,4149.26
+2020,4,8,ES,Santa Cruz de Tenerife,pm25,403,5.0,72.0,21.0,1436.07
+2020,7,26,ES,Santa Cruz de Tenerife,pm25,284,5.0,102.0,30.0,2038.49
+2020,1,14,ES,Santa Cruz de Tenerife,pm25,423,5.0,119.0,38.0,3256.99
+2020,3,11,ES,Santa Cruz de Tenerife,pm25,422,9.0,89.0,50.0,3493.43
+2020,3,22,ES,Santa Cruz de Tenerife,pm25,338,5.0,834.0,17.0,60064.9
+2020,4,9,ES,Santa Cruz de Tenerife,pm25,396,5.0,61.0,17.0,1089.09
+2020,6,6,ES,Santa Cruz de Tenerife,pm25,378,5.0,68.0,17.0,1642.38
+2020,7,27,ES,Santa Cruz de Tenerife,pm25,300,5.0,78.0,25.0,2616.78
+2020,4,7,ES,Santa Cruz de Tenerife,pm25,392,5.0,70.0,25.0,1389.09
+2020,4,15,ES,Santa Cruz de Tenerife,pm25,402,5.0,247.0,17.0,4691.21
+2020,5,12,ES,Santa Cruz de Tenerife,pm25,419,5.0,156.0,21.0,2565.18
+2020,5,21,ES,Santa Cruz de Tenerife,pm25,411,5.0,70.0,17.0,1667.84
+2020,4,23,ES,Santa Cruz de Tenerife,pm25,327,5.0,104.0,13.0,1879.69
+2020,6,2,ES,Santa Cruz de Tenerife,pm25,398,5.0,65.0,17.0,1437.83
+2020,7,15,ES,Santa Cruz de Tenerife,pm25,255,5.0,834.0,38.0,95392.7
+2020,8,6,ES,Santa Cruz de Tenerife,pm25,347,5.0,63.0,17.0,1426.46
+2020,1,25,ES,Santa Cruz de Tenerife,pm25,150,5.0,61.0,17.0,1879.35
+2020,5,1,ES,Santa Cruz de Tenerife,pm25,348,5.0,72.0,9.0,1332.67
+2020,7,14,ES,Santa Cruz de Tenerife,pm25,294,5.0,821.0,42.0,60497.0
+2020,4,24,ES,Santa Cruz de Tenerife,pm25,374,5.0,61.0,13.0,1163.2
+2020,5,18,ES,Santa Cruz de Tenerife,pm25,399,5.0,76.0,21.0,1581.9
+2019,12,30,ES,Santa Cruz de Tenerife,pm25,423,5.0,134.0,34.0,3181.91
+2020,1,13,ES,Santa Cruz de Tenerife,pm25,417,5.0,250.0,53.0,9763.22
+2020,2,4,ES,Santa Cruz de Tenerife,pm25,429,17.0,476.0,85.0,64033.1
+2020,6,1,ES,Santa Cruz de Tenerife,pm25,400,5.0,76.0,25.0,1908.07
+2020,6,11,ES,Santa Cruz de Tenerife,pm25,360,5.0,91.0,13.0,1440.02
+2020,3,5,ES,Santa Cruz de Tenerife,pm25,351,5.0,829.0,21.0,21259.5
+2020,3,31,ES,Santa Cruz de Tenerife,pm25,348,5.0,104.0,9.0,1600.62
+2020,3,18,ES,Santa Cruz de Tenerife,pm25,359,5.0,93.0,21.0,2546.16
+2020,5,19,ES,Santa Cruz de Tenerife,pm25,411,5.0,72.0,30.0,1891.42
+2020,1,30,ES,Santa Cruz de Tenerife,pm25,391,9.0,166.0,57.0,3714.07
+2020,2,6,ES,Santa Cruz de Tenerife,pm25,420,5.0,157.0,25.0,21215.8
+2020,2,20,ES,Santa Cruz de Tenerife,pm25,390,5.0,127.0,25.0,2713.24
+2020,6,13,ES,Santa Cruz de Tenerife,pm25,289,5.0,61.0,9.0,890.06
+2020,7,10,ES,Santa Cruz de Tenerife,pm25,362,9.0,250.0,34.0,16789.6
+2020,1,28,ES,Santa Cruz de Tenerife,pm25,376,5.0,80.0,38.0,2655.23
+2020,4,3,ES,Santa Cruz de Tenerife,pm25,365,5.0,70.0,17.0,1096.37
+2020,4,14,ES,Santa Cruz de Tenerife,pm25,374,5.0,104.0,9.0,1516.01
+2020,3,28,ES,Santa Cruz de Tenerife,pm25,306,5.0,63.0,9.0,1785.94
+2020,3,30,ES,Santa Cruz de Tenerife,pm25,324,5.0,211.0,9.0,3599.67
+2020,4,11,ES,Santa Cruz de Tenerife,pm25,419,5.0,59.0,13.0,1051.86
+2020,5,17,ES,Santa Cruz de Tenerife,pm25,305,5.0,68.0,17.0,1409.02
+2020,1,2,ES,Santa Cruz de Tenerife,pm25,423,5.0,175.0,76.0,14082.7
+2020,3,2,ES,Santa Cruz de Tenerife,pm25,370,17.0,167.0,68.0,3011.47
+2020,7,29,ES,Oviedo,pm25,239,5.0,57.0,17.0,1399.58
+2020,1,18,ES,Oviedo,pm25,264,5.0,87.0,57.0,3548.99
+2020,2,25,ES,Oviedo,pm25,250,5.0,151.0,63.0,13174.8
+2020,3,3,ES,Oviedo,pm25,166,5.0,154.0,42.0,3925.72
+2020,4,5,ES,Oviedo,pm25,251,5.0,76.0,21.0,2505.31
+2020,6,14,ES,Oviedo,pm25,255,5.0,74.0,25.0,2846.6
+2020,7,6,ES,Oviedo,pm25,260,5.0,53.0,21.0,1150.53
+2020,1,10,ES,Oviedo,pm25,264,5.0,127.0,34.0,6010.8
+2020,1,11,ES,Oviedo,pm25,264,5.0,153.0,59.0,8947.76
+2020,4,29,ES,Oviedo,pm25,264,5.0,68.0,30.0,2075.02
+2020,7,17,ES,Oviedo,pm25,264,5.0,68.0,21.0,1511.96
+2020,8,3,ES,Oviedo,pm25,260,5.0,74.0,21.0,2570.11
+2020,6,9,ES,Oviedo,pm25,257,5.0,70.0,25.0,2781.01
+2020,6,10,ES,Oviedo,pm25,258,9.0,74.0,34.0,2681.48
+2020,2,23,ES,Oviedo,pm25,72,30.0,161.0,70.0,5270.49
+2020,2,24,ES,Oviedo,pm25,168,17.0,161.0,65.0,4435.8
+2020,2,28,ES,Oviedo,pm25,264,42.0,159.0,72.0,6095.64
+2020,4,4,ES,Oviedo,pm25,264,5.0,93.0,42.0,4830.44
+2020,4,12,ES,Oviedo,pm25,262,5.0,63.0,25.0,2216.36
+2020,5,16,ES,Oviedo,pm25,264,5.0,102.0,38.0,2402.12
+2020,6,22,ES,Oviedo,pm25,264,5.0,104.0,34.0,4364.92
+2020,7,15,ES,Oviedo,pm25,259,5.0,89.0,21.0,1730.2
+2020,3,2,ES,Oviedo,pm25,254,5.0,93.0,25.0,4373.58
+2020,5,15,ES,Oviedo,pm25,264,13.0,65.0,42.0,1516.6
+2020,5,23,ES,Oviedo,pm25,261,5.0,70.0,21.0,2879.2
+2020,2,7,ES,Oviedo,pm25,264,38.0,119.0,65.0,2690.13
+2020,2,16,ES,Oviedo,pm25,72,5.0,107.0,46.0,8179.88
+2020,5,27,ES,Oviedo,pm25,264,9.0,99.0,50.0,2434.5
+2020,6,1,ES,Oviedo,pm25,230,5.0,160.0,61.0,4029.28
+2020,6,28,ES,Oviedo,pm25,258,5.0,68.0,21.0,1457.63
+2020,8,2,ES,Oviedo,pm25,249,5.0,53.0,17.0,1188.66
+2020,1,8,ES,Oviedo,pm25,262,9.0,160.0,68.0,10712.5
+2020,2,21,ES,Oviedo,pm25,72,9.0,119.0,46.0,4906.97
+2020,4,19,ES,Oviedo,pm25,261,5.0,59.0,17.0,1506.63
+2020,5,18,ES,Oviedo,pm25,260,5.0,89.0,50.0,2313.28
+2020,6,11,ES,Oviedo,pm25,259,5.0,85.0,17.0,3845.9
+2020,7,9,ES,Oviedo,pm25,264,13.0,74.0,38.0,1531.19
+2020,7,13,ES,Oviedo,pm25,256,5.0,74.0,30.0,1694.02
+2020,1,2,ES,Oviedo,pm25,191,5.0,164.0,68.0,15980.8
+2020,1,31,ES,Oviedo,pm25,264,5.0,151.0,55.0,6715.09
+2020,4,1,ES,Oviedo,pm25,264,13.0,72.0,46.0,1574.46
+2020,4,16,ES,Oviedo,pm25,262,5.0,91.0,21.0,3114.26
+2020,5,24,ES,Oviedo,pm25,264,5.0,74.0,25.0,2757.87
+2020,6,19,ES,Oviedo,pm25,264,5.0,82.0,30.0,2858.92
+2020,5,28,ES,Oviedo,pm25,264,9.0,95.0,55.0,2048.45
+2020,5,13,ES,Oviedo,pm25,261,5.0,76.0,30.0,2606.98
+2020,5,22,ES,Oviedo,pm25,264,13.0,95.0,46.0,3186.89
+2020,1,3,ES,Oviedo,pm25,218,5.0,166.0,89.0,11300.0
+2020,1,29,ES,Oviedo,pm25,206,5.0,132.0,70.0,5536.74
+2020,1,30,ES,Oviedo,pm25,264,5.0,137.0,59.0,7580.65
+2020,3,14,ES,Oviedo,pm25,240,9.0,68.0,38.0,2549.43
+2020,4,6,ES,Oviedo,pm25,259,5.0,61.0,21.0,1423.2
+2020,4,20,ES,Oviedo,pm25,264,5.0,59.0,30.0,1376.39
+2020,7,23,ES,Oviedo,pm25,264,13.0,80.0,50.0,2099.92
+2020,1,14,ES,Oviedo,pm25,258,5.0,142.0,34.0,10945.6
+2020,1,28,ES,Oviedo,pm25,190,5.0,76.0,34.0,3557.81
+2020,2,8,ES,Oviedo,pm25,264,5.0,117.0,53.0,5392.31
+2020,2,10,ES,Oviedo,pm25,71,5.0,82.0,34.0,3023.08
+2020,2,20,ES,Oviedo,pm25,71,5.0,76.0,46.0,3173.59
+2020,7,22,ES,Oviedo,pm25,264,9.0,93.0,42.0,1994.62
+2020,1,6,ES,Oviedo,pm25,264,21.0,147.0,68.0,6064.39
+2020,6,20,ES,Oviedo,pm25,264,5.0,91.0,38.0,2778.63
+2020,6,27,ES,Oviedo,pm25,264,5.0,74.0,34.0,2388.31
+2020,7,27,ES,Oviedo,pm25,264,5.0,74.0,25.0,2019.81
+2020,4,28,ES,Oviedo,pm25,258,5.0,59.0,21.0,1730.52
+2020,5,1,ES,Oviedo,pm25,250,5.0,65.0,17.0,1841.53
+2020,5,17,ES,Oviedo,pm25,264,13.0,72.0,42.0,1560.66
+2020,7,3,ES,Oviedo,pm25,252,5.0,63.0,21.0,1287.13
+2020,7,5,ES,Oviedo,pm25,264,9.0,78.0,34.0,1718.64
+2020,5,14,ES,Oviedo,pm25,258,5.0,61.0,25.0,1727.8
+2020,5,26,ES,Oviedo,pm25,261,5.0,95.0,34.0,2841.51
+2020,6,8,ES,Oviedo,pm25,258,5.0,65.0,25.0,2372.52
+2020,6,30,ES,Oviedo,pm25,258,5.0,72.0,25.0,2609.1
+2020,7,19,ES,Oviedo,pm25,261,5.0,85.0,50.0,2238.81
+2020,2,11,ES,Oviedo,pm25,66,5.0,87.0,50.0,4165.59
+2020,2,27,ES,Oviedo,pm25,228,5.0,476.0,63.0,51318.7
+2020,4,21,ES,Oviedo,pm25,225,17.0,74.0,34.0,1365.38
+2020,5,12,ES,Oviedo,pm25,258,5.0,65.0,25.0,2358.55
+2020,5,20,ES,Oviedo,pm25,255,5.0,97.0,55.0,2341.85
+2020,7,28,ES,Oviedo,pm25,247,5.0,59.0,17.0,1069.26
+2020,4,27,ES,Oviedo,pm25,258,5.0,59.0,25.0,2001.25
+2020,5,10,ES,Oviedo,pm25,264,5.0,70.0,21.0,2139.44
+2020,6,6,ES,Oviedo,pm25,236,5.0,65.0,21.0,3157.66
+2020,1,13,ES,Oviedo,pm25,264,5.0,165.0,68.0,9569.1
+2020,2,26,ES,Oviedo,pm25,262,5.0,196.0,34.0,13106.6
+2020,3,1,ES,Oviedo,pm25,254,5.0,70.0,46.0,2415.82
+2020,5,11,ES,Oviedo,pm25,264,5.0,72.0,25.0,2694.05
+2020,7,10,ES,Oviedo,pm25,264,5.0,59.0,21.0,1618.27
+2020,7,16,ES,Oviedo,pm25,256,5.0,74.0,17.0,1548.48
+2020,8,1,ES,Oviedo,pm25,258,5.0,68.0,34.0,2506.95
+2019,12,30,ES,Oviedo,pm25,69,17.0,161.0,70.0,14446.7
+2020,1,17,ES,Oviedo,pm25,261,5.0,122.0,25.0,5724.87
+2020,1,24,ES,Oviedo,pm25,264,25.0,139.0,65.0,4037.14
+2020,2,17,ES,Oviedo,pm25,72,5.0,55.0,21.0,2444.79
+2020,4,22,ES,Oviedo,pm25,257,9.0,63.0,30.0,1881.82
+2020,6,24,ES,Oviedo,pm25,243,9.0,192.0,65.0,15254.1
+2020,6,18,ES,Oviedo,pm25,255,5.0,61.0,21.0,2415.23
+2020,7,11,ES,Oviedo,pm25,252,5.0,65.0,21.0,1269.89
+2020,1,4,ES,Oviedo,pm25,264,5.0,142.0,53.0,12432.1
+2020,1,15,ES,Oviedo,pm25,255,5.0,119.0,38.0,5039.62
+2020,4,23,ES,Oviedo,pm25,261,9.0,76.0,38.0,1641.9
+2020,5,4,ES,Oviedo,pm25,262,9.0,134.0,42.0,3726.98
+2020,5,30,ES,Oviedo,pm25,262,17.0,117.0,59.0,2413.84
+2020,6,12,ES,Oviedo,pm25,255,5.0,63.0,17.0,2630.29
+2020,1,21,ES,Oviedo,pm25,264,5.0,107.0,34.0,4187.41
+2020,5,2,ES,Oviedo,pm25,253,5.0,65.0,21.0,1781.04
+2020,6,2,ES,Oviedo,pm25,264,17.0,107.0,63.0,2712.71
+2020,6,4,ES,Oviedo,pm25,263,5.0,82.0,34.0,2613.49
+2020,6,15,ES,Oviedo,pm25,262,5.0,89.0,25.0,3199.88
+2020,6,25,ES,Oviedo,pm25,225,5.0,76.0,38.0,2747.49
+2020,7,1,ES,Oviedo,pm25,245,5.0,65.0,17.0,1729.16
+2020,1,27,ES,Oviedo,pm25,258,5.0,112.0,50.0,6887.71
+2020,2,15,ES,Oviedo,pm25,72,13.0,124.0,55.0,5177.37
+2020,2,22,ES,Oviedo,pm25,72,21.0,117.0,63.0,2034.37
+2020,3,31,ES,Oviedo,pm25,264,5.0,154.0,25.0,3067.07
+2020,4,26,ES,Oviedo,pm25,258,5.0,82.0,38.0,2915.3
+2020,5,5,ES,Oviedo,pm25,262,5.0,72.0,30.0,2422.63
+2020,7,14,ES,Oviedo,pm25,256,5.0,78.0,34.0,2398.19
+2020,7,31,ES,Oviedo,pm25,264,5.0,91.0,50.0,2896.27
+2020,1,19,ES,Oviedo,pm25,260,5.0,74.0,30.0,2791.0
+2020,4,3,ES,Oviedo,pm25,264,13.0,80.0,50.0,1889.28
+2020,5,6,ES,Oviedo,pm25,243,5.0,87.0,30.0,2598.86
+2020,7,18,ES,Oviedo,pm25,264,5.0,72.0,34.0,1711.37
+2020,7,24,ES,Oviedo,pm25,264,9.0,89.0,30.0,1477.48
+2020,8,5,ES,Oviedo,pm25,261,5.0,91.0,30.0,2791.16
+2020,1,12,ES,Oviedo,pm25,264,5.0,151.0,61.0,11361.5
+2020,3,16,ES,Oviedo,pm25,20,5.0,30.0,25.0,761.55
+2020,4,9,ES,Oviedo,pm25,264,13.0,97.0,50.0,2548.63
+2020,6,17,ES,Oviedo,pm25,258,5.0,65.0,17.0,2918.87
+2020,7,7,ES,Oviedo,pm25,253,5.0,78.0,21.0,1578.29
+2020,7,25,ES,Oviedo,pm25,264,5.0,93.0,25.0,2852.6
+2020,1,5,ES,Oviedo,pm25,262,5.0,122.0,46.0,6725.74
+2020,2,9,ES,Oviedo,pm25,120,5.0,93.0,63.0,4889.65
+2020,5,29,ES,Oviedo,pm25,264,13.0,97.0,61.0,1895.54
+2020,6,26,ES,Oviedo,pm25,256,5.0,68.0,34.0,2715.56
+2020,7,30,ES,Oviedo,pm25,260,9.0,76.0,38.0,2534.88
+2020,1,20,ES,Oviedo,pm25,264,5.0,74.0,34.0,2935.13
+2020,1,23,ES,Oviedo,pm25,264,5.0,139.0,57.0,6224.26
+2020,2,5,ES,Oviedo,pm25,264,5.0,104.0,34.0,3245.02
+2020,2,29,ES,Oviedo,pm25,262,5.0,168.0,46.0,20576.6
+2020,3,15,ES,Oviedo,pm25,231,5.0,78.0,50.0,4581.27
+2020,3,29,ES,Oviedo,pm25,53,9.0,89.0,46.0,3944.51
+2020,8,4,ES,Oviedo,pm25,262,5.0,74.0,21.0,2140.22
+2020,2,3,ES,Oviedo,pm25,256,30.0,151.0,68.0,4390.37
+2020,4,7,ES,Oviedo,pm25,262,5.0,72.0,30.0,2298.12
+2020,6,21,ES,Oviedo,pm25,261,5.0,89.0,34.0,3782.07
+2020,7,8,ES,Oviedo,pm25,258,13.0,72.0,38.0,1095.95
+2020,7,12,ES,Oviedo,pm25,260,9.0,89.0,30.0,1392.26
+2020,7,21,ES,Oviedo,pm25,258,5.0,57.0,21.0,1765.31
+2020,5,7,ES,Oviedo,pm25,232,5.0,187.0,38.0,3565.54
+2020,5,19,ES,Oviedo,pm25,252,13.0,99.0,53.0,2512.28
+2019,12,31,ES,Oviedo,pm25,72,21.0,137.0,72.0,5670.23
+2020,1,7,ES,Oviedo,pm25,264,5.0,153.0,68.0,12713.8
+2020,1,25,ES,Oviedo,pm25,260,5.0,117.0,61.0,4299.85
+2020,4,2,ES,Oviedo,pm25,264,13.0,74.0,50.0,1511.98
+2020,4,10,ES,Oviedo,pm25,261,5.0,93.0,30.0,4452.34
+2020,4,13,ES,Oviedo,pm25,259,5.0,68.0,17.0,1307.75
+2020,6,3,ES,Oviedo,pm25,261,25.0,119.0,61.0,3353.91
+2020,6,5,ES,Oviedo,pm25,261,5.0,82.0,30.0,3147.89
+2020,6,29,ES,Oviedo,pm25,241,5.0,55.0,21.0,1474.48
+2020,7,4,ES,Oviedo,pm25,264,5.0,85.0,25.0,2351.81
+2020,2,4,ES,Oviedo,pm25,261,5.0,104.0,42.0,2803.01
+2020,2,13,ES,Oviedo,pm25,66,5.0,99.0,50.0,6558.73
+2020,4,24,ES,Oviedo,pm25,264,25.0,89.0,57.0,2020.15
+2020,6,13,ES,Oviedo,pm25,254,5.0,63.0,21.0,2614.56
+2020,8,6,ES,Oviedo,pm25,258,9.0,87.0,42.0,2379.24
+2020,1,26,ES,Oviedo,pm25,252,9.0,114.0,59.0,5463.78
+2020,5,3,ES,Oviedo,pm25,264,5.0,65.0,30.0,1798.27
+2020,5,8,ES,Oviedo,pm25,229,9.0,91.0,46.0,3452.66
+2020,5,31,ES,Oviedo,pm25,230,5.0,89.0,57.0,2853.48
+2020,6,16,ES,Oviedo,pm25,264,5.0,82.0,21.0,3732.92
+2020,1,1,ES,Oviedo,pm25,72,34.0,152.0,68.0,6198.03
+2020,1,22,ES,Oviedo,pm25,264,5.0,104.0,50.0,5125.93
+2020,2,2,ES,Oviedo,pm25,264,5.0,109.0,57.0,4327.47
+2020,3,13,ES,Oviedo,pm25,87,5.0,85.0,38.0,3797.73
+2020,4,11,ES,Oviedo,pm25,264,5.0,53.0,17.0,1167.94
+2020,4,25,ES,Oviedo,pm25,264,9.0,76.0,50.0,2155.81
+2020,8,7,ES,Oviedo,pm25,237,9.0,97.0,46.0,3078.47
+2020,2,1,ES,Oviedo,pm25,264,5.0,97.0,42.0,3060.72
+2020,4,8,ES,Oviedo,pm25,264,5.0,97.0,42.0,4499.11
+2020,4,14,ES,Oviedo,pm25,233,9.0,72.0,42.0,2124.58
+2020,4,18,ES,Oviedo,pm25,261,5.0,65.0,21.0,1969.36
+2020,5,9,ES,Oviedo,pm25,262,5.0,68.0,25.0,2144.03
+2020,7,26,ES,Oviedo,pm25,259,5.0,65.0,21.0,1541.64
+2020,5,25,ES,Oviedo,pm25,264,9.0,80.0,34.0,2379.67
+2020,6,7,ES,Oviedo,pm25,234,5.0,59.0,17.0,1979.33
+2020,1,16,ES,Oviedo,pm25,264,5.0,93.0,30.0,5229.49
+2020,2,18,ES,Oviedo,pm25,69,5.0,82.0,34.0,4573.41
+2020,2,19,ES,Oviedo,pm25,70,5.0,114.0,42.0,6568.33
+2020,4,15,ES,Oviedo,pm25,242,5.0,70.0,34.0,3099.6
+2020,4,30,ES,Oviedo,pm25,253,5.0,68.0,21.0,2427.39
+2020,5,21,ES,Oviedo,pm25,264,13.0,102.0,53.0,2262.47
+2020,7,2,ES,Oviedo,pm25,222,5.0,46.0,17.0,907.93
+2020,7,20,ES,Oviedo,pm25,264,5.0,59.0,34.0,1265.68
+2020,6,23,ES,Oviedo,pm25,262,5.0,170.0,55.0,4752.31
+2020,1,9,ES,Oviedo,pm25,264,5.0,119.0,59.0,5835.78
+2020,2,6,ES,Oviedo,pm25,264,13.0,156.0,57.0,6148.76
+2020,2,12,ES,Oviedo,pm25,72,9.0,460.0,46.0,27745.0
+2020,2,14,ES,Oviedo,pm25,72,5.0,82.0,34.0,4241.83
+2020,3,30,ES,Oviedo,pm25,255,5.0,78.0,21.0,2196.13
+2020,4,17,ES,Oviedo,pm25,255,5.0,63.0,21.0,2351.19
