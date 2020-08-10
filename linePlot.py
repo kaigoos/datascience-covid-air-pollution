@@ -19,16 +19,17 @@ def linePlot(city, year):
     plt.xlabel('Month',fontsize = 14)
     plt.ylabel('PM2.5 (μg/m3)', fontsize = 14)
     plt.title(f'{city} {year} PM2.5 Levels', fontsize = 20)
+    plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Shutdown')
 
     Formatter = mdates.DateFormatter("%B")
     ax.xaxis.set_major_formatter(Formatter)
     ax.set_xlim([datetime.date(2020, 1, 1), datetime.date(2020, 8, 1)])
 
+    plt.legend()
     plt.grid()
     plt.show()
 
 
 if __name__ == "__main__":
-    print(shutDownDate('Portland'))
-    # linePlot('Portland', 2020)
+    linePlot('Wuhan', 2020)
     
