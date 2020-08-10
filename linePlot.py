@@ -3,7 +3,7 @@ import datetime
 import matplotlib
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
-from aqitopm25 import ConcPM25
+from aqitopm25 import ConcPM25, shutDownDate
 
 def linePlot(city, year):
     df = pd.read_csv(f'./CSV/Modified/{city}-{year}.csv')
@@ -29,5 +29,6 @@ def linePlot(city, year):
 
 
 if __name__ == "__main__":
-    linePlot('Portland', 2020)
+    print(shutDownDate('Portland'))
+    # linePlot('Portland', 2020)
     

@@ -1,3 +1,5 @@
+import datetime
+
 def InvLinear(AQIhigh, AQIlow, Conchigh, Conclow, a):
     return ((a - AQIlow) / (AQIhigh - AQIlow)) * (Conchigh - Conclow) + Conclow
 
@@ -23,3 +25,16 @@ def ConcPM25(a):
 
     return ConcCalc
 
+def shutDownDate(city):
+    startShutDown = {
+        'Portland': datetime.date(2020, 3, 23),
+        'NY': datetime.date(2020, 3, 20),
+        'LA': datetime.date(2020, 3, 19),
+        'Rome': datetime.date(2020, 3, 10),
+        'Wuhan': datetime.date(2020, 1, 23),
+        'Beijing': datetime.date(2020, 1, 26),
+        'Madrid': datetime.date(2020, 3, 14),
+        'New_Delhi': datetime.date(2020, 3, 25)
+    }
+
+    return startShutDown[city]
