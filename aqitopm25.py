@@ -23,9 +23,3 @@ def ConcPM25(a):
 
     return ConcCalc
 
-
-if __name__ == '__main__':
-    # Just for testing the script
-    api = input("Enter API: ")
-    conc = ConcPM25(float(api))
-    print(conc)
