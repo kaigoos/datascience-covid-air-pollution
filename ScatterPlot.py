@@ -15,6 +15,7 @@ class ScatterPlot(object):
         x = [datetime.datetime(year, month, date) for (year, month, date) in zip(self.data['Year'], self.data['Month'], self.data['Date'])]
         y = [ConcPM25(data) for data in self.data['median']]
 
+        #ax = sn.scatterplot(x, self.data['median'])
         ax = sn.scatterplot(x, y)
         formatter = mdates.DateFormatter("%B")
         ax.xaxis.set_major_formatter(formatter)
@@ -24,5 +25,5 @@ class ScatterPlot(object):
 
 
 if __name__ == "__main__":
-    sp = ScatterPlot('./CSV/Modified/Wuhan-2020.csv')
+    sp = ScatterPlot('./CSV/Modified/Portland-2020.csv')
     sp.plot()
