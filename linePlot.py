@@ -3,11 +3,10 @@ import datetime
 import matplotlib
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 from aqitopm25 import ConcPM25
 
-def linePlot(city):
-    df = pd.read_csv(f'./CSV/Modified/{city}-2020.csv')
+def linePlot(city, year):
+    df = pd.read_csv(f'./CSV/Modified/{city}-{year}.csv')
     df = df.sort_values(by=['Month', 'Date'])
     df = df.loc[df['Month'] < 8]
 
@@ -17,9 +16,9 @@ def linePlot(city):
     plt.plot(x, y)
     ax = plt.subplot()
 
-    plt.xlabel('Date',fontsize = 14)
+    plt.xlabel('Month',fontsize = 14)
     plt.ylabel('PM2.5 (μg/m3)', fontsize = 14)
-    plt.title(f'{city} PM2.5 Levels', fontsize = 20)
+    plt.title(f'{city} {year} PM2.5 Levels', fontsize = 20)
 
     Formatter = mdates.DateFormatter("%B")
     ax.xaxis.set_major_formatter(Formatter)
@@ -30,5 +29,5 @@ def linePlot(city):
 
 
 if __name__ == "__main__":
-    linePlot('Beijing')
+    linePlot('Portland', 2020)
     
