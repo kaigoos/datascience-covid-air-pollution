@@ -31,8 +31,8 @@ def ConcPM25(a):
 def shutDownDate(city):
     startShutDown = {
         'Portland': datetime.date(2020, 3, 23),
-        'NY': datetime.date(2020, 3, 20),
-        'LA': datetime.date(2020, 3, 19),
+        'New_York': datetime.date(2020, 3, 20),
+        'Los_Angeles': datetime.date(2020, 3, 19),
         'Rome': datetime.date(2020, 3, 10),
         'Wuhan': datetime.date(2020, 1, 23),
         'Beijing': datetime.date(2020, 1, 26),
