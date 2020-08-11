@@ -23,6 +23,7 @@ class MainWindow(Tk):
 
         self.mainWidgets()
 
+    # Display buttons for deciding which visualization to show
     def mainWidgets(self):
         cityLabel = Label (self, text="City:")
         cityLabel.grid(row = 0, column = 0)
@@ -66,6 +67,7 @@ class MainWindow(Tk):
         quitButton = Button(self, text="Quit", command=self.quit)
         quitButton.grid(row = 4, column = 1)
 
+    # Event button to print chosen graph by the user
     def printGraph(self, city, graph, year, year2):
         self.city = city.get()
         self.graph = graph.get()
