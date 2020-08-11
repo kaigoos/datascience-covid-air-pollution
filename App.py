@@ -66,8 +66,6 @@ class MainWindow(Tk):
         quitButton = Button(self, text="Quit", command=self.quit)
         quitButton.grid(row = 4, column = 1)
 
-        # self.printGraph()
-
     def printGraph(self, city, graph, year, year2):
         self.city = city.get()
         self.graph = graph.get()
