@@ -79,7 +79,7 @@ def scatter_plot(city, year):
               f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
     handles = [hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
     if year == 2020:
-        labels = ['Shutdown', 'AQG', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
+        labels = ['AQG', 'Shutdown', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
                   f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
                   f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
         vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Shutdown')
