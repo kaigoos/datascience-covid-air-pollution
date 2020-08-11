@@ -1,6 +1,5 @@
 import pandas as pd
-import glob
-
+from aqitopm25 import ConcPM25
 
 class csvParser(object):
     # def __init__(self):
@@ -52,11 +51,12 @@ class csvParser(object):
         return temp
 
     def calc_data(self, data):
+        data = data.loc[data['Month'] < 8]
         row_count = data.index
         city_count = data.City.unique()
-        min_mean = data["min"].mean()
-        max_mean = data["max"].mean()
-        median_mean = data["median"].mean()
+        min_mean = ConcPM25(data["min"].mean())
+        max_mean = ConcPM25(data["max"].mean())
+        median_mean = ConcPM25(data["median"].mean())
         variance_mean = data["variance"].mean()
         print(f"Rows: {row_count}")
         print(f"Cities: {city_count.size}")
