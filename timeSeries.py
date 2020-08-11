@@ -26,7 +26,7 @@ def timeSeries(city, year1, year2 = None):
         x2 = []
 
         for (month, day) in zip(df2['Month'], df2['Date']):
-            date = datetime.date(year1, month, day)
+            date = datetime.date(2020, month, day)
             x2.append(date)
         y2 = [ConcPM25(data) for data in df2['median']]
         line2, = ax.plot(x2, y2, label = year2)
@@ -37,7 +37,8 @@ def timeSeries(city, year1, year2 = None):
         plt.title(f'{city} {year1} & {year2} PM2.5 Levels', fontsize = 20)
     else:
         plt.title(f'{city} {year1} PM2.5 Levels', fontsize = 20)
-    plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Initial Lockdown')
+    if (str(year1) == '2020' or str(year2) == '2020'):    
+        plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Initial Lockdown')
     plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
 
     def update(num):
