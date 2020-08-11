@@ -68,7 +68,7 @@ def scatter_plot(city, year):
     formatter = mdates.DateFormatter("%B")
     ax.xaxis.set_major_formatter(formatter)
     ax.set_xlabel("Date")
-    ax.set_ylabel("PM2.5(\u03BCg/m$^3$)")
+    ax.set_ylabel("PM$_{2.5}$(\u03BCg/m$^3$)")
     ax.set_xlim([datetime.date(year, 1, 1), datetime.date(year, 8, 1)])
     plt.title(f'{city} {year} PM2.5 Levels')
 
