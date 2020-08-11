@@ -3,79 +3,91 @@ import matplotlib.dates as mdates
 import seaborn as sn
 import pandas as pd
 import datetime
-import os
-from aqitopm25 import ConcPM25
+from aqitopm25 import ConcPM25, shutDownDate
 
 
-class ScatterPlot(object):
+def scatter_plot(city, year):
+    df = pd.read_csv(f'./CSV/Modified/{city}-{year}.csv')
 
-    def __init__(self, file):
-        self.data = pd.read_csv(file)
-        self.name= file
+    good_data = []
+    good_date = []
+    moderate_data = []
+    moderate_date = []
+    sensitive_data = []
+    sensitive_date = []
+    unhealthy_data = []
+    unhealthy_date = []
+    very_unhealthy_data = []
+    very_unhealthy_date = []
+    hazardous_data = []
+    hazardous_date = []
 
-    def plot(self):
+    for (year, month, date, data) in zip(df['Year'], df['Month'], df['Date'], df['median']):
+        data = ConcPM25(data)
+        if 0 < data <= 15:
+            good_date.append(datetime.datetime(year, month, date))
+            good_data.append(data)
+        elif 15 < data <= 40:
+            moderate_date.append(datetime.datetime(year, month, date))
+            moderate_data.append(data)
+        elif 40 < data <= 65:
+            sensitive_date.append(datetime.datetime(year, month, date))
+            sensitive_data.append(data)
+        elif 65 < data <= 150:
+            unhealthy_date.append(datetime.datetime(year, month, date))
+            unhealthy_data.append(data)
+        elif 150 < data <= 250:
+            very_unhealthy_date.append(datetime.datetime(year, month, date))
+            very_unhealthy_data.append(data)
+        else:
+            hazardous_date.append(datetime.datetime(year, month, date))
+            hazardous_data.append(data)
 
-        good_data = []
-        good_date = []
-        moderate_data = []
-        moderate_date =[]
-        sensitive_data = []
-        sensitive_date = []
-        unhealthy_data = []
-        unhealthy_date = []
-        very_unhealthy_data = []
-        very_unhealthy_date = []
-        hazardous_data = []
-        hazardous_date = []
+    fig, ax = plt.subplots()
 
-        for (year, month, date, data) in zip(self.data['Year'], self.data['Month'], self.data['Date'], self.data['median']):
-            data = ConcPM25(data)
-            if 0 < data <= 15:
-                good_date.append(datetime.datetime(year, month, date))
-                good_data.append(data)
-            elif 15 < data <= 40:
-                moderate_date.append(datetime.datetime(year, month, date))
-                moderate_data.append(data)
-            elif 40 < data <= 65:
-                sensitive_date.append(datetime.datetime(year, month, date))
-                sensitive_data.append(data)
-            elif 65 < data <= 150:
-                unhealthy_date.append(datetime.datetime(year, month, date))
-                unhealthy_data.append(data)
-            elif 150 < data <= 250:
-                very_unhealthy_date.append(datetime.datetime(year, month, date))
-                very_unhealthy_data.append(data)
-            else:
-                hazardous_date.append(datetime.datetime(year, month, date))
-                hazardous_data.append(data)
+    g_ax = None
+    m_ax = None
+    s_ax = None
+    uh_ax = None
+    vuh_ax = None
+    h_ax = None
 
-        fig, ax = plt.subplots()
+    if good_data:
+        g_ax = sn.scatterplot(good_date, good_data, color="green", ax=ax)
+    if moderate_data:
+        m_ax = sn.scatterplot(moderate_date, moderate_data, color="gold", ax=ax)
+    if sensitive_data:
+        s_ax = sn.scatterplot(sensitive_date, sensitive_data, color="orange", ax=ax)
+    if unhealthy_data:
+        uh_ax = sn.scatterplot(unhealthy_date, unhealthy_data, color="red", ax=ax)
+    if very_unhealthy_data:
+        vuh_ax = sn.scatterplot(very_unhealthy_date, very_unhealthy_data, color="purple", ax=ax)
+    if hazardous_data:
+        h_ax = sn.scatterplot(hazardous_date, hazardous_data, color="darkred", ax=ax)
 
-        if good_data:
-            sn.scatterplot(good_date, good_data, color="green", ax=ax)
-        if moderate_data:
-            sn.scatterplot(moderate_date, moderate_data, color="gold", ax=ax)
-        if sensitive_data:
-            sn.scatterplot(sensitive_date, sensitive_data, color="orange", ax=ax)
-        if unhealthy_data:
-            sn.scatterplot(unhealthy_date, unhealthy_data, color="red", ax=ax)
-        if very_unhealthy_data:
-            sn.scatterplot(very_unhealthy_date, very_unhealthy_data, color="purple", ax=ax)
-        if hazardous_data:
-            sn.scatterplot(hazardous_date, hazardous_data, color="darkred", ax=ax)
+    formatter = mdates.DateFormatter("%B")
+    ax.xaxis.set_major_formatter(formatter)
+    ax.set_xlabel("Date")
+    ax.set_ylabel("PM2.5(\u03BCg/m$^3$)")
+    ax.set_xlim([datetime.date(year, 1, 1), datetime.date(year, 8, 1)])
+    plt.title(f'{city} {year} PM2.5 Levels')
 
-        formatter = mdates.DateFormatter("%B")
-        ax.xaxis.set_major_formatter(formatter)
-        ax.set_xlabel("Date")
-        ax.set_ylabel("PM2.5(\u03BCg/m$^3$)")
-        ax.set_xlim([datetime.date(2020, 1, 1), datetime.date(2020, 8, 1)])
-        base = os.path.basename(self.name)
-        title = os.path.splitext(base)[0]
-        plt.title(f'{title} PM2.5 Levels')
-
-        plt.show()
+    hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='AQG')
+    vline = None
+    labels = ['AQG', 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy', 'Very Unhealthy', 'Hazardous']
+    handles = [hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
+    if year == 2020:
+        labels = ['Shutdown', 'AQG', 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy',
+                  'Very Unhealthy', 'Hazardous']
+        vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Shutdown')
+        handles = [vline, hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
+    fig.legend(
+        handles,
+        labels=labels,
+        bbox_to_anchor=(0.5, 0.38, 0.4, 0.5)
+    )
+    plt.show()
 
 
 if __name__ == "__main__":
-    sp = ScatterPlot('./CSV/Modified/Wuhan-2020.csv')
-    sp.plot()
+    scatter_plot('Beijing', 2019)

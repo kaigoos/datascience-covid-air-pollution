@@ -17,7 +17,7 @@ def linePlot(city, year):
     ax = plt.subplot()
 
     plt.xlabel('Month',fontsize = 14)
-    plt.ylabel('PM2.5 (μg/m3)', fontsize = 14)
+    plt.ylabel('PM2.5 (μg/m$^3$)', fontsize = 14)
     plt.title(f'{city} {year} PM2.5 Levels', fontsize = 20)
     plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Shutdown')
 
