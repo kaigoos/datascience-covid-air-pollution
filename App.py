@@ -1,5 +1,5 @@
 from tkinter import Tk, Button, Label, StringVar, OptionMenu
-from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.backend_bases import key_press_handler
 from matplotlib.figure import Figure
 from linePlot import linePlot
@@ -83,15 +83,6 @@ class MainWindow(Tk):
             scatter_plot(self.city, int(self.year))
         elif(self.graph == 'Time-Series'):
             timeSeries(self.city, self.year, self.year2)
-        
-        # fig = Figure(figsize=(5, 4), dpi=100)
-        # t = np.arange(0, 3, .01)
-        # fig.add_subplot().plot(t, 2 * np.sin(2 * np.pi * t))
-
-        # canvas = FigureCanvasTkAgg(fig, self)
-        # canvas.draw()
-
-        # canvas.get_tk_widget().grid(row = 0, column = 2, rowspan = 4)
 
     def _quit(self):
         self.quit() 

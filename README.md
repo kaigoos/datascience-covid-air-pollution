@@ -8,6 +8,16 @@ The Document folder contains our Project Plan, Midpoint Report, Research Paper (
 
 ## Python Scripts:
 
+### Installation:
+
+```bash
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install tkinter
+pip install datetime
+```
+
 ### CSV Parser:
 
 The CSV parser is a basic script to parse data by fields under specific columns.
@@ -22,7 +32,7 @@ Then create 3 sub folders in the CSV folder names Formatted, Modfied, and Origin
 Usage: 
 
 ```python
-python interface.py
+python3 interface.py
 ```
 
 ### Visualization Tools:
@@ -32,5 +42,5 @@ heatmap.py, linePlot.py, ScatterPlot.py, and timeSeries.py are all the different
 Usage: 
 
 ```python
-python App.py
+python3 App.py
 ```
