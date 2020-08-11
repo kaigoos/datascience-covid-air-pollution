@@ -42,7 +42,7 @@ class MainWindow(Tk):
         dropDownGraphButton = OptionMenu(self, dropDownGraph, *graphNames)
         dropDownGraphButton.grid(row = 1, column = 1)
 
-        yearLabel = Label (self, text="Year:")
+        yearLabel = Label (self, text="Year 1:")
         yearLabel.grid(row = 2, column = 0)
 
         years = [2015, 2016, 2017, 2018, 2019, 2020]
@@ -74,6 +74,8 @@ class MainWindow(Tk):
         self.year = year.get()
         if(year2.get() != 'None'):
             self.year2 = year2.get()
+        else:
+            self.year2 = None
 
         if(self.graph == 'Heatmap'):
             heatMap(self.city, self.year)
