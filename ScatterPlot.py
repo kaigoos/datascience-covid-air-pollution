@@ -67,23 +67,26 @@ def scatter_plot(city, year):
 
     formatter = mdates.DateFormatter("%B")
     ax.xaxis.set_major_formatter(formatter)
-    ax.set_xlabel("Date")
-    ax.set_ylabel("PM$_{2.5}$(\u03BCg/m$^3$)")
+    ax.set_xlabel("Date", fontsize=14)
+    ax.set_ylabel("PM$_{2.5}$(\u03BCg/m$^3$)", fontsize=14)
     ax.set_xlim([datetime.date(year, 1, 1), datetime.date(year, 8, 1)])
-    plt.title(f'{city} {year} PM2.5 Levels')
+    plt.title(f'{city} {year} PM2.5 Levels', fontsize=20)
 
     hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
     vline = None
-    labels = ['AQG', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
+
+    labels = ['Air Quality Guideline', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
               f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
               f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
     handles = [hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
+
     if year == 2020:
-        labels = ['AQG', 'Shutdown', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
+        labels = ['Air Quality Guideline', 'Initial Lockdown', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
                   f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
                   f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
         vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Initial Lockdown')
         handles = [vline, hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
+
     fig.legend(
         handles,
         labels=labels,
@@ -93,5 +96,4 @@ def scatter_plot(city, year):
 
 
 if __name__ == "__main__":
-    scatter_plot('Beijing', 2019)
-    scatter_plot('Beijing', 2020)
+    scatter_plot('Wuhan', 2020)

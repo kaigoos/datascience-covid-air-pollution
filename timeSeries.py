@@ -57,5 +57,4 @@ def timeSeries(city, year1, year2 = None):
 
 if __name__ == "__main__":
     #TODO: For some reason if you do 2 years, we have to do 2020, 2019
-    timeSeries('Wuhan', 2020)
-    
+    timeSeries('Wuhan', 2020, 2019)
