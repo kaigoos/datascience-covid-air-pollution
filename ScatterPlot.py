@@ -72,7 +72,7 @@ def scatter_plot(city, year):
     ax.set_xlim([datetime.date(year, 1, 1), datetime.date(year, 8, 1)])
     plt.title(f'{city} {year} PM2.5 Levels')
 
-    hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='AQG')
+    hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
     vline = None
     labels = ['AQG', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
               f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
@@ -82,7 +82,7 @@ def scatter_plot(city, year):
         labels = ['AQG', 'Shutdown', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
                   f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
                   f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
-        vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Shutdown')
+        vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Initial Lockdown')
         handles = [vline, hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
     fig.legend(
         handles,

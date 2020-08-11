@@ -37,7 +37,8 @@ def timeSeries(city, year1, year2 = None):
         plt.title(f'{city} {year1} & {year2} PM2.5 Levels', fontsize = 20)
     else:
         plt.title(f'{city} {year1} PM2.5 Levels', fontsize = 20)
-    plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Shutdown')
+    plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Initial Lockdown')
+    plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
 
     def update(num):
         line1.set_data(x1[:num], y1[:num])
