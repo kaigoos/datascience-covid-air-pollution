@@ -14,6 +14,9 @@ def linePlot(city, year, year2=None):
     x = [datetime.datetime(year, month, date) for (year, month, date) in zip(df['Year'], df['Month'], df['Date'])]
     y = [ConcPM25(data) for data in df['median']]
 
+    plt.plot(x, y, label=year)
+    ax = plt.subplot()
+
     if year2 != None:
         df2 = pd.read_csv(f'./CSV/Modified/{city}-{year2}.csv')
         df2 = df2.sort_values(by=['Month', 'Date'])
@@ -22,13 +25,6 @@ def linePlot(city, year, year2=None):
         x_prev = [datetime.datetime(year, month, date) for (year, month, date) in zip(df['Year'], df2['Month'], df2['Date'])]
         y_prev = [ConcPM25(data) for data in df2['median']]
         plt.plot(x_prev, y_prev, label=year2)
-
-    plt.plot(x, y, label=year)
-    ax = plt.subplot()
-
-    # ranges = [0, 15, 40, 65, 150, 250, 350, 500]
-    # count = df['median'].groupby(pd.cut(y, ranges)).count()
-    # print(count)
 
     plt.xlabel('Month',fontsize = 14)
     plt.ylabel('PM$_{2.5}$(\u03BCg/m$^3$)', fontsize = 14)
