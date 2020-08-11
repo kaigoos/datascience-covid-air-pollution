@@ -32,7 +32,8 @@ def linePlot(city, year, year2=None):
         plt.title(f'{city} {year} & {year2} PM2.5 Levels', fontsize = 20)
     else:
         plt.title(f'{city} {year} PM2.5 Levels', fontsize = 20)
-    plt.axvline(x=shutDownDate(city), color='black', linestyle='dashed', label='Initial Lockdown')
+    if (str(year) == '2020' or str(year2) == '2020'):
+        plt.axvline(x=shutDownDate(city), color='black', linestyle='dashed', label='Initial Lockdown')
     plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
 
     Formatter = mdates.DateFormatter("%B")
