@@ -82,7 +82,7 @@ class MainWindow(Tk):
         elif(self.graph == 'Line'):
             linePlot(self.city, self.year, self.year2)
         elif(self.graph == 'Scatter'):
-            scatter_plot(self.city, self.year)
+            scatter_plot(self.city, int(self.year))
         elif(self.graph == 'Time-Series'):
             timeSeries(self.city, self.year, self.year2)
         
