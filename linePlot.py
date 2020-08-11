@@ -16,8 +16,12 @@ def linePlot(city, year):
     plt.plot(x, y)
     ax = plt.subplot()
 
+    # ranges = [0, 15, 40, 65, 150, 250, 350, 500]
+    # count = df['median'].groupby(pd.cut(y, ranges)).count()
+    # print(count)
+
     plt.xlabel('Month',fontsize = 14)
-    plt.ylabel('PM2.5 (μg/m$^3$)', fontsize = 14)
+    plt.ylabel('PM$_{2.5}$(\u03BCg/m$^3$)', fontsize = 14)
     plt.title(f'{city} {year} PM2.5 Levels', fontsize = 20)
     plt.axvline(x=shutDownDate(city), color = 'black', linestyle='dashed', label='Shutdown')
 
