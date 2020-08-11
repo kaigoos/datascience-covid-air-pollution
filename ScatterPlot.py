@@ -6,8 +6,8 @@ import datetime
 from aqitopm25 import ConcPM25, shutDownDate
 
 
-def scatter_plot(city, year):
-    df = pd.read_csv(f'./CSV/Modified/{city}-{year}.csv')
+def scatter_plot(city, year_1):
+    df = pd.read_csv(f'./CSV/Modified/{city}-{year_1}.csv')
 
     good_data = []
     good_date = []
@@ -69,8 +69,8 @@ def scatter_plot(city, year):
     ax.xaxis.set_major_formatter(formatter)
     ax.set_xlabel("Date", fontsize=14)
     ax.set_ylabel("PM$_{2.5}$(\u03BCg/m$^3$)", fontsize=14)
-    ax.set_xlim([datetime.date(year, 1, 1), datetime.date(year, 8, 1)])
-    plt.title(f'{city} {year} PM2.5 Levels', fontsize=20)
+    ax.set_xlim([datetime.date(year_1, 1, 1), datetime.date(year_1, 8, 1)])
+    plt.title(f'{city} {year_1} PM2.5 Levels', fontsize=20)
 
     hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='Air Quality Guideline')
     vline = None
@@ -96,4 +96,4 @@ def scatter_plot(city, year):
 
 
 if __name__ == "__main__":
-    scatter_plot('Wuhan', 2020)
+    scatter_plot('Los_Angeles', 2020)
