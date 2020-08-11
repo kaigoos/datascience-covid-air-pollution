@@ -74,11 +74,14 @@ def scatter_plot(city, year):
 
     hline = plt.axhline(y=10, color='#bfbfbf', linestyle=':', label='AQG')
     vline = None
-    labels = ['AQG', 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy', 'Very Unhealthy', 'Hazardous']
+    labels = ['AQG', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
+              f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
+              f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
     handles = [hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
     if year == 2020:
-        labels = ['Shutdown', 'AQG', 'Good', 'Moderate', 'Unhealthy for Sensitive Groups', 'Unhealthy',
-                  'Very Unhealthy', 'Hazardous']
+        labels = ['Shutdown', 'AQG', f'Good: {len(good_data)}', f'Moderate: {len(moderate_data)}',
+                  f'Unhealthy for Sensitive Groups: {len(sensitive_data)}', f'Unhealthy: {len(unhealthy_data)}',
+                  f'Very Unhealthy: {len(very_unhealthy_data)}', f'Hazardous: {len(hazardous_data)}']
         vline = plt.axvline(x=shutDownDate(city), color='gray', linestyle='dashed', label='Shutdown')
         handles = [vline, hline, g_ax, m_ax, s_ax, uh_ax, vuh_ax, h_ax],
     fig.legend(
@@ -91,3 +94,4 @@ def scatter_plot(city, year):
 
 if __name__ == "__main__":
     scatter_plot('Beijing', 2019)
+    scatter_plot('Beijing', 2020)
