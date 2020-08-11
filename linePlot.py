@@ -11,7 +11,7 @@ def linePlot(city, year, year2=None):
     df = df.sort_values(by=['Month', 'Date'])
     df = df.loc[df['Month'] < 8]
 
-    x = [datetime.datetime(year, month, date) for (year, month, date) in zip(df['Year'], df['Month'], df['Date'])]
+    x = [datetime.datetime(2020, month, date) for (month, date) in zip(df['Month'], df['Date'])]
     y = [ConcPM25(data) for data in df['median']]
 
     plt.plot(x, y, label=year)
@@ -22,7 +22,7 @@ def linePlot(city, year, year2=None):
         df2 = df2.sort_values(by=['Month', 'Date'])
         df2 = df2.loc[df2['Month'] < 8]
 
-        x_prev = [datetime.datetime(year, month, date) for (year, month, date) in zip(df['Year'], df2['Month'], df2['Date'])]
+        x_prev = [datetime.datetime(2020, month, date) for (month, date) in zip(df2['Month'], df2['Date'])]
         y_prev = [ConcPM25(data) for data in df2['median']]
         plt.plot(x_prev, y_prev, label=year2)
 
