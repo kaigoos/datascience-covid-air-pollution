@@ -63,7 +63,7 @@ def scatter_plot(city, year):
     if very_unhealthy_data:
         vuh_ax = sn.scatterplot(very_unhealthy_date, very_unhealthy_data, color="purple", ax=ax)
     if hazardous_data:
-        h_ax = sn.scatterplot(hazardous_date, hazardous_data, color="darkred", ax=ax)
+        h_ax = sn.scatterplot(hazardous_date, hazardous_data, color="maroon", ax=ax)
 
     formatter = mdates.DateFormatter("%B")
     ax.xaxis.set_major_formatter(formatter)

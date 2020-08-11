@@ -1,5 +1,8 @@
 import datetime
 
+"""
+All credit for InvLinear and ConcPM25 go to airnow.gov and their aqi-conc.js file
+"""
 def InvLinear(AQIhigh, AQIlow, Conchigh, Conclow, a):
     return ((a - AQIlow) / (AQIhigh - AQIlow)) * (Conchigh - Conclow) + Conclow
 
